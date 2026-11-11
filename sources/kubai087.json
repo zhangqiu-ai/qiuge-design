@@ -1,0 +1,1343 @@
+{
+  "schema_version": 1,
+  "account": "Kubai087",
+  "profile_url": "https://x.com/Kubai087",
+  "checked_at_utc": "2026-11-11T16:50:22.393279+00:00",
+  "automation": {
+    "id": "ui-ux",
+    "status": "ACTIVE",
+    "time_zone": "Asia/Shanghai",
+    "local_time": "09:00",
+    "frequency": "daily"
+  },
+  "coverage": {
+    "case_count": 78,
+    "series_cards": 15,
+    "other_cards": 63,
+    "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
+    "discovery_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "indexed_items_checked": 158,
+    "indexed_items_collected_or_merged": 98,
+    "indexed_items_not_selected": 60,
+    "indexed_item_date_range_utc": [
+      "2025-10-31T03:10:39.000Z",
+      "2026-11-11T09:25:46.000Z"
+    ],
+    "full_account_history_complete": false,
+    "limitation": "Public discovery pages are not a complete account export. Chrome tab reading timed out; public profile HTML exposes only a small recent sample. Do not infer coverage of every post in the date range.",
+    "exclusive_incremental_boundary": null
+  },
+  "series": {
+    "name": "999 個小技巧，讓你 Vibe 的產品更有質感",
+    "confirmed_numbers": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "012",
+      "014",
+      "015"
+    ],
+    "latest_confirmed_number": "015",
+    "unconfirmed_numbers_within_001_015": [
+      "013"
+    ],
+    "unnumbered_candidate": {
+      "post_id": "2119359092334743735",
+      "card": "kubai-999-unnumbered-shockwave",
+      "suspected_number": "013",
+      "number_verified": false
+    },
+    "note": "999 is the series name, not a claim that 999 posts have been published."
+  },
+  "media": {
+    "images": 371,
+    "videos": 52,
+    "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
+  },
+  "processed_posts": {
+    "2120442942557216805": {
+      "decision": "not_selected",
+      "discovery_title": "Resend 如何让 Claude Code 主动推荐自家产品",
+      "reason": "產品獲推薦／SEO 行銷轉推，非 UI/UX 或前端設計案例。",
+      "verification": "official_public_post"
+    },
+    "2120447885108240720": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-crommacode-pixel-ui"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120215002594587073": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120362989849366844": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-magazine-design-notes"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120394788755341636": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-icon-asset-release"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120413488850067696": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ai-writing-panel"
+      ],
+      "verification": "official_public_post"
+    },
+    "2119990449415065836": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-014-card-deletion"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120003271997932030": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-playful-download-progress"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120001735817355424": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 宣布更名 \"Mr. KUBAI\" 并获 Mr. Will 点赞",
+      "reason": "改名／社交互動，沒有設計內容。",
+      "verification": "official_public_post"
+    },
+    "2120110508909133962": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120165087478755459": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-health-app-icons"
+      ],
+      "verification": "official_public_post"
+    },
+    "2119957838315548977": {
+      "decision": "not_selected",
+      "discovery_title": "Rion Wu 预告新作品“超级3D城市”系列：数百座历史与现代城市可一键建模",
+      "reason": "他人 3D 城市素材／生成宣傳轉推，不屬此工作流的介面或圖標設計。",
+      "verification": "official_public_post"
+    },
+    "2119792705563942925": {
+      "decision": "not_selected",
+      "discovery_title": "见识小红书“许愿式编程”：网友直呼眼熟",
+      "reason": "僅調侃界面眼熟，缺少可操作的 UI 分析。",
+      "verification": "official_public_post"
+    },
+    "2119695083926966428": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-card-illustration-resources"
+      ],
+      "verification": "official_public_post"
+    },
+    "2119659302789206239": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 预告明天开源动态图标库，正在修补网页细节",
+      "reason": "僅自家圖標庫網址／預告，併入正式發布線索，不獨立作候選。",
+      "verification": "official_public_post"
+    },
+    "2119662437100347810": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-interactive-data-visualization"
+      ],
+      "verification": "official_public_post"
+    },
+    "2119455055380377627": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 明日开源动态图标库，正在修补网页细节",
+      "reason": "圖標庫開源前預告，沒有具體設計方法；併入正式發布。",
+      "verification": "official_public_post"
+    },
+    "2119430740811337835": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-card-illustration-resources"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118863171134062952": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-canvas-vector-interactions"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118741509935972515": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-day-night-artwork"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118700862860361895": {
+      "decision": "not_selected",
+      "discovery_title": "Vigo Zhao 分享 VISUAL OS 108 视觉风格提示词",
+      "reason": "純 VISUAL OS 108 藝術海報提示詞，依最新範圍排除，沒有具體 UI/UX／介面用途。",
+      "verification": "official_public_post"
+    },
+    "2118685706315039039": {
+      "decision": "not_selected",
+      "discovery_title": "Qwen：The becoming begins——我喜欢这个抖出来的包袱",
+      "reason": "僅對 Qwen 宣傳包袱的感想，沒有介面設計細節。",
+      "verification": "official_public_post"
+    },
+    "2118641010821767214": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-012-message-bubble"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118638510416798039": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-anti-slop-review"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118565452356206892": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 评价 Jacky 是把 Obsidian 玩得最转的人之一",
+      "reason": "稱讚他人 Obsidian 用法，沒有具體操作或設計工作流。",
+      "verification": "official_public_post"
+    },
+    "2118570408953987093": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-999-015-continuity"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118582684008251830": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-portrait-skeuomorphic-components"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118544841466671420": {
+      "decision": "not_selected",
+      "discovery_title": "Grok bot 与 Obsidian 联动：定期帮你打理未深入探索的笔记",
+      "reason": "Obsidian／Grok 筆記助理功能轉推，缺少 UI/UX 設計方法。",
+      "verification": "official_public_post"
+    },
+    "2118314393524109721": {
+      "decision": "not_selected",
+      "discovery_title": "独立产品极简上线方案：除域名外几乎零成本搭建带登录和数据库的网站",
+      "reason": "他人部署、域名、登入與資料庫成本方案，偏基礎設施，非設計工作流。",
+      "verification": "official_public_post"
+    },
+    "2118169900229550257": {
+      "decision": "not_selected",
+      "discovery_title": "quiet.md 正式开源：兼容飞书文档格式的本地高性能富文本编辑器",
+      "reason": "他人文字編輯器發布與效能宣傳，沒有 Kubai 具體介面分析。",
+      "verification": "official_public_post"
+    },
+    "2118148787436986652": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-timeline-content-interactions"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118171038454604136": {
+      "decision": "not_selected",
+      "discovery_title": "枯白啃设计分享让 AI 中文写作更自然的小技巧",
+      "reason": "AI 中文寫作遣詞建議，非 UI/UX／前端設計。",
+      "verification": "official_public_post"
+    },
+    "2118188266025553929": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post"
+    },
+    "2118297216079343865": {
+      "decision": "not_selected",
+      "discovery_title": "Design Engineer Notes 网站上线，域名 denotes.dev",
+      "reason": "他人網站上線消息，沒有具體設計分析。",
+      "verification": "official_public_post"
+    },
+    "2118031038664601956": {
+      "decision": "not_selected",
+      "discovery_title": "图标设计师枯白自我介绍：分享 Vibe Design 技巧并发布 Kubai Icons Skill",
+      "reason": "自我介紹與系列／圖標 Skill 宣傳；以實際 Skill 帖為候選，不另收人物介紹。",
+      "verification": "official_public_post"
+    },
+    "2118035620761309486": {
+      "decision": "not_selected",
+      "discovery_title": "Vigo Zhao 发布 VISUAL OS 106 视觉提示词系列",
+      "reason": "純 VISUAL OS 106 藝術海報提示詞，依最新範圍排除。",
+      "verification": "official_public_post"
+    },
+    "2118014184877428821": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117985897492975946": {
+      "decision": "not_selected",
+      "discovery_title": "Ian 课程在线交互文档网站初稿完成",
+      "reason": "他人課程網站初稿進度，沒有可核實設計細節。",
+      "verification": "official_public_post"
+    },
+    "2117889677915263042": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-mascot-icon-composition"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117863441277005952": {
+      "decision": "not_selected",
+      "discovery_title": "我的提示词被 GoSailGlobal 网站收录啦？",
+      "reason": "自己的提示詞被網站收錄的消息，沒有提示詞正文或設計分析。",
+      "verification": "official_public_post"
+    },
+    "2117792509690834986": {
+      "decision": "not_selected",
+      "discovery_title": "枯白老师的 skill 用 Codex 也能跑出不错效果",
+      "reason": "他人／本人對 Skill 的簡短模型效果回饋，缺少新增設計方法；併入 Skill 主帖。",
+      "verification": "official_public_post"
+    },
+    "2117814235363418439": {
+      "decision": "not_selected",
+      "discovery_title": "转发 Ian (伊恩) 的 X 文章链接",
+      "reason": "純轉發 X 文章連結，索引沒有正文或具體評論。",
+      "verification": "official_public_post"
+    },
+    "2117824641385505133": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-voice-input-ui"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117840330712334480": {
+      "decision": "not_selected",
+      "discovery_title": "图标设计师枯白介绍 Vibe Design 技巧分享与 Kubai Icons Skill 动态图标生成",
+      "reason": "自我介紹與既有系列／Skill 宣傳，併入實際作品與方法帖。",
+      "verification": "official_public_post"
+    },
+    "2117289556408246331": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-asset-release"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117434761484595464": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-009-overlay-selection"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117489871791206700": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-functional-icon-states"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117516504149499960": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-reference-to-figma"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117604194261844259": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 转发 Ian（伊恩）的文章链接",
+      "reason": "純轉發 Ian 文章連結，沒有正文或補充。",
+      "verification": "official_public_post"
+    },
+    "2117125759487934952": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-functional-icon-states"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117132891524325877": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-glass-background-comparison"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117085124240248908": {
+      "decision": "not_selected",
+      "discovery_title": "博主推荐：Kubai 专攻 Vibe 设计美学技巧，破解 AI 写代码产品「缺乏美感」难题",
+      "reason": "他人推薦 Kubai 的宣傳轉推；含圖標主帖線索，以原方法帖為準。",
+      "verification": "official_public_post"
+    },
+    "2116926100215578906": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-animated-bento"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116900253068857572": {
+      "decision": "not_selected",
+      "discovery_title": "Vigo Zhao 展示 VISUAL OS 103 系列视觉海报并附提示词",
+      "reason": "純 VISUAL OS 103 視覺海報與提示詞，依最新範圍排除。",
+      "verification": "official_public_post"
+    },
+    "2116879049255731385": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-webgl-letter-wallpaper"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116790156565107048": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-openlogi-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116815254202278142": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-rove-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "2117507051048047039": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-rove-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116767986694713839": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-product-design-stages"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116732047553335479": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-hover-shortcut-teaching"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116729725985173851": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-007-typography"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116716131553865734": {
+      "decision": "not_selected",
+      "discovery_title": "转发 Ian（伊恩）的文章链接",
+      "reason": "純轉發 Ian 文章連結，索引沒有正文或補充。",
+      "verification": "official_public_post"
+    },
+    "2116484983183552577": {
+      "decision": "not_selected",
+      "discovery_title": "伊恩老师的课程推荐",
+      "reason": "僅推薦課程，沒有課程內容或自己的設計方法。",
+      "verification": "official_public_post"
+    },
+    "2116490423535542341": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 转发 Vigo Zhao「Surprise & 08」帖文",
+      "reason": "他人短語／素材轉推，缺少可辨識設計問題與方法。",
+      "verification": "official_public_post"
+    },
+    "2116406219498009049": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-figma-agent-canvas"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116378364504314150": {
+      "decision": "not_selected",
+      "discovery_title": "太炫了：新款入场动画演示，做软件和呼吸一样简单",
+      "reason": "對他人入場動效僅稱讚，沒有具體設計評論。",
+      "verification": "official_public_post"
+    },
+    "2116378455571091744": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-nero-motion-components"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116379042899468731": {
+      "decision": "not_selected",
+      "discovery_title": "国行 iPhone 的 Apple 智能确定 11 月 4 日开启测试，接入阿里千问",
+      "reason": "Apple 智能測試消息轉推，非 UI/UX 設計分享。",
+      "verification": "official_public_post"
+    },
+    "2116198373040759107": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-006-book-card"
+      ],
+      "verification": "official_embed_plus_secondary_text"
+    },
+    "2116107487250362777": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-gliner-ui-concept"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116086352139919700": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-gradients-textures"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116061760168063407": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-001-tactile-buttons"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116036785411416239": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-iterx-logo"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116046098305540421": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 预告即将发布新内容，并附带可直接嵌入落地页的新形状素材",
+      "reason": "落地頁形狀素材的發布預告，未見完成方法或使用細節。",
+      "verification": "official_public_post"
+    },
+    "2115970900835311795": {
+      "decision": "not_selected",
+      "discovery_title": "ELYTerminal 0.2.0 发布，成第三个支持 Kitty 图形协议的终端",
+      "reason": "他人終端版本更新與協議／效能宣傳，缺少 Kubai 設計評論。",
+      "verification": "official_public_post"
+    },
+    "2115972477109379521": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-texture-color-blending"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115983333217939953": {
+      "decision": "not_selected",
+      "discovery_title": "《999 个小技巧，让你 vibe 的产品更有质感》系列日更中",
+      "reason": "999 系列總覽／宣傳，含嵌套圓角例子；交由系列工作流。",
+      "verification": "official_public_post"
+    },
+    "2115832450937241961": {
+      "decision": "not_selected",
+      "discovery_title": "设计博主枯白啃设计关注数破 5000，分享 APP ICON 灵感与 Vibe 质感设计栏目",
+      "reason": "漲粉／客戶數與系列宣傳，不以成長數據作設計案例。",
+      "verification": "official_public_post"
+    },
+    "2115838113935450457": {
+      "decision": "not_selected",
+      "discovery_title": "GrokBot 被低估的情绪价值型个人助理，特别适合 J 人",
+      "reason": "對助理情緒價值的泛評論，非具體介面設計。",
+      "verification": "official_public_post"
+    },
+    "2115813977511075942": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ai-icon-refinement"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115823717024735708": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-005-drag-sort"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115791167120101861": {
+      "decision": "not_selected",
+      "discovery_title": "Marcel 演示从创意到设计再到动画的流程",
+      "reason": "保留「轉發線索」：可見摘錄為「RT Marcel」，原作者／原始帖 ID 待核對；不把 Kubai 當作品作者。設計線索：他人從構想到設計再到動效的展示，只有轉推。",
+      "verification": "official_public_post"
+    },
+    "2115805314083918178": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-gradients-textures"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115754923770212752": {
+      "decision": "not_selected",
+      "discovery_title": "求推荐面向 freelancer 的收款平台：支持合法提现到 Wise、费率合理",
+      "reason": "自由工作者收款／費率提問，非設計案例。",
+      "verification": "official_public_post"
+    },
+    "2115766256913785271": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-video-to-ascii-animation"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115748146907422740": {
+      "decision": "not_selected",
+      "discovery_title": "Grokbot 推出 pages 和 dashboards：演示 5 个实用面板玩法",
+      "reason": "Grok dashboards 更新轉推，沒有自己的 UI/UX 評論。",
+      "verification": "official_public_post"
+    },
+    "2115733832163000580": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-animated-bento"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115722096898977792": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-praha-ui-gallery"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115684054339403939": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-zahra-ui-components"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115674219602452656": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ai-icon-refinement"
+      ],
+      "verification": "official_public_post"
+    },
+    "2116831087947346291": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ai-icon-refinement"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115667328017051906": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-app-store-banner-reference"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115646196933071288": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 转发推荐 @ZaynHao 的 X 账号",
+      "reason": "推薦關注帳號與關注數，非設計案例。",
+      "verification": "official_public_post"
+    },
+    "2115634656691536062": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 转发 Ian (伊恩) 的文章链接",
+      "reason": "純轉發 Ian 文章連結，索引沒有正文。",
+      "verification": "official_public_post"
+    },
+    "2115621084271939958": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-kaze-nondisruptive-browser"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115622958312157696": {
+      "decision": "not_selected",
+      "discovery_title": "Google AI Mode 开放 connected app，开发者可将应用接入 Gemini 与搜索",
+      "reason": "Google connected app 接入新聞，非設計工作流。",
+      "verification": "official_public_post"
+    },
+    "2115622378604740797": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-agent-ui-review"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115492771054358604": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-design-judgment-tools"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115435053799121387": {
+      "decision": "not_selected",
+      "discovery_title": "FeiZ 分享内容被赞“太帅”，网友称风格与 Kimi 相似",
+      "reason": "對他人效果稱讚／類似 Kimi 的短評，沒有可操作方法。",
+      "verification": "official_public_post"
+    },
+    "2115434922496401625": {
+      "decision": "not_selected",
+      "discovery_title": "第一个",
+      "reason": "只回答會先點第一個，未說明設計判斷或取捨。",
+      "verification": "official_public_post"
+    },
+    "2115468318010405285": {
+      "decision": "not_selected",
+      "discovery_title": "VISUAL OS 100 视觉模板分享：两人共书的 BOOK BRIDGE 等场景，附 ZenMux 万圣节 Trick or Tokens 活动",
+      "reason": "純 VISUAL OS 100 藝術場景提示詞與活動廣告，依最新範圍排除。",
+      "verification": "official_public_post"
+    },
+    "2115443446400032916": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-luwei-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115455949016359112": {
+      "decision": "not_selected",
+      "discovery_title": "芦苇：基于 RSS 的内容聚合平台，可寻找、筛选并分享优质博客信息源",
+      "reason": "蘆葦產品介紹／開發者發布，缺少 Kubai 具體介面方法；併入圖標原帖。",
+      "verification": "official_public_post"
+    },
+    "2115469767650021796": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-004-nested-continuous-corners"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115482110681292998": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-squircle-fallback"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115380423497028081": {
+      "decision": "not_selected",
+      "discovery_title": "期待一波全新面孔：一张图描述产品全部的秘密",
+      "reason": "對產品預告的期待短評，沒有具體設計方法。",
+      "verification": "official_public_post"
+    },
+    "2115384977227661661": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-alignment-type-hierarchy"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115397054814212434": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-anti-slop-review"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115393082472681875": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-animated-bento"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115121955393478696": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-aave-visual-identity"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115129508118536613": {
+      "decision": "not_selected",
+      "discovery_title": "RT XIN：我的 app 由 Opus 5.5 从零开始写，不会再让其他模型碰代码",
+      "reason": "他人模型使用立場，沒有設計內容。",
+      "verification": "official_public_post"
+    },
+    "2115120709139833009": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-tutti-logo"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115264447250157600": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-figma-matcap-material"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115243997455376432": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-999-002-menu-safe-triangle"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115247182853120484": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-001-tactile-buttons"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115251085833367653": {
+      "decision": "not_selected",
+      "discovery_title": "《999 个小技巧》003：为登录页/卡片添加可控 Dither 与 ASCII 效果教程",
+      "reason": "999 系列 003：Dither 與 ASCII 效果。",
+      "verification": "discovery_only"
+    },
+    "2115254103240818730": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-linux-motion-vocabulary"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115297219524047323": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 调试 icon 素材，等待上线后发布",
+      "reason": "圖標製作中／等待上線的預告，沒有可借鑑方法。",
+      "verification": "official_public_post"
+    },
+    "2115298271694569971": {
+      "decision": "not_selected",
+      "discovery_title": "Zihua 感慨 AI 时代想法最宝贵：平淡小设计也值得动手实现",
+      "reason": "他人 AI 時代想法成本的泛觀點，未見 Kubai 具體評論。",
+      "verification": "official_public_post"
+    },
+    "2115322076995465260": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-interactive-keyboard"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115310558291587258": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-design-judgment-tools"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115342103412892051": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-design-principles-ai"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115341683693154432": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-anti-slop-review"
+      ],
+      "verification": "official_public_post"
+    },
+    "2115368610105610554": {
+      "decision": "not_selected",
+      "discovery_title": "Ian 转发并称「AI 永远赢不了我的团队」",
+      "reason": "他人團隊／AI 的一句話，沒有設計細節。",
+      "verification": "official_public_post"
+    },
+    "2115482538282246176": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-squircle-fallback"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114350354720780333": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ascii-login-reference"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114378773655326873": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-001-tactile-buttons"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114381581376995668": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-asset-release"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114405361881063919": {
+      "decision": "not_selected",
+      "discovery_title": "Lumno 1.2.0 发布",
+      "reason": "Lumno 多語言版本發布通知，沒有功能／設計細節。",
+      "verification": "official_public_post"
+    },
+    "2114407051648725027": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-shift-click-preview"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114325007765848537": {
+      "decision": "not_selected",
+      "discovery_title": "Lumno：一个快捷键搜索标签页、书签和历史记录的浏览器命令栏",
+      "reason": "他人 Lumno 工具推薦，沒有新增設計拆解。",
+      "verification": "official_public_post"
+    },
+    "2114302272423473200": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-arion-onboarding"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114233252009664659": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-empty-state-svg"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114235068529172526": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ascii-daily-new-tab"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114211561539834226": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-ui-sound-reference"
+      ],
+      "verification": "official_public_post"
+    },
+    "2114230044599959689": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-tab-switcher"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113996771991171491": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-airbuild-glass-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113886328169640435": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-design-judgment-tools"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113849121299894727": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-empty-state-svg"
+      ],
+      "verification": "official_embed_plus_secondary_text"
+    },
+    "2113698845242863740": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-shift-click-preview"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113593987160559916": {
+      "decision": "not_selected",
+      "discovery_title": "设计师 Zolplay 合伙人用视频简历求职 Design Engineer 远程职位",
+      "reason": "他人求職／個人履歷轉推，沒有可移植的設計方法。",
+      "verification": "official_public_post"
+    },
+    "2113495146528698844": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-macos-lockscreen"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113464601543311577": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-lumno-search-input"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113313573137236423": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-search-input"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113270383025787196": {
+      "decision": "not_selected",
+      "discovery_title": "吐槽：阿里系产品的液态玻璃设计风格令人难以理解",
+      "reason": "對液態玻璃產品的一般吐槽，沒有具體可操作設計方法。",
+      "verification": "official_public_post"
+    },
+    "2113241980268593422": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-landing-animation-workflow"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113163277421473830": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-fluid-glass-reference"
+      ],
+      "verification": "official_public_post"
+    },
+    "2113091266556936288": {
+      "decision": "not_selected",
+      "discovery_title": "开源项目 Lumno 用户数重回 1.1 万",
+      "reason": "Lumno 用戶數與感謝支持，純成長／宣傳。",
+      "verification": "official_public_post"
+    },
+    "2112367743144231290": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-search-input"
+      ],
+      "verification": "official_public_post"
+    },
+    "2112731876075180141": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-cloudflare-canvas-mark"
+      ],
+      "verification": "official_public_post"
+    },
+    "2112095225699324194": {
+      "decision": "not_selected",
+      "discovery_title": "VibeCoding 有害身心健康，做真正的 Builder 才能掌控一切",
+      "reason": "Vibe Coding 身心／工作感受與手繪圖標的個人感想，缺少方案或方法。",
+      "verification": "official_public_post"
+    },
+    "2112046937931386972": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 谈 Vibe Coding 的即时满足如陷阱：周末手绘两个 icon 方案寻回平静",
+      "reason": "同主題個人感想轉推／重發，沒有具體圖標設計方法。",
+      "verification": "official_public_post"
+    },
+    "2112007298709344475": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-lumno-new-tab-materials"
+      ],
+      "verification": "official_public_post"
+    },
+    "1988855652475646388": {
+      "decision": "supporting_reference",
+      "cards": [
+        "kubai-tracck-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "1988476904958247310": {
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-tracck-icon"
+      ],
+      "verification": "official_public_post"
+    },
+    "1986718090214932697": {
+      "decision": "not_selected",
+      "discovery_title": "Re @wadebryant23 这个画风太喜欢了",
+      "reason": "僅喜歡他人畫風的社交回覆。",
+      "verification": "official_public_post"
+    },
+    "1984591034882707643": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 回应：Figma 好",
+      "reason": "僅「Figma 好」的社交回覆。",
+      "verification": "official_public_post"
+    },
+    "1984095648472559854": {
+      "decision": "not_selected",
+      "discovery_title": "Kubai 回复网友称赞视频生成效果好",
+      "reason": "僅「這個效果真好」的社交回覆，無對象或具體方法。",
+      "verification": "official_public_post"
+    }
+  },
+  "additional_processed_posts": {
+    "2120484329830916286": {
+      "decision": "merged_update",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post"
+    }
+  },
+  "public_profile_snapshot_ids": [
+    "2117840330712334480",
+    "2120510746916446368",
+    "2120484329830916286",
+    "2120447885108240720",
+    "2120394788755341636"
+  ],
+  "repost_aliases": {
+    "2120215002594587073": {
+      "original_id": "2120110508909133962",
+      "original_author": "Kubai087"
+    },
+    "2120413488850067696": {
+      "original_id": "2120409204943114510",
+      "original_author": "ianneo_ai"
+    },
+    "2120003271997932030": {
+      "original_id": "2119975856403816506",
+      "original_author": "ianneo_ai"
+    },
+    "2119695083926966428": {
+      "original_id": "2119694716862357699",
+      "original_author": "ianneo_ai"
+    },
+    "2119662437100347810": {
+      "original_id": "2119660327742931149",
+      "original_author": "ianneo_ai"
+    },
+    "2119430740811337835": {
+      "original_id": "2119422829016031382",
+      "original_author": "ianneo_ai"
+    },
+    "2118863171134062952": {
+      "original_id": "2118861342283305195",
+      "original_author": "ianneo_ai"
+    },
+    "2118148787436986652": {
+      "original_id": "2118148353200677104",
+      "original_author": "ianneo_ai"
+    },
+    "2118014184877428821": {
+      "original_id": "2117605750474428446",
+      "original_author": "Kubai087"
+    },
+    "2117516504149499960": {
+      "original_id": "2117515869354172666",
+      "original_author": "double_asa"
+    },
+    "2117132891524325877": {
+      "original_id": "2117126468425924695",
+      "original_author": "ianneo_ai"
+    },
+    "2116926100215578906": {
+      "original_id": "2116925748720406961",
+      "original_author": "Stv_Lynn"
+    },
+    "2117507051048047039": {
+      "original_id": "2116815254202278142",
+      "original_author": "Kubai087"
+    },
+    "2116767986694713839": {
+      "original_id": "2116760296060801284",
+      "original_author": "ianneo_ai"
+    },
+    "2116086352139919700": {
+      "original_id": "2116085010939920499",
+      "original_author": "ulshhke"
+    },
+    "2115791167120101861": {
+      "original_id": "2115785340740915531",
+      "original_author": "marcelkargul"
+    },
+    "2115733832163000580": {
+      "original_id": "2115393082472681875",
+      "original_author": "Kubai087"
+    },
+    "2115684054339403939": {
+      "original_id": "2115350578415165566",
+      "original_author": "zahragr8r"
+    },
+    "2116831087947346291": {
+      "original_id": "2115674219602452656",
+      "original_author": "Kubai087"
+    },
+    "2115621084271939958": {
+      "original_id": "2115525554527232018",
+      "original_author": "jakevin"
+    },
+    "2115482110681292998": {
+      "original_id": "2115480421677109688",
+      "original_author": "MrWillCom"
+    },
+    "2115264447250157600": {
+      "original_id": "2115149959636865499",
+      "original_author": "todelsz"
+    },
+    "2115243997455376432": {
+      "original_id": "2115208824940589065",
+      "original_author": "sanyampunia"
+    },
+    "2115322076995465260": {
+      "original_id": "2115308735807750176",
+      "original_author": "ianneo_ai"
+    },
+    "2115342103412892051": {
+      "original_id": "2115324574145400996",
+      "original_author": "ianneo_ai"
+    },
+    "2115482538282246176": {
+      "original_id": "2114705204662641038",
+      "original_author": "MrWillCom"
+    },
+    "2115722096898977792": {
+      "original_id": "2115680698057282032",
+      "original_author": "Praha37v"
+    },
+    "2115121955393478696": {
+      "original_id": "2115043533736342006",
+      "original_author": "rebrandgallery"
+    }
+  },
+  "author_prompt_replies": {
+    "007": [
+      "2116555520274493582"
+    ],
+    "011": [
+      "2118143923571048817",
+      "2118144019545067872"
+    ],
+    "014": [
+      "2119831540301692975"
+    ],
+    "015": [
+      "2120321469817483516"
+    ]
+  },
+  "open_card_gaps": {
+    "kubai-999-003-dither-ascii": [
+      "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
+    ],
+    "kubai-999-006-book-card": [
+      "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
+    ],
+    "kubai-999-010-liquid-glass": [
+      "prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt"
+    ],
+    "kubai-999-012-message-bubble": [
+      "prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt"
+    ],
+    "kubai-999-unnumbered-shockwave": [
+      "episode: 原帖及兩個編輯版本均未標示編號；可能對應 013，尚未確認"
+    ],
+    "kubai-ai-icon-refinement": [
+      "attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結"
+    ],
+    "kubai-ascii-login-reference": [
+      "source: 產品正式網址、上線狀態與設計署名待確認"
+    ],
+    "kubai-canvas-vector-interactions": [
+      "images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖",
+      "references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結"
+    ],
+    "kubai-card-illustration-resources": [
+      "assets: 已核對公開 Figma 連結，資源檔內容與使用授權尚未取得"
+    ],
+    "kubai-empty-state-svg": [
+      "primary-full-text: SVG 長文原帖的官方全文未取得，以 FxTwitter 展開內容補充；開源說明已核對官方嵌入全文"
+    ],
+    "kubai-fluid-glass-reference": [
+      "assets: 未收錄完整視覺參考規範"
+    ],
+    "kubai-glass-background-comparison": [
+      "attribution: @davidhaz 靈感原始連結未附於來源封包"
+    ],
+    "kubai-hover-shortcut-teaching": [
+      "attribution: 影片介面原作者與產品名稱未附於來源封包"
+    ],
+    "kubai-icon-asset-release": [
+      "assets: 未收錄工程檔、領取結果與使用授權"
+    ],
+    "kubai-icons-generation-workflow": [
+      "assets: 完整 Skill 風格約束規範尚未取得"
+    ],
+    "kubai-linux-motion-vocabulary": [
+      "author: 原帖未列宣傳片製作者或可核對的原始發布連結"
+    ],
+    "kubai-lumno-new-tab-materials": [
+      "images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖"
+    ],
+    "kubai-macos-lockscreen": [
+      "images: dingyi 發布原帖的附圖未包含於本批 metadata"
+    ],
+    "kubai-reference-to-figma": [
+      "assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證"
+    ],
+    "kubai-timeline-content-interactions": [
+      "images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖",
+      "references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結"
+    ],
+    "kubai-voice-input-ui": [
+      "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
+    ],
+    "kubai-webgl-letter-wallpaper": [
+      "docs: 已核對公開倉庫網址，獨立示範與嵌入文件尚未取得"
+    ]
+  },
+  "next_run": [
+    "Check for new public posts and revisit gaps; deduplicate by source ID and original/repost aliases.",
+    "Use processed_posts for ID lookups instead of loading every card.",
+    "Retain the incomplete full-history status until a complete timeline is actually traversed.",
+    "Do not advance a global boundary after source access failures."
+  ]
+}

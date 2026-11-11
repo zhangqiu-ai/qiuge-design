@@ -15,6 +15,7 @@ qiuge-design/
 
 - **查找**：`rg -n '^(title|tags):' cases` 列出全部卡片，或依標籤、關鍵字搜尋。詳見 [AGENTS.md](AGENTS.md)。
 - **收錄**：複製 [template.md](template.md) 到 `cases/<product>-<flow>/case.md`，截圖放同一目錄。
+- **追蹤來源**：[枯白設計分享的收錄清單與每日追蹤](sources/kubai087.md)，包含 999 小技巧系列、歷史覆蓋範圍與待補資料。
 
 ## 讓其他專案的 Agent 使用
 
