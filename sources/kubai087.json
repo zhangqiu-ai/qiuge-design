@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-11T16:50:22.393279+00:00",
+  "checked_at_utc": "2026-11-11T17:08:57.051020+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -67,7 +67,7 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 371,
+    "images": 376,
     "videos": 52,
     "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
   },
@@ -1126,14 +1126,23 @@
         "kubai-icons-generation-workflow"
       ],
       "verification": "official_public_post"
+    },
+    "2120551252253974750": {
+      "decision": "merged_update",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post_and_sampled_video",
+      "published_at": "2026-11-11T16:16:31+00:00",
+      "media": "5 sampled frames; original post video linked"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
+    "2120551252253974750",
     "2120510746916446368",
     "2120484329830916286",
-    "2120447885108240720",
-    "2120394788755341636"
+    "2120447885108240720"
   ],
   "repost_aliases": {
     "2120215002594587073": {
