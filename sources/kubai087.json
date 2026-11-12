@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-12T16:15:21.393932+00:00",
+  "checked_at_utc": "2026-11-12T17:01:15.331597+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -67,8 +67,8 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 383,
-    "videos": 54,
+    "images": 387,
+    "videos": 55,
     "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
   },
   "processed_posts": {
@@ -1177,15 +1177,32 @@
       ],
       "media": "01-source.mp4 + 4 sampled frames",
       "verification": "official_public_post_and_official_github_repo"
+    },
+    "2120923602031919194": {
+      "decision": "merged_update",
+      "published_at": "2026-11-12T16:56:06+00:00",
+      "initial_tweet_id": "2120923500370374926",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "media": "03-source.mp4 + 2 sampled frames (Partners nav merge, centered dashed slot, Home single-line sponsor row)",
+      "verification": "official_public_post_note_tweet"
+    },
+    "2120923500370374926": {
+      "decision": "edit_history_alias",
+      "canonical_post_id": "2120923602031919194",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "verification": "official_syndication_edit_control"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
+    "2120923602031919194",
     "2120866563184308488",
     "2120830679089090681",
-    "2120765986899132726",
-    "2120707475972538723",
-    "2120362989849366844"
+    "2120765986899132726"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -1378,9 +1395,6 @@
     ],
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
-    ],
-    "kubai-webgl-letter-wallpaper": [
-      "docs: 已核對公開倉庫網址，獨立示範與嵌入文件尚未取得"
     ]
   },
   "next_run": [

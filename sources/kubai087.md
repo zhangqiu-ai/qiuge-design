@@ -4,7 +4,7 @@
 
 目前已收錄 **79 張卡片**：999 系列 15 張，其他設計參考 64 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。首次排程為 2026-11-12 09:00（UTC+8）；這是排程設定，尚未據此宣稱定時觸發已驗證。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，已於 2026-11-13 00:57（UTC+8，對應排程觸發）執行檢查並自動提交推送。
 
 ## 已覆蓋的範圍
 
@@ -13,7 +13,7 @@
 - 第三方索引及 FxTwitter 用於發現原帖、解析轉發或明確標示的長文補充；卡片以可取得的 X 官方原帖／嵌入資料核對來源與素材。
 - 另合併官方主頁樣本中的[最新圖標庫補充](https://x.com/Kubai087/status/2120484329830916286)，保留在既有工作流卡片中。
 - 2026-11-11 補充 [Kubai Icons 22 個圖標展示](https://x.com/Kubai087/status/2120551252253974750)，併入既有圖標工作流卡片並保存五張影格。
-- 2026-11-12 新增 [Kubai Icons 櫥窗式友鏈牆](https://x.com/Kubai087/status/2120866563184308488)（合併同日[友鏈募集帖](https://x.com/Kubai087/status/2120765986899132726)），並將 [9 個戶外動態圖標更新與開源倉庫](https://x.com/Kubai087/status/2120830679089090681)併入既有圖標工作流卡片，補齊 `SKILL.md`／`PROMPT.md` 風格約束規範與三層授權說明；同日[一萬關注感謝帖](https://x.com/Kubai087/status/2120707475972538723)記為不收錄。
+- 2026-11-12 新增 [Kubai Icons 櫥窗式友鏈牆](https://x.com/Kubai087/status/2120866563184308488)（合併同日[友鏈募集帖](https://x.com/Kubai087/status/2120765986899132726)與[同日稍晚 Partners／首頁贊助位迭代](https://x.com/Kubai087/status/2120923602031919194)），並將 [9 個戶外動態圖標更新與開源倉庫](https://x.com/Kubai087/status/2120830679089090681)併入既有圖標工作流卡片，補齊 `SKILL.md`／`PROMPT.md` 風格約束規範與三層授權說明；另回補 [`kubai087/pro-threads`](https://github.com/kubai087/pro-threads) 公開倉庫的即時參數面板與 Web Component 嵌入降級設計；同日[一萬關注感謝帖](https://x.com/Kubai087/status/2120707475972538723)記為不收錄。
 - 全帳戶歷史尚未完整遍歷：Chrome 原分頁讀取持續逾時，公開首頁只提供少量近期內容。這一項保留待回補，不將可見索引當成完整帳戶匯出。
 - [追蹤資料](kubai087.json)保存每則來源的處理結果、轉發映射及缺漏。日後按 status ID 檢索即可，不必一次載入所有卡片。
 
@@ -82,7 +82,7 @@
 | [產品卡片的手繪油畫配圖與資源整理](../cases/kubai-card-illustration-resources/case.md) | visual, content-editing |
 | [價格區間圖的聯動摘要與範圍探索](../cases/kubai-interactive-data-visualization/case.md) | data-display, forms, feedback |
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | content-editing, visual |
-| [WebGL 光線字母壁紙的可調視覺參數](../cases/kubai-webgl-letter-wallpaper/case.md) | visual |
+| [WebGL 光線字母壁紙的可調視覺參數](../cases/kubai-webgl-letter-wallpaper/case.md) | visual, content-editing |
 | [Gliner 概念介面的任務狀態與結果分區](../cases/kubai-gliner-ui-concept/case.md) | data-display, ai-chat, visual |
 | [超橢圓圓角的光學尺寸與 Sass 回退](../cases/kubai-squircle-fallback/case.md) | visual |
 | [機械按鍵的拆解視圖與行程聯動](../cases/kubai-interactive-keyboard/case.md) | data-display, feedback, visual |
@@ -110,7 +110,7 @@
 
 ## 素材與待補
 
-目前已保存 383 張圖片／關鍵幀、54 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 387 張圖片／關鍵幀、55 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
@@ -136,7 +136,6 @@
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證 |
 | [進度色條、逐幀挑選與行旁答案：把變化留在內容附近](../cases/kubai-timeline-content-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結 |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
-| [WebGL 光線字母壁紙的可調視覺參數](../cases/kubai-webgl-letter-wallpaper/case.md) | docs: 已核對公開倉庫網址，獨立示範與嵌入文件尚未取得 |
 
 ## 查找方式
 
