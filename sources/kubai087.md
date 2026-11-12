@@ -2,7 +2,7 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-本批收錄 **78 張卡片**：999 系列 15 張，其他設計參考 63 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **79 張卡片**：999 系列 15 張，其他設計參考 64 張。同一作品與流程的轉發或補充合併保存。
 
 每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。首次排程為 2026-11-12 09:00（UTC+8）；這是排程設定，尚未據此宣稱定時觸發已驗證。
 
@@ -13,6 +13,7 @@
 - 第三方索引及 FxTwitter 用於發現原帖、解析轉發或明確標示的長文補充；卡片以可取得的 X 官方原帖／嵌入資料核對來源與素材。
 - 另合併官方主頁樣本中的[最新圖標庫補充](https://x.com/Kubai087/status/2120484329830916286)，保留在既有工作流卡片中。
 - 2026-11-11 補充 [Kubai Icons 22 個圖標展示](https://x.com/Kubai087/status/2120551252253974750)，併入既有圖標工作流卡片並保存五張影格。
+- 2026-11-12 新增 [Kubai Icons 櫥窗式友鏈牆](https://x.com/Kubai087/status/2120866563184308488)（合併同日[友鏈募集帖](https://x.com/Kubai087/status/2120765986899132726)），並將 [9 個戶外動態圖標更新與開源倉庫](https://x.com/Kubai087/status/2120830679089090681)併入既有圖標工作流卡片，補齊 `SKILL.md`／`PROMPT.md` 風格約束規範與三層授權說明；同日[一萬關注感謝帖](https://x.com/Kubai087/status/2120707475972538723)記為不收錄。
 - 全帳戶歷史尚未完整遍歷：Chrome 原分頁讀取持續逾時，公開首頁只提供少量近期內容。這一項保留待回補，不將可見索引當成完整帳戶匯出。
 - [追蹤資料](kubai087.json)保存每則來源的處理結果、轉發映射及缺漏。日後按 status ID 檢索即可，不必一次載入所有卡片。
 
@@ -74,6 +75,7 @@
 | [Tracck 的日曆角色圖標](../cases/kubai-tracck-icon/case.md) | visual |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | visual |
 | [Kubai Icons 的圖標庫與風格一致生成工作流](../cases/kubai-icons-generation-workflow/case.md) | visual, content-editing |
+| [Kubai Icons：把網站預覽穿插進動態圖標網格的櫥窗式友鏈牆](../cases/kubai-icons-friend-link-wall/case.md) | data-display, navigation, visual |
 | [CrommaCode 的像素工業風與編碼工作區](../cases/kubai-crommacode-pixel-ui/case.md) | visual, data-display |
 | [AI 寫作面板的選取脈絡與採用操作](../cases/kubai-ai-writing-panel/case.md) | content-editing, ai-chat, visual |
 | [用小鎮場景呈現下載進度](../cases/kubai-playful-download-progress/case.md) | feedback, visual |
@@ -108,7 +110,7 @@
 
 ## 素材與待補
 
-本批保存 371 張圖片／關鍵幀、52 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 383 張圖片／關鍵幀、54 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
@@ -128,7 +130,6 @@
 | [固定玻璃參數換背景：先檢查卡片下方的色塊](../cases/kubai-glass-background-comparison/case.md) | attribution: @davidhaz 靈感原始連結未附於來源封包 |
 | [懸停快捷鍵教學：先留回想空間，再顯示提示](../cases/kubai-hover-shortcut-teaching/case.md) | attribution: 影片介面原作者與產品名稱未附於來源封包 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
-| [Kubai Icons 的圖標庫與風格一致生成工作流](../cases/kubai-icons-generation-workflow/case.md) | assets: 完整 Skill 風格約束規範尚未取得 |
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
 | [Orbit Clocks 的時鐘屏保與風格選擇](../cases/kubai-macos-lockscreen/case.md) | images: dingyi 發布原帖的附圖未包含於本批 metadata |

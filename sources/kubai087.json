@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-11T17:08:57.051020+00:00",
+  "checked_at_utc": "2026-11-12T16:15:21.393932+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 78,
+    "case_count": 79,
     "series_cards": 15,
-    "other_cards": 63,
+    "other_cards": 64,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -67,8 +67,8 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 376,
-    "videos": 52,
+    "images": 383,
+    "videos": 54,
     "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
   },
   "processed_posts": {
@@ -1135,14 +1135,57 @@
       "verification": "official_public_post_and_sampled_video",
       "published_at": "2026-11-11T16:16:31+00:00",
       "media": "5 sampled frames; original post video linked"
+    },
+    "2120707475972538723": {
+      "decision": "not_selected",
+      "published_at": "2026-11-12T02:37:17+00:00",
+      "reason": "10,000 關注里程碑感謝帖（引用既有 2120362989849366844），無新 UI/UX 或前端設計內容。",
+      "verification": "official_public_post"
+    },
+    "2120765986899132726": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-12T06:29:47+00:00",
+      "initial_tweet_id": "2120761118176223435",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "media": "1 home-page icon grid screenshot saved as 02-home-grid-origin.jpg",
+      "verification": "official_public_post"
+    },
+    "2120761118176223435": {
+      "decision": "edit_history_alias",
+      "canonical_post_id": "2120765986899132726",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "verification": "official_public_post_edit_control"
+    },
+    "2120830679089090681": {
+      "decision": "merged_update",
+      "published_at": "2026-11-12T10:46:51+00:00",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "media": "05-source.mp4 + 2 sampled frames; linked GitHub repo kubai087/kubai-icons verified SKILL.md, PROMPT.md, LICENSING.md",
+      "verification": "official_public_post_and_official_github_repo"
+    },
+    "2120866563184308488": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-12T13:09:27+00:00",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "media": "01-source.mp4 + 4 sampled frames",
+      "verification": "official_public_post_and_official_github_repo"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2120551252253974750",
-    "2120510746916446368",
-    "2120484329830916286",
-    "2120447885108240720"
+    "2120866563184308488",
+    "2120830679089090681",
+    "2120765986899132726",
+    "2120707475972538723",
+    "2120362989849366844"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -1316,9 +1359,6 @@
     ],
     "kubai-icon-asset-release": [
       "assets: 未收錄工程檔、領取結果與使用授權"
-    ],
-    "kubai-icons-generation-workflow": [
-      "assets: 完整 Skill 風格約束規範尚未取得"
     ],
     "kubai-linux-motion-vocabulary": [
       "author: 原帖未列宣傳片製作者或可核對的原始發布連結"
