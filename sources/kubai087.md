@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **79 張卡片**：999 系列 15 張，其他設計參考 64 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **82 張卡片**：999 系列 16 張，其他設計參考 66 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，已於 2026-11-13 00:57（UTC+8，對應排程觸發）執行檢查並自動提交推送。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
 
 ## 已覆蓋的範圍
 
@@ -14,12 +14,13 @@
 - 另合併官方主頁樣本中的[最新圖標庫補充](https://x.com/Kubai087/status/2120484329830916286)，保留在既有工作流卡片中。
 - 2026-11-11 補充 [Kubai Icons 22 個圖標展示](https://x.com/Kubai087/status/2120551252253974750)，併入既有圖標工作流卡片並保存五張影格。
 - 2026-11-12 新增 [Kubai Icons 櫥窗式友鏈牆](https://x.com/Kubai087/status/2120866563184308488)（合併同日[友鏈募集帖](https://x.com/Kubai087/status/2120765986899132726)與[同日稍晚 Partners／首頁贊助位迭代](https://x.com/Kubai087/status/2120923602031919194)），並將 [9 個戶外動態圖標更新與開源倉庫](https://x.com/Kubai087/status/2120830679089090681)併入既有圖標工作流卡片，補齊 `SKILL.md`／`PROMPT.md` 風格約束規範與三層授權說明；另回補 [`kubai087/pro-threads`](https://github.com/kubai087/pro-threads) 公開倉庫的即時參數面板與 Web Component 嵌入降級設計；同日[一萬關注感謝帖](https://x.com/Kubai087/status/2120707475972538723)記為不收錄。
+- 2026-11-13 新增 999 系列第 016 期 [Toast 與 Notification 區分規範](https://x.com/Kubai087/status/2120682993563922586)（含[同日自轉發](https://x.com/Kubai087/status/2120871815690232068)與[直接回覆 Prompt](https://x.com/Kubai087/status/2120685913441456371)）、[網頁工作台首屏構圖參考](https://x.com/Kubai087/status/2121125744038543539)（合併同日轉發的 [Hassan Agent 首屏探索](https://x.com/uixhassan/status/2120939691310727279)）與 [Ian 粒子輸入框至結果卡片變形過渡](https://x.com/ianneo_ai/status/2121158070994878740)，並將 [Kubai Icons 0.8.0 更新（9 個庭院園藝圖標與 Web Component 支援）](https://x.com/Kubai087/status/2121123775051891148)併入既有圖標工作流卡片；另三則非介面設計互動／純視覺藝術轉推（[狀態互動](https://x.com/Kubai087/status/2120702617710121366)、[遊戲插畫轉推](https://x.com/Kubai087/status/2120711253962457127)、[3JS 視覺藝術轉推](https://x.com/Kubai087/status/2121201471106785455)）核對後記為不收錄。
 - 全帳戶歷史尚未完整遍歷：Chrome 原分頁讀取持續逾時，公開首頁只提供少量近期內容。這一項保留待回補，不將可見索引當成完整帳戶匯出。
 - [追蹤資料](kubai087.json)保存每則來源的處理結果、轉發映射及缺漏。日後按 status ID 檢索即可，不必一次載入所有卡片。
 
 ## 999 小技巧系列
 
-已確認篇號為 001–012、014、015。另有一篇同系列衝擊波教學，原帖及兩個編輯版本均未標號，保留為「未標號」，未直接指派 013。999 是系列名稱。
+已確認篇號為 001–012、014–016。另有一篇同系列衝擊波教學，原帖及兩個編輯版本均未標號，保留為「未標號」，未直接指派 013。999 是系列名稱。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -37,6 +38,7 @@
 | 012 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | [X](https://x.com/Kubai087/status/2118508433704169726) |
 | 014 | [枯白 014：把卡片離場與列表補位設計成完整過程](../cases/kubai-999-014-card-deletion/case.md) | [X](https://x.com/Kubai087/status/2119831380276523207) |
 | 015 | [枯白 015：用共享元素連接操作前後的介面狀態](../cases/kubai-999-015-continuity/case.md) | [X](https://x.com/Kubai087/status/2120320609255043510) |
+| 016 | [枯白 016：依觸發來源與是否需後續處理區分 Toast 與 Notification](../cases/kubai-999-016-toast-vs-notification/case.md) | [X](https://x.com/Kubai087/status/2120682993563922586) |
 | 未標號（013 候選） | [999 小技巧（未標號）：具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | [X](https://x.com/Kubai087/status/2119359092334743735) |
 
 ## 其他設計卡片
@@ -107,10 +109,12 @@
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | visual |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | feedback, onboarding, forms |
 | [imperry：先生成動作影片，再轉為首頁 ASCII 動畫](../cases/kubai-video-to-ascii-animation/case.md) | visual, content-editing |
+| [網頁工作台首屏參考：用真實介面局部或可互動指令框取代抽象宣傳圖](../cases/kubai-hassan-workbench-hero-sections/case.md) | onboarding, visual, data-display, ai-chat |
+| [生成式介面等待過渡：把輸入框粒子揉成光團再展開為結果卡片](../cases/kubai-ian-prompt-to-card-morph/case.md) | feedback, ai-chat, visual, forms |
 
 ## 素材與待補
 
-目前已保存 387 張圖片／關鍵幀、55 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 403 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
@@ -129,6 +133,7 @@
 | [流光玻璃的控件示例與視覺參考規範](../cases/kubai-fluid-glass-reference/case.md) | assets: 未收錄完整視覺參考規範 |
 | [固定玻璃參數換背景：先檢查卡片下方的色塊](../cases/kubai-glass-background-comparison/case.md) | attribution: @davidhaz 靈感原始連結未附於來源封包 |
 | [懸停快捷鍵教學：先留回想空間，再顯示提示](../cases/kubai-hover-shortcut-teaching/case.md) | attribution: 影片介面原作者與產品名稱未附於來源封包 |
+| [生成式介面等待過渡：把輸入框粒子揉成光團再展開為結果卡片](../cases/kubai-ian-prompt-to-card-morph/case.md) | attribution: 原帖僅致謝 @dominikmartn，未附原始靈感貼文連結 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |

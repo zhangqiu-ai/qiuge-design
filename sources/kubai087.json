@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-12T17:01:15.331597+00:00",
+  "checked_at_utc": "2026-11-13T18:54:24.719836+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 79,
-    "series_cards": 15,
-    "other_cards": 64,
+    "case_count": 82,
+    "series_cards": 16,
+    "other_cards": 66,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -52,9 +52,10 @@
       "011",
       "012",
       "014",
-      "015"
+      "015",
+      "016"
     ],
-    "latest_confirmed_number": "015",
+    "latest_confirmed_number": "016",
     "unconfirmed_numbers_within_001_015": [
       "013"
     ],
@@ -67,8 +68,8 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 387,
-    "videos": 55,
+    "images": 403,
+    "videos": 58,
     "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
   },
   "processed_posts": {
@@ -1195,13 +1196,153 @@
         "kubai-icons-friend-link-wall"
       ],
       "verification": "official_syndication_edit_control"
+    },
+    "2120682993563922586": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-12T01:00:00+00:00",
+      "cards": [
+        "kubai-999-016-toast-vs-notification"
+      ],
+      "media": "01-source.mp4 + 5 sampled frames",
+      "verification": "official_public_post_note_tweet"
+    },
+    "2120685913441456371": {
+      "decision": "supporting_reference",
+      "published_at": "2026-11-12T01:11:36+00:00",
+      "cards": [
+        "kubai-999-016-toast-vs-notification"
+      ],
+      "note": "Author direct reply with event audit table and dual-component prompt spec",
+      "verification": "official_public_post_note_tweet"
+    },
+    "2120871815690232068": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-12T13:30:19+00:00",
+      "canonical_post_id": "2120682993563922586",
+      "cards": [
+        "kubai-999-016-toast-vs-notification"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120702617710121366": {
+      "decision": "not_selected",
+      "published_at": "2026-11-12T02:17:59+00:00",
+      "quoted_post_id": "2120700968006566129",
+      "reason": "獨立開發者狀態自嘲互動（「第二行第二个！」），無 UI/UX 或前端設計內容。",
+      "verification": "official_public_post"
+    },
+    "2120711253962457127": {
+      "decision": "not_selected",
+      "published_at": "2026-11-12T02:52:18+00:00",
+      "canonical_post_id": "2120705051480240417",
+      "reason": "轉發遊戲角色（Malenia）純插畫創作，非軟體介面或前端互動設計。",
+      "verification": "official_public_post"
+    },
+    "2120705051480240417": {
+      "decision": "not_selected",
+      "published_at": "2026-11-12T02:27:39+00:00",
+      "author": "VigoCreativeAI",
+      "reason": "遊戲角色（Malenia）純插畫原帖，非軟體介面或前端互動設計。",
+      "verification": "official_public_post"
+    },
+    "2121123775051891148": {
+      "decision": "merged_update",
+      "published_at": "2026-11-13T06:11:31+00:00",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "media": "06-source.mp4 + 2 sampled frames (0.8.0 update: 9 yard/gardening icons + Web Component support)",
+      "verification": "official_public_post"
+    },
+    "2121125420506751462": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-13T06:18:03+00:00",
+      "canonical_post_id": "2120939691310727279",
+      "cards": [
+        "kubai-hassan-workbench-hero-sections"
+      ],
+      "verification": "official_public_post"
+    },
+    "2120939691310727279": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-12T18:00:02+00:00",
+      "author": "uixhassan",
+      "cards": [
+        "kubai-hassan-workbench-hero-sections"
+      ],
+      "media": "05-goop-agent-composer.jpg",
+      "verification": "official_public_post"
+    },
+    "2121125744038543539": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-13T06:19:20+00:00",
+      "quoted_post_id": "2116293829481701670",
+      "cards": [
+        "kubai-hassan-workbench-hero-sections"
+      ],
+      "media": "4 hero section screenshots from quoted @uixhassan thread",
+      "verification": "official_public_post"
+    },
+    "2116293829481701670": {
+      "decision": "supporting_reference",
+      "published_at": "2026-10-30T22:19:02+00:00",
+      "author": "uixhassan",
+      "cards": [
+        "kubai-hassan-workbench-hero-sections"
+      ],
+      "media": "01..04 hero screenshots",
+      "verification": "official_public_post"
+    },
+    "2121164460547346460": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-13T08:53:11+00:00",
+      "canonical_post_id": "2121158070994878740",
+      "cards": [
+        "kubai-ian-prompt-to-card-morph"
+      ],
+      "verification": "official_public_post"
+    },
+    "2121158070994878740": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-13T08:27:47+00:00",
+      "author": "ianneo_ai",
+      "cards": [
+        "kubai-ian-prompt-to-card-morph"
+      ],
+      "media": "01-source.mp4 + 4 sampled frames",
+      "verification": "official_public_post"
+    },
+    "2121158077231890717": {
+      "decision": "supporting_reference",
+      "published_at": "2026-11-13T08:27:49+00:00",
+      "author": "ianneo_ai",
+      "cards": [
+        "kubai-ian-prompt-to-card-morph"
+      ],
+      "note": "Direct author reply explaining vanilla JS + WebGL 2 single-file particle morph implementation",
+      "verification": "official_public_post"
+    },
+    "2121201471106785455": {
+      "decision": "not_selected",
+      "published_at": "2026-11-13T11:20:15+00:00",
+      "canonical_post_id": "2121187869888762364",
+      "reason": "轉發 VISUAL OS 3JS 黃金比例動態視覺藝術展示，未涉及具體軟體 UI/UX 元件或操作流程。",
+      "verification": "official_public_post"
+    },
+    "2121187869888762364": {
+      "decision": "not_selected",
+      "published_at": "2026-11-13T10:26:12+00:00",
+      "author": "VigoCreativeAI",
+      "reason": "VISUAL OS 3JS 黃金比例動態視覺藝術原帖，非產品介面設計。",
+      "verification": "official_public_post"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
+    "2121125744038543539",
+    "2121123775051891148",
     "2120923602031919194",
     "2120866563184308488",
-    "2120830679089090681",
     "2120765986899132726"
   ],
   "repost_aliases": {
@@ -1316,6 +1457,26 @@
     "2115121955393478696": {
       "original_id": "2115043533736342006",
       "original_author": "rebrandgallery"
+    },
+    "2120871815690232068": {
+      "original_id": "2120682993563922586",
+      "original_author": "Kubai087"
+    },
+    "2121125420506751462": {
+      "original_id": "2120939691310727279",
+      "original_author": "uixhassan"
+    },
+    "2121164460547346460": {
+      "original_id": "2121158070994878740",
+      "original_author": "ianneo_ai"
+    },
+    "2120711253962457127": {
+      "original_id": "2120705051480240417",
+      "original_author": "VigoCreativeAI"
+    },
+    "2121201471106785455": {
+      "original_id": "2121187869888762364",
+      "original_author": "VigoCreativeAI"
     }
   },
   "author_prompt_replies": {
@@ -1331,6 +1492,9 @@
     ],
     "015": [
       "2120321469817483516"
+    ],
+    "016": [
+      "2120685913441456371"
     ]
   },
   "open_card_gaps": {
@@ -1373,6 +1537,9 @@
     ],
     "kubai-hover-shortcut-teaching": [
       "attribution: 影片介面原作者與產品名稱未附於來源封包"
+    ],
+    "kubai-ian-prompt-to-card-morph": [
+      "attribution: 原帖僅致謝 @dominikmartn，未附原始靈感貼文連結"
     ],
     "kubai-icon-asset-release": [
       "assets: 未收錄工程檔、領取結果與使用授權"
