@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-13T18:54:24.719836+00:00",
+  "checked_at_utc": "2026-11-14T17:00:11.735904+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -1569,5 +1569,12 @@
     "Use processed_posts for ID lookups instead of loading every card.",
     "Retain the incomplete full-history status until a complete timeline is actually traversed.",
     "Do not advance a global boundary after source access failures."
-  ]
+  ],
+  "pending_source_checks": {
+    "2121284062983983257": {
+      "published_at": "2026-11-13T16:48:26+00:00",
+      "verification": "official_public_post_truncated_repost",
+      "reason": "官方公開資料僅含截斷自轉發文字，未取得 canonical 原帖 ID；待核對後合併既有 Icons 卡片，不以第三方摘要補寫。"
+    }
+  }
 }
