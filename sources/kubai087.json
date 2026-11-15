@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 82,
+    "case_count": 83,
     "series_cards": 16,
-    "other_cards": 66,
+    "other_cards": 67,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -1562,6 +1562,9 @@
     ],
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
+    ],
+    "kubai-anti-slop-product-directives": [
+      "source-url: 使用者提供截圖收錄，原帖 status ID 與發布時間未取得；找到後補入 processed_posts 與卡片 source"
     ]
   },
   "next_run": [

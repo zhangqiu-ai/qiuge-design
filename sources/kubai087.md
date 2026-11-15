@@ -2,7 +2,7 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **82 張卡片**：999 系列 16 張，其他設計參考 66 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **83 張卡片**：999 系列 16 張，其他設計參考 67 張。同一作品與流程的轉發或補充合併保存。
 
 每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
 
@@ -15,6 +15,7 @@
 - 2026-11-11 補充 [Kubai Icons 22 個圖標展示](https://x.com/Kubai087/status/2120551252253974750)，併入既有圖標工作流卡片並保存五張影格。
 - 2026-11-12 新增 [Kubai Icons 櫥窗式友鏈牆](https://x.com/Kubai087/status/2120866563184308488)（合併同日[友鏈募集帖](https://x.com/Kubai087/status/2120765986899132726)與[同日稍晚 Partners／首頁贊助位迭代](https://x.com/Kubai087/status/2120923602031919194)），並將 [9 個戶外動態圖標更新與開源倉庫](https://x.com/Kubai087/status/2120830679089090681)併入既有圖標工作流卡片，補齊 `SKILL.md`／`PROMPT.md` 風格約束規範與三層授權說明；另回補 [`kubai087/pro-threads`](https://github.com/kubai087/pro-threads) 公開倉庫的即時參數面板與 Web Component 嵌入降級設計；同日[一萬關注感謝帖](https://x.com/Kubai087/status/2120707475972538723)記為不收錄。
 - 2026-11-13 新增 999 系列第 016 期 [Toast 與 Notification 區分規範](https://x.com/Kubai087/status/2120682993563922586)（含[同日自轉發](https://x.com/Kubai087/status/2120871815690232068)與[直接回覆 Prompt](https://x.com/Kubai087/status/2120685913441456371)）、[網頁工作台首屏構圖參考](https://x.com/Kubai087/status/2121125744038543539)（合併同日轉發的 [Hassan Agent 首屏探索](https://x.com/uixhassan/status/2120939691310727279)）與 [Ian 粒子輸入框至結果卡片變形過渡](https://x.com/ianneo_ai/status/2121158070994878740)，並將 [Kubai Icons 0.8.0 更新（9 個庭院園藝圖標與 Web Component 支援）](https://x.com/Kubai087/status/2121123775051891148)併入既有圖標工作流卡片；另三則非介面設計互動／純視覺藝術轉推（[狀態互動](https://x.com/Kubai087/status/2120702617710121366)、[遊戲插畫轉推](https://x.com/Kubai087/status/2120711253962457127)、[3JS 視覺藝術轉推](https://x.com/Kubai087/status/2121201471106785455)）核對後記為不收錄。
+- 2026-11-14 依使用者提供的截圖新增 [減少 AI Slop 感的五條產品設計指令](../cases/kubai-anti-slop-product-directives/case.md)；原帖連結與發布時間未取得，待日常檢查找到後補上並登記 status ID。
 - 全帳戶歷史尚未完整遍歷：Chrome 原分頁讀取持續逾時，公開首頁只提供少量近期內容。這一項保留待回補，不將可見索引當成完整帳戶匯出。
 - [追蹤資料](kubai087.json)保存每則來源的處理結果、轉發映射及缺漏。日後按 status ID 檢索即可，不必一次載入所有卡片。
 
@@ -55,6 +56,7 @@
 | [動態 Bento：每格用短場景說清一個功能](../cases/kubai-animated-bento/case.md) | data-display, visual, onboarding |
 | [修整 AI 介面：先統一對齊，再建立字級層次](../cases/kubai-alignment-type-hierarchy/case.md) | visual, data-display |
 | [把設計問題清單反過來用於審稿](../cases/kubai-anti-slop-review/case.md) | visual, content-editing |
+| [減少 AI Slop 感的五條產品設計指令：先建系統，再刪文案](../cases/kubai-anti-slop-product-directives/case.md) | visual, content-editing, data-display |
 | [把設計判斷做成工具，再用具體狀態檢查元件](../cases/kubai-design-judgment-tools/case.md) | feedback, forms, content-editing |
 | [Agent 介面審查：列狀態、找破口，再比較版本](../cases/kubai-agent-ui-review/case.md) | feedback, accessibility, content-editing |
 | [Lumno 的功能關聯空狀態 SVG](../cases/kubai-empty-state-svg/case.md) | empty-states, feedback, visual |
