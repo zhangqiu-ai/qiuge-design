@@ -1,0 +1,39 @@
+{
+  "source_id": "2104107699583463686",
+  "published_at": "2026-09-27T07:15:42+00:00",
+  "verification": "X public post HTML: embedded primary Tweet / NoteTweet payload",
+  "media": [
+    {
+      "file": "01-reference.jpg",
+      "source_post": "2104107699583463686",
+      "source_url": "https://pbs.twimg.com/media/HTNJtd_XEAA4NdG.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    },
+    {
+      "file": "02-reference.jpg",
+      "source_post": "2104107699583463686",
+      "source_url": "https://pbs.twimg.com/media/HTNKePlXMAAdP_Q.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    },
+    {
+      "file": "03-reference.jpg",
+      "source_post": "2104107699583463686",
+      "source_url": "https://pbs.twimg.com/media/HTNKePHWMAA6tE6.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    },
+    {
+      "file": "04-reference.jpg",
+      "source_post": "2104107699583463686",
+      "source_url": "https://pbs.twimg.com/media/HTNKePpXQAA2wK2.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    }
+  ],
+  "aliases": [],
+  "source_dates": {},
+  "scope": "Primary post text and inspected source media; no product runtime acceptance",
+  "media_handling": "Source images fetched with ?name=large; design regions retained and personal data masked where necessary. Video/GIF sources retained only as selected still frames."
+}

@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-14T17:00:11.735904+00:00",
+  "checked_at_utc": "2026-11-15T02:17:30.063672+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,8 +11,8 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 83,
-    "series_cards": 16,
+    "case_count": 84,
+    "series_cards": 17,
     "other_cards": 67,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
@@ -53,9 +53,10 @@
       "012",
       "014",
       "015",
-      "016"
+      "016",
+      "017"
     ],
-    "latest_confirmed_number": "016",
+    "latest_confirmed_number": "017",
     "unconfirmed_numbers_within_001_015": [
       "013"
     ],
@@ -68,9 +69,9 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 403,
+    "images": 410,
     "videos": 58,
-    "retained": "Publicly downloadable source variants plus sampled frames; source videos are retained."
+    "retained": "Publicly downloadable source variants plus sampled frames; historical source videos are retained; episode 017 retains six sampled frames only."
   },
   "processed_posts": {
     "2120442942557216805": {
@@ -1335,6 +1336,15 @@
       "author": "VigoCreativeAI",
       "reason": "VISUAL OS 3JS 黃金比例動態視覺藝術原帖，非產品介面設計。",
       "verification": "official_public_post"
+    },
+    "2121449185014845794": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-14T03:44:34+00:00",
+      "cards": [
+        "kubai-999-017-waiting-states"
+      ],
+      "verification": "official_public_post_note_tweet_and_sampled_video",
+      "discovered_in": "MyKnowledgeBase/X/X-2026-11-14.md"
     }
   },
   "public_profile_snapshot_ids": [
@@ -1510,11 +1520,17 @@
     "kubai-999-012-message-bubble": [
       "prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt"
     ],
+    "kubai-999-017-waiting-states": [
+      "prompt: 主帖提及的長版 Prompt 回覆未取得"
+    ],
     "kubai-999-unnumbered-shockwave": [
       "episode: 原帖及兩個編輯版本均未標示編號；可能對應 013，尚未確認"
     ],
     "kubai-ai-icon-refinement": [
       "attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結"
+    ],
+    "kubai-anti-slop-product-directives": [
+      "source-url: 使用者只提供截圖，未取得原帖連結與發布時間"
     ],
     "kubai-ascii-login-reference": [
       "source: 產品正式網址、上線狀態與設計署名待確認"
@@ -1562,9 +1578,6 @@
     ],
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
-    ],
-    "kubai-anti-slop-product-directives": [
-      "source-url: 使用者提供截圖收錄，原帖 status ID 與發布時間未取得；找到後補入 processed_posts 與卡片 source"
     ]
   },
   "next_run": [

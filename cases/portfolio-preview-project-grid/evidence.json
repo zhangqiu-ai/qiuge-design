@@ -1,0 +1,32 @@
+{
+  "source_id": "2070305673121042481",
+  "published_at": "2026-06-26T00:38:31+00:00",
+  "verification": "X public post HTML: embedded primary Tweet / NoteTweet payload",
+  "media": [
+    {
+      "file": "01-frame.jpg",
+      "source_post": "2070305673121042481",
+      "source_url": "https://video.twimg.com/amplify_video/2070305166285533184/vid/avc1/1150x720/UxMhAFkRUMNOw-CX.mp4",
+      "timestamp_seconds": 1.931,
+      "gif_frame": null
+    },
+    {
+      "file": "02-frame.jpg",
+      "source_post": "2070305673121042481",
+      "source_url": "https://video.twimg.com/amplify_video/2070305166285533184/vid/avc1/1150x720/UxMhAFkRUMNOw-CX.mp4",
+      "timestamp_seconds": 13.997,
+      "gif_frame": null
+    },
+    {
+      "file": "03-frame.jpg",
+      "source_post": "2070305673121042481",
+      "source_url": "https://video.twimg.com/amplify_video/2070305166285533184/vid/avc1/1150x720/UxMhAFkRUMNOw-CX.mp4",
+      "timestamp_seconds": 20.272,
+      "gif_frame": null
+    }
+  ],
+  "aliases": [],
+  "source_dates": {},
+  "scope": "Primary post text and inspected source media; no product runtime acceptance",
+  "media_handling": "Source images fetched with ?name=large; design regions retained and personal data masked where necessary. Video/GIF sources retained only as selected still frames."
+}

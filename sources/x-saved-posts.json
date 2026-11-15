@@ -1,0 +1,4901 @@
+{
+  "schema_version": 1,
+  "source": "X 點讚與收藏歷史彙總",
+  "input_root": "/Users/feature/code/MyKnowledgeBase/X",
+  "upstream_thread": {
+    "host_id": "local",
+    "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
+  },
+  "checked_at_utc": "2026-11-15T02:22:07.008967+00:00",
+  "coverage": {
+    "archive_files": 106,
+    "distinct_archive_status_ids": 864,
+    "design_candidates": 243,
+    "decision_counts": {
+      "collected_or_merged": 148,
+      "not_selected": 82,
+      "pending_verification": 13
+    },
+    "cards_referenced": 129,
+    "full_archive_screening_complete": true,
+    "primary_verification_complete": false,
+    "limitation": "彙總摘要僅作發現線索；初篩無具體產品介面設計內容的帖子不逐條公開其收藏紀錄。原文或素材未取得者保留缺漏，不代表沒有價值。歷史彙總不等同完整 X 點讚或收藏匯出。"
+  },
+  "input_files": [
+    {
+      "filename": "X-2026-07-04.md",
+      "sha256": "be399455c68477be89cd5fb1da10b551c30e772622c2823a6592e5a016149e08"
+    },
+    {
+      "filename": "X-2026-07-05.md",
+      "sha256": "c2d6f3e65ee2ab835163a8f47365cd50b6d68775c9171d645f87c5a4eb86099b"
+    },
+    {
+      "filename": "X-2026-07-06.md",
+      "sha256": "a2dc19ea9b98f97f64dea8c25030d2c5f67bb21958bca84eb49685081cd71d4b"
+    },
+    {
+      "filename": "X-2026-07-07.md",
+      "sha256": "4a07d8258d015a0eb86475e18905fea2ff8564be683c9190d280f9cc87c3a2da"
+    },
+    {
+      "filename": "X-2026-07-08.md",
+      "sha256": "7a4286baf36ce6b443d1e19ad9c4c6f18359298e81af6f804408aae7e4307f47"
+    },
+    {
+      "filename": "X-2026-07-09.md",
+      "sha256": "c2f7a1c424994422bea5d521aba8f239568c2b255b4011f9c43232b81e8b02af"
+    },
+    {
+      "filename": "X-2026-07-10.md",
+      "sha256": "134653722d4051052195f6899497abddfa1ba38f4db45db7e1a6c0565042003c"
+    },
+    {
+      "filename": "X-2026-07-12.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "filename": "X-2026-07-14.md",
+      "sha256": "9dd6c49a14368fa4a8f7374eb49e165d25d78912413b6ad10b6e2ff8a821f17c"
+    },
+    {
+      "filename": "X-2026-07-15.md",
+      "sha256": "c716434854d0569020bd8a1abb94a6b6db26f7be679edba6bf6671dc53d53f74"
+    },
+    {
+      "filename": "X-2026-07-16.md",
+      "sha256": "c716434854d0569020bd8a1abb94a6b6db26f7be679edba6bf6671dc53d53f74"
+    },
+    {
+      "filename": "X-2026-07-17.md",
+      "sha256": "c716434854d0569020bd8a1abb94a6b6db26f7be679edba6bf6671dc53d53f74"
+    },
+    {
+      "filename": "X-2026-07-18.md",
+      "sha256": "24a3fef0949678577d2038383b7dea4456d98eea47f45daa94992536780a8499"
+    },
+    {
+      "filename": "X-2026-07-19.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "filename": "X-2026-07-20.md",
+      "sha256": "c716434854d0569020bd8a1abb94a6b6db26f7be679edba6bf6671dc53d53f74"
+    },
+    {
+      "filename": "X-2026-07-21.md",
+      "sha256": "5e2ee719033d94d07aed891e21cb312c6acc748922f910f3d08b3358f5c414cb"
+    },
+    {
+      "filename": "X-2026-07-24.md",
+      "sha256": "ad0b82ec99595d7e79b39c9afae78771fefd2ab328b2a903ed8e1c890b7baf5e"
+    },
+    {
+      "filename": "X-2026-07-26.md",
+      "sha256": "6d6b3fc7ecd89134cbce3c73bc85d994b2418d3f1e6ec18652fff68570235276"
+    },
+    {
+      "filename": "X-2026-07-27.md",
+      "sha256": "c716434854d0569020bd8a1abb94a6b6db26f7be679edba6bf6671dc53d53f74"
+    },
+    {
+      "filename": "X-2026-07-29.md",
+      "sha256": "2b0bb0d3b85300ab95f408211518e12687051eacc9dfe238b447bda93472a9f6"
+    },
+    {
+      "filename": "X-2026-07-30.md",
+      "sha256": "18dd2bafc09d0f9d8f5d995340afceddbfcb293d6b69e7b045fa6abf40c4cb9a"
+    },
+    {
+      "filename": "X-2026-07-31.md",
+      "sha256": "ccf4fdbddc419ea081c4029c84b41b195a20def165239ae9498737cdecaf5d7e"
+    },
+    {
+      "filename": "X-2026-08-02.md",
+      "sha256": "927cf66f2fdefcd609b6e7db2fbe480ac47db0b00c05f33f74a17ca7d5ff1c7a"
+    },
+    {
+      "filename": "X-2026-08-03.md",
+      "sha256": "532cc51bc2306b9c255340cbf1e6078e374565a3c05b686f61d88acf625fad32"
+    },
+    {
+      "filename": "X-2026-08-04.md",
+      "sha256": "aa78b65dd2d519a026a1f7dbeab8c2074de837d6463cc222b86f935f3e484a60"
+    },
+    {
+      "filename": "X-2026-08-06.md",
+      "sha256": "0eb93aabd188a371aa3e8acb4ef2cfb394b602cef2aac585be8ee63507e90fc2"
+    },
+    {
+      "filename": "X-2026-08-09.md",
+      "sha256": "80e7ba7a6f90fa599b79b3c18ae300db4c9320e1f5f9173603d88bc9718b74b0"
+    },
+    {
+      "filename": "X-2026-08-10.md",
+      "sha256": "24f16db0577687846b1a17c8b292bb6d19562937c65a1fc2f5a98ee8217b7a66"
+    },
+    {
+      "filename": "X-2026-08-11.md",
+      "sha256": "bb8b3b7703092672513dd62821a071f616c965fc372336203f63ba07ee7ded7b"
+    },
+    {
+      "filename": "X-2026-08-12.md",
+      "sha256": "8371182a03fe7e5f1744e96e29f40f0fb42c81c8e1532f07eaa2cc490fd7d829"
+    },
+    {
+      "filename": "X-2026-08-13.md",
+      "sha256": "06b0035d1900f311b798403b78f1ff3d7c84e36eacc584d122adda2c9fbe0090"
+    },
+    {
+      "filename": "X-2026-08-14.md",
+      "sha256": "de829c6300191a08dd1346e76e31fa2bb62c3cd0828551a0e734c8984c318df3"
+    },
+    {
+      "filename": "X-2026-08-15.md",
+      "sha256": "03f044461ba7c0c370ed723ecfc713361714f7d801178a272eb2a8b6978d647d"
+    },
+    {
+      "filename": "X-2026-08-17.md",
+      "sha256": "1cc9847a783df8b053b439157c401028aa66ca9c308b20b0903ffb314bb5b526"
+    },
+    {
+      "filename": "X-2026-08-18.md",
+      "sha256": "726b171ea7288b1518f37dfcb4105a6b9a9a01f1295a428c2070343cb5d29954"
+    },
+    {
+      "filename": "X-2026-08-19.md",
+      "sha256": "6d56718a5a6dd2fd127ace920d22ede0789241e0571bf70bbf179081b34a249b"
+    },
+    {
+      "filename": "X-2026-08-21.md",
+      "sha256": "ed512bec7bfbdd9dfbaadf7251e5fd2c09dc5466eaa0a524db83c24a28a6f3fd"
+    },
+    {
+      "filename": "X-2026-08-22.md",
+      "sha256": "9c0728ac8fc500b70d3756500f655c970f11fe4c0dbc4198beea1ba02eacc9d8"
+    },
+    {
+      "filename": "X-2026-08-23.md",
+      "sha256": "cc4ed7a37f6642600c5313776d9a8a5e76c8d47d549af4f36f6a8cea3c34d0c1"
+    },
+    {
+      "filename": "X-2026-08-25.md",
+      "sha256": "48b7f2cd4d2318a6c110212a38fcb89a98508d999cdb38dc8bb2b3fb241cae89"
+    },
+    {
+      "filename": "X-2026-08-26.md",
+      "sha256": "771d0682de015a185a3465472a895e7f8d155485bdabf0339d57f5a87ff445aa"
+    },
+    {
+      "filename": "X-2026-08-27.md",
+      "sha256": "e9a074727c35054c9b874a9ebec0d1497f9632750084b54e4988600685050b57"
+    },
+    {
+      "filename": "X-2026-08-28.md",
+      "sha256": "b259fdcbfe84667719a56a05dfcb1455026c25990990b17d623b63c0b0357f3c"
+    },
+    {
+      "filename": "X-2026-08-29.md",
+      "sha256": "d9fabda26ae7e3aa85c978099ad8de332c50bff8646d02506ec533ba45d64639"
+    },
+    {
+      "filename": "X-2026-08-30.md",
+      "sha256": "45e527381728d4fe78bfcc82f4d7dc96998269e3463637d5d863ac085d515715"
+    },
+    {
+      "filename": "X-2026-08-31.md",
+      "sha256": "69549029d064637d5ce76e608cba0728d53ab57e7baa7c608fdef23dc11cef30"
+    },
+    {
+      "filename": "X-2026-09-01.md",
+      "sha256": "6a28a9c46b372de2ce19015bc878bf422173b34b646a1e68a97e686748b43264"
+    },
+    {
+      "filename": "X-2026-09-02.md",
+      "sha256": "3c544dd474014e96272579b1134a07b2b47b34a891013e1e0f7ba8b639485485"
+    },
+    {
+      "filename": "X-2026-09-04.md",
+      "sha256": "29e0dff22744fc22b1526799c4026f49c7377871b143dbd8dd5c401073132e7e"
+    },
+    {
+      "filename": "X-2026-09-05.md",
+      "sha256": "37bafac394bb8b70470de59f2abebeec3df9aa50f5f0d5319a6e9bb8fa28c998"
+    },
+    {
+      "filename": "X-2026-09-07.md",
+      "sha256": "bfc594a70d3d6a588fed806f734b973341ab07cb827f9482b585d837d7298868"
+    },
+    {
+      "filename": "X-2026-09-08.md",
+      "sha256": "55faf5ac3e827d233b7db1324fbd6e9e52d53e321208d9d8d06db54cc402e61a"
+    },
+    {
+      "filename": "X-2026-09-09.md",
+      "sha256": "0fb9a7d2f6e9679d01060077f278524405efef5e9bcf492ff865045a67cf8c8c"
+    },
+    {
+      "filename": "X-2026-09-13.md",
+      "sha256": "49c981e1cbf5454216afa19c8b66b8cdcf0bdf30698d83c08dd7e3d06b212f0f"
+    },
+    {
+      "filename": "X-2026-09-14.md",
+      "sha256": "cf9374ee0fd846d560f41ab4b49540a00058dc8dcaed64a5af9826f2a40f7fa2"
+    },
+    {
+      "filename": "X-2026-09-16.md",
+      "sha256": "21da53d1daf410c8075ff4266ce8c54522651a19e5c3fb054cc0d647c1dcfc38"
+    },
+    {
+      "filename": "X-2026-09-20.md",
+      "sha256": "34ee902c1548c5f88b293f6747c047cc131a2913b9dbccf42e08f21e49e460b0"
+    },
+    {
+      "filename": "X-2026-09-21.md",
+      "sha256": "5d7db054c9bf453b06e3af98073d4ef88d74c87d8c923c724b76f0e12d16fb41"
+    },
+    {
+      "filename": "X-2026-09-22.md",
+      "sha256": "ab5adbd28d37aeb31b062c04953732c8ff53a090bc5950a657308286c8e63cee"
+    },
+    {
+      "filename": "X-2026-09-23.md",
+      "sha256": "9b8f1a4119efa6dfb9a5b1c5e3733a37fd2c507c25c67325fe590e13f719657a"
+    },
+    {
+      "filename": "X-2026-09-24.md",
+      "sha256": "df7c425737e5a7e9a90724fe6c967361032dd697dcb4b50116302fdfd30c5a5a"
+    },
+    {
+      "filename": "X-2026-09-25.md",
+      "sha256": "6b3139b351808cff7f4999cdacf6aa3a2b4550fa1244b404ec65321881902f7b"
+    },
+    {
+      "filename": "X-2026-09-26.md",
+      "sha256": "02bc326fea8f661ba6a9d4311d9d517bf0183e0daca0167580f2d3ea3d50e793"
+    },
+    {
+      "filename": "X-2026-09-30.md",
+      "sha256": "489c78717a7e825ba3264871f148ef0bbfccba19299913ead366218381c60a89"
+    },
+    {
+      "filename": "X-2026-10-01.md",
+      "sha256": "263f7e1a23e7fde14dbd502b428804ae59529686a1a6ad8ae5e7d6e737588a7f"
+    },
+    {
+      "filename": "X-2026-10-02.md",
+      "sha256": "8ceb32b6d301b8bea56f0b3dfbcda53de9cf11402a0d2b79986b2c9fd1ee5c07"
+    },
+    {
+      "filename": "X-2026-10-03.md",
+      "sha256": "43393a10211e0884c6c27822562fa7699d1141b20bf3c5f0cab7ab0368b5ee31"
+    },
+    {
+      "filename": "X-2026-10-04.md",
+      "sha256": "38b35373c1cd3f1b9dc0edb4d365f604af380015f99a181843d9ee7b74f5828a"
+    },
+    {
+      "filename": "X-2026-10-05.md",
+      "sha256": "7b1ce530f2177eb08bff191715a57d5f05f18b611f81c74cf86114f47e9f8ece"
+    },
+    {
+      "filename": "X-2026-10-06.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-07.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-08.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-09.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-10.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-11.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-12.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-13.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-15.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-16.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-17.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-18.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-19.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-20.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-21.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-22.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-23.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-24.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-25.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-26.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-27.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-28.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-29.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-30.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-10-31.md",
+      "sha256": "770e617356fd09efb7e8c1ecb0e61dc7ab4452ca01caef92b1d557800582bc83"
+    },
+    {
+      "filename": "X-2026-11-01.md",
+      "sha256": "a50eb4774c15a6983ff8fbddd34160828a124595305e23b57bbb2e7980072190"
+    },
+    {
+      "filename": "X-2026-11-02.md",
+      "sha256": "e0bcd4effe7638359e6761be31df380492fc9d794ce6ed147400a6b4c29c4567"
+    },
+    {
+      "filename": "X-2026-11-03.md",
+      "sha256": "028abdfb4bc132eb1c89233284e8a196b9fab51f4637074c819236a66f980270"
+    },
+    {
+      "filename": "X-2026-11-04.md",
+      "sha256": "06b2c8ef796cdc3b13765e3a97e5a602ed52ad945ffb2b2c6ccf0025d849fe83"
+    },
+    {
+      "filename": "X-2026-11-06.md",
+      "sha256": "60d79c7e4ec02ca2743e1db2023e8579893016543a7a24e240aa1440324ea7fd"
+    },
+    {
+      "filename": "X-2026-11-07.md",
+      "sha256": "04d4e735373c48592cc9f38a9efd469f4738d0c34cba398dfe4a9d0805c32a5a"
+    },
+    {
+      "filename": "X-2026-11-08.md",
+      "sha256": "fec2cd000dcb0a5d55b13d71da8f169a189591bc0343a3a8b6e44322e601713c"
+    },
+    {
+      "filename": "X-2026-11-09.md",
+      "sha256": "b4264a585a56ad3b9b8a015ab6dc58a1f62ceda11b953e5c2aa32ae80adc713c"
+    },
+    {
+      "filename": "X-2026-11-10.md",
+      "sha256": "41af6d283f66bd7dff0571402388e87fd862d3845dfd7f777b9161f9f0206a96"
+    },
+    {
+      "filename": "X-2026-11-12.md",
+      "sha256": "6f38f7966c0951699bce1b1be36473e04a040d0662cd7301f74b3f9b25ce9f71"
+    },
+    {
+      "filename": "X-2026-11-13.md",
+      "sha256": "88a4149c90ed7b32a46dafcbe7c109c11e29b283c1477610de3a0b27885dd53e"
+    },
+    {
+      "filename": "X-2026-11-14.md",
+      "sha256": "a0007b33d5b5ca101da7edc4c29007cc616281642c6c312a5a73e2ce6b4c137b"
+    }
+  ],
+  "processed_posts": {
+    "2070690759582593368": {
+      "url": "https://x.com/499317906/status/2070690759582593368",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "huashu-brand-reference-variants"
+      ],
+      "published_at": "2026-06-27T02:08:43+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察"
+      ]
+    },
+    "2065331578365256152": {
+      "url": "https://x.com/_FORAB/status/2065331578365256152",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "x-contextual-rocket-like"
+      ],
+      "published_at": "2026-06-12T07:13:14+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖未附素材，無法核對火箭動畫的觸發與結束影格"
+      ]
+    },
+    "2062870813880078590": {
+      "url": "https://x.com/aaraalto/status/2062870813880078590",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-05T12:15:02+00:00",
+      "verification": "official_public_post",
+      "note": "影片縮圖為程式／幾何輸出示例，正文僅談輸出準確，沒有具體產品 UI 流程。"
+    },
+    "2073794667880267983": {
+      "url": "https://x.com/abskoop/status/2073794667880267983",
+      "archive_files": [
+        "X-2026-07-07.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-05T15:42:32+00:00",
+      "verification": "official_public_post",
+      "note": "WASM 部署與檔案格式能力介紹；附圖是 README／開檔概覽，未具體展示編輯互動。"
+    },
+    "2084932520953753985": {
+      "url": "https://x.com/AdrianPunk115/status/2084932520953753985",
+      "archive_files": [
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "vibe-coding-dictionary-state-motion-examples"
+      ],
+      "published_at": "2026-08-05T09:20:23+00:00",
+      "article_verification": "official_article_entity_full_text",
+      "verification": "official_public_post",
+      "missing": [
+        "行為驗證：來源為圖解教程，未執行示例或測量性能；卡片選存六張相關圖，不是全文十八張圖的副本"
+      ]
+    },
+    "2063178386659238109": {
+      "url": "https://x.com/AI_Jasonyu/status/2063178386659238109",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "openwiki-clipboard-save"
+      ],
+      "published_at": "2026-06-06T08:37:14+00:00",
+      "verification": "official_public_post"
+    },
+    "2089691327852392536": {
+      "url": "https://x.com/ajaypatel_aj/status/2089691327852392536",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "shadcn-workflow-and-fleet-layouts"
+      ],
+      "published_at": "2026-08-18T12:30:11+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "implementation: 未核對元件來源、真實資料與互動行為"
+      ]
+    },
+    "2080494948441342297": {
+      "url": "https://x.com/AlchainHust/status/2080494948441342297",
+      "archive_files": [
+        "X-2026-07-24.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-24T03:27:04+00:00",
+      "verification": "official_public_post",
+      "note": "產品宣傳片運鏡與製作技能，非產品內互動。"
+    },
+    "2094423801610306016": {
+      "url": "https://x.com/ashfold/status/2094423801610306016",
+      "archive_files": [
+        "X-2026-09-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "agent-toolcall-inline-status-rendering"
+      ],
+      "published_at": "2026-08-31T13:55:21+00:00",
+      "verification": "official_public_post"
+    },
+    "2080952940815347875": {
+      "url": "https://x.com/beefnoode/status/2080952940815347875",
+      "archive_files": [
+        "X-2026-07-26.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "readme-information-order-audit"
+      ],
+      "published_at": "2026-07-25T09:46:57+00:00",
+      "verification": "official_public_post"
+    },
+    "2053643773192839516": {
+      "url": "https://x.com/berryxia/status/2053643773192839516",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ar-gallery-model-roster"
+      ],
+      "published_at": "2026-05-11T01:10:05+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 僅核對錄影，未實測模型載入與 iPhone AR"
+      ]
+    },
+    "2063534482498752585": {
+      "url": "https://x.com/bi_9527zx/status/2063534482498752585",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-07T08:12:13+00:00",
+      "verification": "official_public_post",
+      "note": "模型路由、API 配置與成本教學，非介面設計案例。"
+    },
+    "2040377711957598340": {
+      "url": "https://x.com/billtheinvestor/status/2040377711957598340",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-04-04T10:35:29+00:00",
+      "verification": "official_public_post",
+      "note": "資源庫推介；附圖是 README，未展示具體 UI 設計方法。"
+    },
+    "2096389163763265949": {
+      "url": "https://x.com/bkdgiffug/status/2096389163763265949",
+      "archive_files": [
+        "X-2026-09-08.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-06T00:05:00+00:00",
+      "verification": "official_public_post",
+      "note": "HTML/CSS 影片渲染與模板製作，非產品 UI。"
+    },
+    "2072584666037760350": {
+      "url": "https://x.com/bozhou_ai/status/2072584666037760350",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "astryx-theme-component-contract"
+      ],
+      "published_at": "2026-07-02T07:34:25+00:00",
+      "verification": "official_public_post"
+    },
+    "2061309290095517707": {
+      "url": "https://x.com/BTCqzy1/status/2061309290095517707",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-01T04:50:06+00:00",
+      "verification": "official_public_post",
+      "note": "原帖推薦 GSAP skills；附片為多個網站的宣傳剪輯，沒有聚焦可核對的單一操作流程或具體元件方法。已下載並檢視 4 張影片影格，未僅憑宣傳效果建立卡片。"
+    },
+    "2082380663379173644": {
+      "url": "https://x.com/BTCqzy1/status/2082380663379173644",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-29T08:20:13+00:00",
+      "verification": "official_public_post",
+      "note": "程序化 3D 模型生成與品質比較，非介面操作設計。",
+      "related_sources": [
+        {
+          "id": "2081220184812249464",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2079864598866415927",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2099440427841597573": {
+      "url": "https://x.com/BTCqzy1/status/2099440427841597573",
+      "archive_files": [
+        "X-2026-09-16.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-14T10:09:38+00:00",
+      "verification": "official_public_post",
+      "note": "插件／動畫庫組合推薦，附圖為宣傳封面，未展示可核實的產品 UI 方法。"
+    },
+    "2093708168434237481": {
+      "url": "https://x.com/buaaxhm/status/2093708168434237481",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "bridge-background-agent-separate-cursor"
+      ],
+      "published_at": "2026-08-29T14:31:41+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "行為驗證：僅讀作者文章與公開圖，未測試背景輸入隔離或 App 相容性"
+      ]
+    },
+    "2062358214985883920": {
+      "url": "https://x.com/cellinlab/status/2062358214985883920",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-04T02:18:09+00:00",
+      "verification": "official_public_post",
+      "note": "正文只求推薦博主，縮圖是硬體操控裝置，無可核對軟體流程。"
+    },
+    "2059508804493119704": {
+      "url": "https://x.com/chunxiangai/status/2059508804493119704",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-27T05:35:37+00:00",
+      "verification": "official_public_post",
+      "note": "ToB Agent 架構與最終形態論斷；附圖是抽象三區圖，非具體產品畫面。"
+    },
+    "2088123773023367480": {
+      "url": "https://x.com/chunxiangai/status/2088123773023367480",
+      "archive_files": [
+        "X-2026-08-15.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "chunui-component-demo-catalog"
+      ],
+      "published_at": "2026-08-14T04:41:17+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "device: 未安裝 Demo 或驗證真機及訂閱流程"
+      ]
+    },
+    "2099799518011343144": {
+      "url": "https://x.com/chunxiangai/status/2099799518011343144",
+      "archive_files": [
+        "X-2026-09-16.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "component-gallery-named-component-index"
+      ],
+      "published_at": "2026-09-15T09:56:32+00:00",
+      "verification": "official_public_post"
+    },
+    "2089738867691921478": {
+      "url": "https://x.com/cnyzgkc/status/2089738867691921478",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-18T15:39:06+00:00",
+      "verification": "official_public_post",
+      "note": "PPT Skill 推薦，非產品介面流程。"
+    },
+    "2088614153003192438": {
+      "url": "https://x.com/CryptoPainter/status/2088614153003192438",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "xiaoban-companion-learning-cards"
+      ],
+      "published_at": "2026-08-15T13:09:53+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2100907100876771434": {
+      "url": "https://x.com/cuixr1314/status/2100907100876771434",
+      "archive_files": [
+        "X-2026-09-20.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "scene-vocabulary-highlight-and-recall"
+      ],
+      "published_at": "2026-09-18T11:17:40+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2090107550654153159": {
+      "url": "https://x.com/Daiiors/status/2090107550654153159",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "splash-icon-rail-hover"
+      ],
+      "published_at": "2026-08-19T16:04:07+00:00",
+      "verification": "official_public_post"
+    },
+    "2079492394052120849": {
+      "url": "https://x.com/DashHuang/status/2079492394052120849",
+      "archive_files": [
+        "X-2026-07-24.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "dual-agent-searchable-model-picker"
+      ],
+      "published_at": "2026-07-21T09:03:16+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 原帖為預告，未驗證搜尋、切換與相容性"
+      ]
+    },
+    "2089196207138550270": {
+      "url": "https://x.com/davinci_seven/status/2089196207138550270",
+      "archive_files": [
+        "X-2026-08-18.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-17T03:42:45+00:00",
+      "verification": "official_public_post",
+      "note": "公眾號排版 Skill 宣告，沒有可觀察 UI 流程。"
+    },
+    "2092864376290291765": {
+      "url": "https://x.com/Delroy715/status/2092864376290291765",
+      "archive_files": [
+        "X-2026-08-28.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "liquid-gooey-detached-control-motion"
+      ],
+      "published_at": "2026-08-27T06:38:45+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品"
+      ]
+    },
+    "2087112163752349841": {
+      "url": "https://x.com/dezainaz_ceo/status/2087112163752349841",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "dashboard-task-layout-comparison"
+      ],
+      "published_at": "2026-08-11T09:41:31+00:00",
+      "verification": "official_public_post"
+    },
+    "2037127563018223796": {
+      "url": "https://x.com/dingyi/status/2037127563018223796",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "soft-skeuomorphic-airplane-window-icon"
+      ],
+      "published_at": "2026-03-26T11:20:33+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "prompt: 原帖未提供可重現的完整提示詞"
+      ]
+    },
+    "2049423162933395583": {
+      "url": "https://x.com/dingyi/status/2049423162933395583",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "transitions-dev-state-preserving-components"
+      ],
+      "published_at": "2026-04-29T09:38:53+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未實測鍵盤、減少動態效果與複製出的程式碼"
+      ],
+      "related_sources": [
+        "2069513317693964418"
+      ]
+    },
+    "2064557479611256865": {
+      "url": "https://x.com/dingyi/status/2064557479611256865",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kuse-website-template-style-choice"
+      ],
+      "published_at": "2026-06-10T03:57:15+00:00",
+      "verification": "official_public_post"
+    },
+    "2070305673121042481": {
+      "url": "https://x.com/dingyi/status/2070305673121042481",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "portfolio-preview-project-grid"
+      ],
+      "published_at": "2026-06-26T00:38:31+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "comparison: 未與原網站逐項對照或實測導覽"
+      ]
+    },
+    "2071076471255478477": {
+      "url": "https://x.com/dingyi/status/2071076471255478477",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-28T03:41:24+00:00",
+      "verification": "official_public_post",
+      "note": "PPT 工具與製作效率個人觀點，沒有具體操作設計。",
+      "related_sources": [
+        {
+          "id": "2071041037636939937",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2074991424710545908": {
+      "url": "https://x.com/dingyi/status/2074991424710545908",
+      "archive_files": [
+        "X-2026-07-10.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ultramock-screenshot-scene-editor"
+      ],
+      "published_at": "2026-07-08T22:58:01+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        "2093718731159748922"
+      ]
+    },
+    "2077982220514685370": {
+      "url": "https://x.com/dingyi/status/2077982220514685370",
+      "archive_files": [
+        "X-2026-07-18.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "screenkite-drop-assets-into-timeline"
+      ],
+      "published_at": "2026-07-17T05:02:23+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media",
+      "related_sources": [
+        {
+          "id": "2077954288140386314",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2081982238405894446": {
+      "url": "https://x.com/dingyi/status/2081982238405894446",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "fluid-scrollbar-overflow-signifier"
+      ],
+      "published_at": "2026-07-28T05:57:01+00:00",
+      "verification": "official_public_post"
+    },
+    "2082799117273854013": {
+      "url": "https://x.com/dingyi/status/2082799117273854013",
+      "archive_files": [
+        "X-2026-07-31.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-30T12:03:00+00:00",
+      "verification": "official_public_post",
+      "note": "原帖只有去除 AI slop 的工具推薦與網址，沒有具體 UI 配置、狀態變化或示例媒體。"
+    },
+    "2089212259755254160": {
+      "url": "https://x.com/dingyi/status/2089212259755254160",
+      "archive_files": [
+        "X-2026-08-18.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-17T04:46:33+00:00",
+      "verification": "official_public_post",
+      "note": "模型額度／訂閱的比喻評論，未展示相應的產品操作問題。"
+    },
+    "2099784285775593630": {
+      "url": "https://x.com/dingyi/status/2099784285775593630",
+      "archive_files": [
+        "X-2026-09-16.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-15T08:56:00+00:00",
+      "verification": "official_public_post",
+      "note": "Spectrum UI 元件庫與安裝能力宣傳，沒有具體畫面或互動設計。"
+    },
+    "2071516227151995342": {
+      "url": "https://x.com/dontbesilent/status/2071516227151995342",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-29T08:48:50+00:00",
+      "verification": "official_public_post",
+      "note": "商業產品設計／引流方法口播，非軟體 UI。"
+    },
+    "2053940091970580736": {
+      "url": "https://x.com/dotey/status/2053940091970580736",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "codex-project-chat-artifact-workspace"
+      ],
+      "published_at": "2026-05-11T20:47:32+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2059445614576898158": {
+      "url": "https://x.com/dotey/status/2059445614576898158",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-27T01:24:31+00:00",
+      "verification": "official_public_post",
+      "note": "僅比較元件庫與 SDK 耦合偏好，沒有可收錄的介面設計方法。"
+    },
+    "2059666423538983242": {
+      "url": "https://x.com/dotey/status/2059666423538983242",
+      "archive_files": [
+        "X-2026-07-05.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "agent-primary-vs-editor-primary-workspace"
+      ],
+      "published_at": "2026-05-27T16:01:56+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "usability: 未做兩種配置的任務比較"
+      ]
+    },
+    "2064182459718091202": {
+      "url": "https://x.com/dotey/status/2064182459718091202",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baoyu-design-imported-system-local-preview"
+      ],
+      "published_at": "2026-06-09T03:07:03+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "匯入互動：附圖未展示完整 Design System 匯入與選擇流程；未執行工具"
+      ]
+    },
+    "2065874894563463660": {
+      "url": "https://x.com/dotey/status/2065874894563463660",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "claude-design-stateful-prototype-workflow"
+      ],
+      "published_at": "2026-06-13T19:12:11+00:00",
+      "verification": "official_public_post"
+    },
+    "2066736451404923109": {
+      "url": "https://x.com/dotey/status/2066736451404923109",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-16T04:15:42+00:00",
+      "verification": "official_public_post",
+      "note": "PPT 生成、標記修改與匯出展示，依本批要求排除 PPT 製作。",
+      "related_sources": [
+        {
+          "id": "2064959133535658144",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2064182459718091202",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2067039941960327204": {
+      "url": "https://x.com/dotey/status/2067039941960327204",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "primary_text",
+        "primary_media"
+      ],
+      "note": [
+        "primary_text",
+        "primary_media"
+      ]
+    },
+    "2067876611873964284": {
+      "url": "https://x.com/dotey/status/2067876611873964284",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-19T07:46:18+00:00",
+      "verification": "official_public_post",
+      "note": "AI 配圖與可編輯 PPTX 工作流，非產品內 UI 模式。"
+    },
+    "2069513317693964418": {
+      "url": "https://x.com/dotey/status/2069513317693964418",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "transitions-dev-state-preserving-components"
+      ],
+      "published_at": "2026-06-23T20:09:59+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未實測鍵盤、減少動態效果與複製出的程式碼"
+      ],
+      "related_sources": [
+        "2049423162933395583"
+      ]
+    },
+    "2070379812594606188": {
+      "url": "https://x.com/dotey/status/2070379812594606188",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-26T05:33:07+00:00",
+      "verification": "official_public_post",
+      "note": "PPT Skill 比較推薦，依本批範圍排除。",
+      "related_sources": [
+        {
+          "id": "2070323205177548827",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2073749390368395744": {
+      "url": "https://x.com/dotey/status/2073749390368395744",
+      "archive_files": [
+        "X-2026-07-06.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-05T12:42:37+00:00",
+      "verification": "official_public_post",
+      "note": "工程組織、CI/CD 與 design.md 建議，非介面案例。",
+      "related_sources": [
+        {
+          "id": "2073661916413919525",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2076054180251218197": {
+      "url": "https://x.com/dotey/status/2076054180251218197",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-11T21:21:02+00:00",
+      "verification": "official_public_post",
+      "note": "UI 與程式碼的審美觀點，沒有具體設計。"
+    },
+    "2078388657979838830": {
+      "url": "https://x.com/dotey/status/2078388657979838830",
+      "archive_files": [
+        "X-2026-07-21.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-watermark-preview-inspector"
+      ],
+      "published_at": "2026-07-18T07:57:25+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "互動／交付：僅核對作者公開原型與文字，未操作原型或驗證正式匯出"
+      ]
+    },
+    "2080770347977113983": {
+      "url": "https://x.com/dotey/status/2080770347977113983",
+      "archive_files": [
+        "X-2026-07-26.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-screen-text-review-export"
+      ],
+      "verification": "archive_discovery_only",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2084420451426521368": {
+      "url": "https://x.com/dotey/status/2084420451426521368",
+      "archive_files": [
+        "X-2026-08-06.md",
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-03T23:25:36+00:00",
+      "verification": "official_public_post",
+      "note": "遷移時用像素比較驗證的工程工作流，沒有新介面流程。",
+      "related_sources": [
+        {
+          "id": "2083620270959480931",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2083535287267774908",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2086144247388905833": {
+      "url": "https://x.com/dotey/status/2086144247388905833",
+      "archive_files": [
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "claude-design-stateful-prototype-workflow"
+      ],
+      "published_at": "2026-08-08T17:35:21+00:00",
+      "verification": "official_public_post"
+    },
+    "2087406360979800117": {
+      "url": "https://x.com/dotey/status/2087406360979800117",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-12T05:10:33+00:00",
+      "verification": "official_public_post",
+      "note": "主帖重點是 Rust/GPUI 程式庫學習，引用截圖不足以提煉具體 Waku 操作。",
+      "related_sources": [
+        {
+          "id": "2087308677577642141",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2087783863741256149": {
+      "url": "https://x.com/dotey/status/2087783863741256149",
+      "archive_files": [
+        "X-2026-08-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-screen-text-review-export"
+      ],
+      "published_at": "2026-08-13T06:10:36+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2094981274741911985": {
+      "url": "https://x.com/dotey/status/2094981274741911985",
+      "archive_files": [
+        "X-2026-09-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-agent-entry-and-project-context"
+      ],
+      "published_at": "2026-09-02T02:50:33+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "implementation: 原帖為原型，CLI 與 API 整合未驗證"
+      ]
+    },
+    "2102436985717616915": {
+      "url": "https://x.com/dotey/status/2102436985717616915",
+      "archive_files": [
+        "X-2026-09-24.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-22T16:36:53+00:00",
+      "verification": "official_public_post",
+      "note": "原型檔匯出與本地維護的工具工作流，附圖未展示所討論的具體 UI 設計方法。"
+    },
+    "2102968028476436866": {
+      "url": "https://x.com/dotey/status/2102968028476436866",
+      "archive_files": [
+        "X-2026-09-25.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "muse-charm-touch-conversation-entry"
+      ],
+      "published_at": "2026-09-24T03:47:03+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 已下載並檢視原帖影片四張影格，但均為舞台演說或大會標誌，未顯示本文硬體操作，故不作介面證據",
+        "verification: 硬體發布資訊未以 Meta 官方消息獨立核實"
+      ]
+    },
+    "2104107699583463686": {
+      "url": "https://x.com/dotey/status/2104107699583463686",
+      "archive_files": [
+        "X-2026-09-30.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-icon-variant-size-review"
+      ],
+      "published_at": "2026-09-27T07:15:42+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "export: 未驗證輸出檔格式與系統實際顯示"
+      ]
+    },
+    "2079907060133871894": {
+      "url": "https://x.com/Easycompany333/status/2079907060133871894",
+      "archive_files": [
+        "X-2026-07-24.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "palmier-agent-editable-timeline"
+      ],
+      "published_at": "2026-07-22T12:31:00+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2062841141318320395": {
+      "url": "https://x.com/ersadwork/status/2062841141318320395",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "alignui-account-setup-progressive-sections"
+      ],
+      "published_at": "2026-06-05T10:17:08+00:00",
+      "verification": "official_public_post"
+    },
+    "2070696832641249667": {
+      "url": "https://x.com/eternityspring/status/2070696832641249667",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-27T02:32:51+00:00",
+      "verification": "official_public_post",
+      "note": "封面模板與公眾號排版工具更新；主要為內容製作，未提供可驗證的專項互動流程。",
+      "related_sources": [
+        {
+          "id": "2064617127450140837",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2064525282581836182",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2105111904691908939": {
+      "url": "https://x.com/fatbobman/status/2105111904691908939",
+      "archive_files": [
+        "X-2026-10-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "swiftui-today-layout-comparison"
+      ],
+      "published_at": "2026-09-30T01:46:03+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "product: 原文未交代影片中任務 App 的產品身分"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2105272720024035471": {
+      "url": "https://x.com/fatbobman/status/2105272720024035471",
+      "archive_files": [
+        "X-2026-10-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-30T12:25:05+00:00",
+      "verification": "official_public_post",
+      "note": "Xcode MCP Preview 快取與設備配置的工程驗證問題，非產品 UI 案例。"
+    },
+    "2088574332448715169": {
+      "url": "https://x.com/FiniYang/status/2088574332448715169",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "dsh-noema-memory-settings"
+      ],
+      "published_at": "2026-08-15T10:31:39+00:00",
+      "verification": "official_public_post"
+    },
+    "2053879878693380346": {
+      "url": "https://x.com/gaborpribek/status/2053879878693380346",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "lumina-creature-anatomy-cross-section"
+      ],
+      "published_at": "2026-05-11T16:48:16+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "accuracy: 生成的幻想生物未經解剖或教材精度核驗"
+      ]
+    },
+    "2070855487651041293": {
+      "url": "https://x.com/GeekCatX/status/2070855487651041293",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-27T13:03:17+00:00",
+      "verification": "official_public_post",
+      "note": "PPT Skills 排名與產出格式比較，排除。",
+      "related_sources": [
+        {
+          "id": "2070379812594606188",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2070323205177548827",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2059644285088075893": {
+      "url": "https://x.com/gkxspace/status/2059644285088075893",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "url-audit-hero-input-output-preview"
+      ],
+      "published_at": "2026-05-27T14:33:58+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "產品識別：貼文所述 design.md 服務與附圖的品牌分析文案不一致，待核對"
+      ]
+    },
+    "2062906242247319896": {
+      "url": "https://x.com/guerriero_se/status/2062906242247319896",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "drag-threshold-collapse"
+      ],
+      "published_at": "2026-06-05T14:35:49+00:00",
+      "verification": "official_public_post"
+    },
+    "2094123047125197036": {
+      "url": "https://x.com/GYLQ520/status/2094123047125197036",
+      "archive_files": [
+        "X-2026-09-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "mujing-contextual-subtitle-practice"
+      ],
+      "published_at": "2026-08-30T18:00:16+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2076057266462334978": {
+      "url": "https://x.com/he2abin/status/2076057266462334978",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-11T21:33:18+00:00",
+      "verification": "official_public_post",
+      "note": "對 AI 味與審美疲勞的意見，沒有介面實例。"
+    },
+    "2101609031609762082": {
+      "url": "https://x.com/HiFrey/status/2101609031609762082",
+      "archive_files": [
+        "X-2026-09-21.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-20T09:46:53+00:00",
+      "verification": "official_public_post",
+      "note": "雙拼學習建議與鍵位圖，非具體應用 UI 流程。"
+    },
+    "2094045342690169123": {
+      "url": "https://x.com/HiTw93/status/2094045342690169123",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-30T12:51:29+00:00",
+      "verification": "official_public_post",
+      "note": "無障礙屬性測試建議，無產品介面細節。"
+    },
+    "2097700029012320675": {
+      "url": "https://x.com/HiTw93/status/2097700029012320675",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kami-content-first-document-hierarchy"
+      ],
+      "published_at": "2026-09-09T14:53:54+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "comparison: 未取得完整前後版本與閱讀測試"
+      ]
+    },
+    "2093847115621597478": {
+      "url": "https://x.com/hwwaanng/status/2093847115621597478",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "bridge-background-agent-separate-cursor"
+      ],
+      "published_at": "2026-08-29T23:43:48+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "行為驗證：僅讀作者文章與公開圖，未測試背景輸入隔離或 App 相容性"
+      ]
+    },
+    "2073207530193555573": {
+      "url": "https://x.com/iamai_omni/status/2073207530193555573",
+      "archive_files": [
+        "X-2026-07-06.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-04T00:49:28+00:00",
+      "verification": "official_public_post",
+      "note": "資訊環境與投資閱讀順序的抽象建議，沒有介面示範。"
+    },
+    "2096499980861350125": {
+      "url": "https://x.com/ianneo_ai/status/2096499980861350125",
+      "archive_files": [
+        "X-2026-09-08.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "seesaw-reference-selection-brief"
+      ],
+      "published_at": "2026-09-06T07:25:21+00:00",
+      "verification": "official_public_post"
+    },
+    "2065243956494172557": {
+      "url": "https://x.com/icycat/status/2065243956494172557",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "codex-change-proposal-comparison-table"
+      ],
+      "published_at": "2026-06-12T01:25:04+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖未附表格範例，僅可核對文字建議"
+      ]
+    },
+    "2071768693592469791": {
+      "url": "https://x.com/icycat/status/2071768693592469791",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-30T01:32:02+00:00",
+      "verification": "official_public_post",
+      "note": "設計靈感網站推薦與畫廊縮圖，沒有明確的產品任務或操作過程。"
+    },
+    "2088093704376762378": {
+      "url": "https://x.com/IndieDevHailey/status/2088093704376762378",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "官方 syndication TweetTombstone：This Post is from a suspended account."
+      ],
+      "note": [
+        "官方 syndication TweetTombstone：This Post is from a suspended account."
+      ]
+    },
+    "2071872763405717812": {
+      "url": "https://x.com/Jackywine/status/2071872763405717812",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-30T08:25:34+00:00",
+      "verification": "official_public_post",
+      "note": "電影／攝影色彩參考網站推薦；重點為審美素材，未具體展示搜尋或篩選狀態。",
+      "related_sources": [
+        {
+          "id": "2071450664379781169",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2072614425660731498": {
+      "url": "https://x.com/Jackywxsz/status/2072614425660731498",
+      "archive_files": [
+        "X-2026-07-04.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "personal-site-design-brief-before-code"
+      ],
+      "published_at": "2026-07-02T09:32:41+00:00",
+      "article_verification": "official_article_entity_full_text",
+      "verification": "official_public_post"
+    },
+    "2063265944844288449": {
+      "url": "https://x.com/jeetnirnejak/status/2063265944844288449",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "call-booking-progressive-slot-picker"
+      ],
+      "published_at": "2026-06-06T14:25:09+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 概念動畫未驗證時區、占位衝突與寄信"
+      ]
+    },
+    "2074309164239864032": {
+      "url": "https://x.com/jiamu_future/status/2074309164239864032",
+      "archive_files": [
+        "X-2026-07-10.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "gzh-design-theme-components-mobile-reading"
+      ],
+      "published_at": "2026-07-07T01:46:58+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "平台保真：未實際貼入公眾號編輯器驗證"
+      ]
+    },
+    "2102045996297658729": {
+      "url": "https://x.com/Jingyuan_521/status/2102045996297658729",
+      "archive_files": [
+        "X-2026-09-23.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-21T14:43:14+00:00",
+      "verification": "official_public_post",
+      "note": "AI 內容焦慮與團隊價值觀長文，非 UI。"
+    },
+    "2073421078073143785": {
+      "url": "https://x.com/Jolyne_AI/status/2073421078073143785",
+      "archive_files": [
+        "X-2026-07-06.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-04T14:58:01+00:00",
+      "verification": "official_public_post",
+      "note": "CAD 功能與免安裝介紹；單張建模畫面未交代可覆用的選取／修改過程。"
+    },
+    "2075566581153685676": {
+      "url": "https://x.com/Justwanttoslee5/status/2075566581153685676",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-10T13:03:29+00:00",
+      "verification": "official_public_post",
+      "note": "卡紙材質與配色風格素材，非軟體介面。"
+    },
+    "2086794677693690213": {
+      "url": "https://x.com/kaiseisuzuk/status/2086794677693690213",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-10T12:39:56+00:00",
+      "verification": "official_public_post",
+      "note": "幾何 Logo 生成作品展示，附圖為標誌構造，非生成器 UI。"
+    },
+    "2087011119042814053": {
+      "url": "https://x.com/kawai_design/status/2087011119042814053",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ui-pattern-dictionary-named-requests"
+      ],
+      "published_at": "2026-08-11T03:00:00+00:00",
+      "verification": "official_public_post"
+    },
+    "2088171980571001338": {
+      "url": "https://x.com/kevinma_dev_zh/status/2088171980571001338",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-14T07:52:51+00:00",
+      "verification": "official_public_post",
+      "note": "grill-me 需求盤問方法，沒有可觀察的產品內交互。"
+    },
+    "2072247217897763195": {
+      "url": "https://x.com/Kubai087/status/2072247217897763195",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-01T09:13:31+00:00",
+      "verification": "official_public_post",
+      "note": "程式結構、設計系統與預覽驗證建議；Lumno 縮圖未示範新流程。"
+    },
+    "2062793099135648107": {
+      "url": "https://x.com/KyrieCheungYep/status/2062793099135648107",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "reference-ui-structure-asset-calibration"
+      ],
+      "published_at": "2026-06-05T07:06:14+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "execution: 未執行原帖的還原工作流或量測差異"
+      ]
+    },
+    "2103327328420217240": {
+      "url": "https://x.com/Lakr233/status/2103327328420217240",
+      "archive_files": [
+        "X-2026-09-30.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "primary_text",
+        "primary_media"
+      ],
+      "note": [
+        "primary_text",
+        "primary_media"
+      ]
+    },
+    "2087034720563695836": {
+      "url": "https://x.com/latencius/status/2087034720563695836",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-11T04:33:47+00:00",
+      "verification": "official_public_post",
+      "note": "引用幾何 Logo 生成作品，與原帖同為品牌圖形而非產品 UI。",
+      "related_sources": [
+        {
+          "id": "2086794677693690213",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2093718731159748922": {
+      "url": "https://x.com/Leewei60269181/status/2093718731159748922",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ultramock-screenshot-scene-editor"
+      ],
+      "published_at": "2026-08-29T15:13:39+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        "2074991424710545908"
+      ]
+    },
+    "2095502100126183821": {
+      "url": "https://x.com/lencx_/status/2095502100126183821",
+      "archive_files": [
+        "X-2026-09-05.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-03T13:20:07+00:00",
+      "verification": "official_public_post",
+      "note": "Astryx／StyleX 選型想法與元件拼圖，無具體流程或行為比較。"
+    },
+    "2082067767638073692": {
+      "url": "https://x.com/LgyLight/status/2082067767638073692",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "spatial-canvas-focus-overview"
+      ],
+      "published_at": "2026-07-28T11:36:53+00:00",
+      "verification": "official_public_post"
+    },
+    "2095809430608908623": {
+      "url": "https://x.com/LgyLight/status/2095809430608908623",
+      "archive_files": [
+        "X-2026-09-05.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-04T09:41:21+00:00",
+      "verification": "official_public_post",
+      "note": "原帖列設計圖庫、元件庫與聘請設計師等一般建議，未展示可具體分析的 UI 流程或版面。"
+    },
+    "2083922657658249264": {
+      "url": "https://x.com/li9292/status/2083922657658249264",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "handdrawn-icons-search-style-grid"
+      ],
+      "published_at": "2026-08-02T14:27:33+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        "2083692182633107540"
+      ]
+    },
+    "2066904078123503632": {
+      "url": "https://x.com/lijigang/status/2066904078123503632",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-16T15:21:48+00:00",
+      "verification": "official_public_post",
+      "note": "複製到 Notes 的腳本構想，沒有已觀察的介面實作。"
+    },
+    "2060174371780751589": {
+      "url": "https://x.com/LinearUncle/status/2060174371780751589",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-29T01:40:21+00:00",
+      "verification": "official_public_post",
+      "note": "引用內容實際是子代理 DSL 與工作流編排，不是生成式介面設計。"
+    },
+    "2060179936699384319": {
+      "url": "https://x.com/LinearUncle/status/2060179936699384319",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "pi-generative-ui-progressive-widget-render"
+      ],
+      "published_at": "2026-05-29T02:02:27+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 僅核對作者文章與動圖，未執行擴充"
+      ]
+    },
+    "2101870879177429051": {
+      "url": "https://x.com/loooool_fun/status/2101870879177429051",
+      "archive_files": [
+        "X-2026-09-22.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "wechat-cover-multiple-crop-safe-area"
+      ],
+      "published_at": "2026-09-21T03:07:23+00:00",
+      "verification": "official_public_post",
+      "note": "User-assigned cross-batch same-product dedup; no new files created here",
+      "related_sources": [
+        "2101916962783994340"
+      ]
+    },
+    "2101916962783994340": {
+      "url": "https://x.com/loooool_fun/status/2101916962783994340",
+      "archive_files": [
+        "X-2026-09-22.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "wechat-cover-multiple-crop-safe-area"
+      ],
+      "published_at": "2026-09-21T06:10:30+00:00",
+      "verification": "official_public_post"
+    },
+    "2053421848046538981": {
+      "url": "https://x.com/LufzzLiz/status/2053421848046538981",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "cell-architecture-model-exploration"
+      ],
+      "published_at": "2026-05-10T10:28:13+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "accuracy: 教學精度未核驗，作者亦明說僅前兩個模型完成"
+      ]
+    },
+    "2075740519964230006": {
+      "url": "https://x.com/LufzzLiz/status/2075740519964230006",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "codex-inline-browser-task-preview"
+      ],
+      "published_at": "2026-07-11T00:34:40+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "互動驗證：單張公開截圖，未測試內嵌瀏覽器"
+      ]
+    },
+    "2085581847313215979": {
+      "url": "https://x.com/lxfater/status/2085581847313215979",
+      "archive_files": [
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-07T04:20:35+00:00",
+      "verification": "official_public_post",
+      "note": "OpenWiki 自動文檔維護與聊天能力推薦，縮圖雖有圖譜與閱讀欄，但未展示關聯導航或問答過程。"
+    },
+    "2085626449910980898": {
+      "url": "https://x.com/lxfater/status/2085626449910980898",
+      "archive_files": [
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-07T07:17:49+00:00",
+      "verification": "official_public_post",
+      "note": "OfficeCLI 產出與視覺自檢，屬文檔／PPT 製作而非 UI。"
+    },
+    "2089721598333108553": {
+      "url": "https://x.com/lxfater/status/2089721598333108553",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-18T14:30:28+00:00",
+      "verification": "official_public_post",
+      "note": "讓生成圖像轉成可編輯 Office 元素的內容製作教學，排除。"
+    },
+    "2098027027760840864": {
+      "url": "https://x.com/MengTo/status/2098027027760840864",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "storycomet-child-parent-learning-loop"
+      ],
+      "published_at": "2026-09-10T12:33:17+00:00",
+      "verification": "official_public_post"
+    },
+    "2088990558622474511": {
+      "url": "https://x.com/midudev/status/2088990558622474511",
+      "archive_files": [
+        "X-2026-08-18.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "morphicons-icon-transition-playground"
+      ],
+      "published_at": "2026-08-16T14:05:35+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "package: 未核對套件體積、演算法與無依賴聲明"
+      ]
+    },
+    "2091414016963027193": {
+      "url": "https://x.com/milo_reed/status/2091414016963027193",
+      "archive_files": [
+        "X-2026-08-25.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-23T06:35:32+00:00",
+      "verification": "official_public_post",
+      "note": "HyperFrames 動效影片製作與案例推薦，排除。"
+    },
+    "2055980925452968351": {
+      "url": "https://x.com/MinLiBuilds/status/2055980925452968351",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "published_at": "2026-05-17T11:57:05+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "primary_article_text"
+      ],
+      "note": [
+        "primary_article_text"
+      ]
+    },
+    "2097254145271222630": {
+      "url": "https://x.com/Morry4AI/status/2097254145271222630",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-08T09:22:07+00:00",
+      "verification": "official_public_post",
+      "note": "Archify 技術圖與動效素材生成，屬架構圖內容製作，非產品 UI 流程。"
+    },
+    "2072108620465246607": {
+      "url": "https://x.com/nash_su/status/2072108620465246607",
+      "archive_files": [
+        "X-2026-07-04.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-01T00:02:47+00:00",
+      "verification": "official_public_post",
+      "note": "llm_wiki 發布摘要只有功能清單，沒有批次管理或佇列暫停的具體介面。"
+    },
+    "2075488090374955181": {
+      "url": "https://x.com/nash_su/status/2075488090374955181",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "llm-wiki-file-skill-chat-context"
+      ],
+      "published_at": "2026-07-10T07:51:36+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範"
+      ]
+    },
+    "2063090029535412638": {
+      "url": "https://x.com/NFTCPS/status/2063090029535412638",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-06T02:46:08+00:00",
+      "verification": "official_public_post",
+      "note": "Codex++ 功能宣告與 README 縮圖，未展示設定／刪除確認的操作細節。"
+    },
+    "2063806318033723470": {
+      "url": "https://x.com/NiallxYoung/status/2063806318033723470",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-08T02:12:24+00:00",
+      "verification": "official_public_post",
+      "note": "圖標資源聚合與下載推薦，未展開圖標選擇或介面方法。"
+    },
+    "2090386706000400412": {
+      "url": "https://x.com/NiallxYoung/status/2090386706000400412",
+      "archive_files": [
+        "X-2026-08-22.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "figma-ui-output-summary-and-details"
+      ],
+      "published_at": "2026-08-20T10:33:22+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "figma: 未核對原檔圖層、可編輯性或轉換速度"
+      ]
+    },
+    "2083692182633107540": {
+      "url": "https://x.com/nilbuild/status/2083692182633107540",
+      "archive_files": [
+        "X-2026-08-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "handdrawn-icons-search-style-grid"
+      ],
+      "published_at": "2026-08-01T23:11:44+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        "2083922657658249264"
+      ]
+    },
+    "2089429432612147572": {
+      "url": "https://x.com/NousResearch/status/2089429432612147572",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "hermes-desktop-named-bot-profiles"
+      ],
+      "published_at": "2026-08-17T19:09:31+00:00",
+      "verification": "official_public_post"
+    },
+    "2087049945253818762": {
+      "url": "https://x.com/Null256x/status/2087049945253818762",
+      "archive_files": [
+        "X-2026-08-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-11T05:34:17+00:00",
+      "verification": "official_public_post",
+      "note": "與幾何 Logo 作品原帖同一來源，非產品 UI。",
+      "related_sources": [
+        {
+          "id": "2086794677693690213",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2045161391414530311": {
+      "url": "https://x.com/oasisfeng/status/2045161391414530311",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-04-17T15:24:07+00:00",
+      "verification": "official_public_post",
+      "note": "彩色電子紙相框與 API 使用想像，照片未展示軟體操作。"
+    },
+    "2089731834095489430": {
+      "url": "https://x.com/OJOaidesign/status/2089731834095489430",
+      "archive_files": [
+        "X-2026-08-21.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ojo-agent-team-to-canvas-prototype"
+      ],
+      "published_at": "2026-08-18T15:11:09+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 僅官方展示，未驗證團隊執行與畫布編輯"
+      ]
+    },
+    "2088112695841333315": {
+      "url": "https://x.com/okooo5km/status/2088112695841333315",
+      "archive_files": [
+        "X-2026-08-15.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "soft-skeuo-single-metaphor-icons"
+      ],
+      "published_at": "2026-08-14T03:57:16+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "交付驗證：未取得技能輸出檔案或驗證小尺寸效果"
+      ]
+    },
+    "2093839738000281718": {
+      "url": "https://x.com/onenewbite/status/2093839738000281718",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "qcam-teleprompter-script-controls"
+      ],
+      "published_at": "2026-08-29T23:14:29+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2053381253328752903": {
+      "url": "https://x.com/op7418/status/2053381253328752903",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-10T07:46:55+00:00",
+      "verification": "official_public_post",
+      "note": "PPT 主題樣張，排除。",
+      "related_sources": [
+        {
+          "id": "2053143307371556944",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2047486546300051478",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2072510211626336740": {
+      "url": "https://x.com/op7418/status/2072510211626336740",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-02T02:38:34+00:00",
+      "verification": "official_public_post",
+      "note": "Live Photo 編輯 Skill 製作能力推薦，非產品內 UI。",
+      "related_sources": [
+        {
+          "id": "2072509798026006965",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2084978122894815677": {
+      "url": "https://x.com/op7418/status/2084978122894815677",
+      "archive_files": [
+        "X-2026-08-06.md",
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "handwritten-streaming-ai-explanation"
+      ],
+      "published_at": "2026-08-05T12:21:36+00:00",
+      "verification": "official_public_post"
+    },
+    "2100500580573827529": {
+      "url": "https://x.com/op7418/status/2100500580573827529",
+      "archive_files": [
+        "X-2026-09-20.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-17T08:22:18+00:00",
+      "verification": "official_public_post",
+      "note": "軟體宣傳片生成與模型能力展示，排除。"
+    },
+    "2056309544997818507": {
+      "url": "https://x.com/OpenDesignHQ/status/2056309544997818507",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "open-design-shared-agent-canvas"
+      ],
+      "published_at": "2026-05-18T09:42:54+00:00",
+      "verification": "official_public_post"
+    },
+    "2093453084814901435": {
+      "url": "https://x.com/pauline_makes/status/2093453084814901435",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "webcam-glider-body-input-feedback"
+      ],
+      "published_at": "2026-08-28T21:38:04+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "互動驗證：未實際測試姿勢控制、延遲或替代輸入"
+      ]
+    },
+    "2097523338897960986": {
+      "url": "https://x.com/peekbomb/status/2097523338897960986",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "share-days-card-template-preview"
+      ],
+      "published_at": "2026-09-09T03:11:48+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 已遮除示範中人物名稱與頭像，局部視覺細節不保留"
+      ]
+    },
+    "2101578929786228924": {
+      "url": "https://x.com/pengchujin/status/2101578929786228924",
+      "archive_files": [
+        "X-2026-09-21.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ios-status-summary-card-hierarchy"
+      ],
+      "published_at": "2026-09-20T07:47:16+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未執行 App 或核對系統數值"
+      ]
+    },
+    "2068899205033115970": {
+      "url": "https://x.com/pzx553/status/2068899205033115970",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "voicekey-summary-history-detail-layout"
+      ],
+      "published_at": "2026-06-22T03:29:43+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "比較驗證：僅比較作者公開截圖，未執行新舊版本"
+      ]
+    },
+    "2054582758522208477": {
+      "url": "https://x.com/RookieRicardoR/status/2054582758522208477",
+      "archive_files": [
+        "X-2026-07-05.md"
+      ],
+      "saved_via": [
+        "收藏"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-13T15:21:16+00:00",
+      "verification": "official_public_post",
+      "note": "設計靈感網站推薦，沒有拆解某個具體控件的設計方法。"
+    },
+    "2070465848310198675": {
+      "url": "https://x.com/Ryrenz/status/2070465848310198675",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-26T11:15:00+00:00",
+      "verification": "official_public_post",
+      "note": "Cap 錄屏、儲存與部署功能推薦，沒有可觀察的錄製／分享介面流程。"
+    },
+    "2064206181778731228": {
+      "url": "https://x.com/Saccc_c/status/2064206181778731228",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "motion-vocabulary-actionable-brief"
+      ],
+      "published_at": "2026-06-09T04:41:19+00:00",
+      "verification": "official_public_post"
+    },
+    "2080988433154228282": {
+      "url": "https://x.com/Saccc_c/status/2080988433154228282",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-25T12:08:00+00:00",
+      "verification": "official_public_post",
+      "note": "3D 相機模型作品品質展示，排除。",
+      "related_sources": [
+        {
+          "id": "2080562075567587751",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2082026141620346915": {
+      "url": "https://x.com/Saccc_c/status/2082026141620346915",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-28T08:51:28+00:00",
+      "verification": "official_public_post",
+      "note": "生成模型訂閱與 3D 品質比較，排除。",
+      "related_sources": [
+        {
+          "id": "2080988433154228282",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2080562075567587751",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2084126139472335099": {
+      "url": "https://x.com/Saccc_c/status/2084126139472335099",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "codex-planning-choice-question-card"
+      ],
+      "published_at": "2026-08-03T03:56:07+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "互動驗證：單張圖未核實複選、鍵盤或跳過後行為"
+      ]
+    },
+    "2088566304777048130": {
+      "url": "https://x.com/SevenXL77/status/2088566304777048130",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "primary_text",
+        "primary_media"
+      ],
+      "note": [
+        "primary_text",
+        "primary_media"
+      ]
+    },
+    "2088566363107242092": {
+      "url": "https://x.com/SevenXL77/status/2088566363107242092",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
+      ],
+      "note": [
+        "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
+      ]
+    },
+    "2075764484027932963": {
+      "url": "https://x.com/shao__meng/status/2075764484027932963",
+      "archive_files": [
+        "X-2026-07-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "motion-taxonomy-labeled-examples"
+      ],
+      "published_at": "2026-07-11T02:09:53+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "parameters: 原帖未提供逐項曲線、時長與互動程式"
+      ]
+    },
+    "2099827668686659989": {
+      "url": "https://x.com/Sisymithus/status/2099827668686659989",
+      "archive_files": [
+        "X-2026-09-20.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "apple-status-icon-optical-balance-analysis"
+      ],
+      "published_at": "2026-09-15T11:48:23+00:00",
+      "article_verification": "official_article_entity_full_text",
+      "verification": "official_public_post",
+      "missing": [
+        "官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品",
+        "文章素材：08、14、17 號來源下載回應 404；本卡所引六圖皆已取得並檢視"
+      ],
+      "related_sources": [
+        "2099911306338091289"
+      ]
+    },
+    "2084653106944753931": {
+      "url": "https://x.com/sts81998850/status/2084653106944753931",
+      "archive_files": [
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ui-visual-refinement-sequence"
+      ],
+      "published_at": "2026-08-04T14:50:06+00:00",
+      "article_verification": "official_article_entity_full_text",
+      "verification": "official_public_post"
+    },
+    "2088599468698751328": {
+      "url": "https://x.com/SubhanHQ/status/2088599468698751328",
+      "archive_files": [
+        "X-2026-08-17.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "mono-charts-contextual-chart-gallery"
+      ],
+      "published_at": "2026-08-15T12:11:32+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未測元件互動、CLI 安裝與真實資料映射"
+      ]
+    },
+    "2099911306338091289": {
+      "url": "https://x.com/Sukiea1008/status/2099911306338091289",
+      "archive_files": [
+        "X-2026-09-20.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "apple-status-icon-optical-balance-analysis"
+      ],
+      "published_at": "2026-09-15T17:20:44+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品",
+        "文章素材：08、14、17 號來源下載回應 404；本卡所引六圖皆已取得並檢視"
+      ],
+      "related_sources": [
+        "2099827668686659989"
+      ]
+    },
+    "2087010959500222829": {
+      "url": "https://x.com/supezen/status/2087010959500222829",
+      "archive_files": [
+        "X-2026-08-12.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-11T02:59:22+00:00",
+      "verification": "official_public_post",
+      "note": "Grok 調 UI 速度與使用偏好，無具體介面案例。"
+    },
+    "2104539525183570430": {
+      "url": "https://x.com/Sutao_1324/status/2104539525183570430",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "eagle-visual-preference-evidence-loop"
+      ],
+      "published_at": "2026-09-28T11:51:37+00:00",
+      "article_verification": "official_article_entity_full_text",
+      "verification": "official_public_post",
+      "note": "已由官方 ArticleEntity 取得完整文章與六張原圖，原 blocked 決策已解除。"
+    },
+    "2091912520009470409": {
+      "url": "https://x.com/taiyo_ai_gakuse/status/2091912520009470409",
+      "archive_files": [
+        "X-2026-08-26.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "trip-date-range-presets"
+      ],
+      "published_at": "2026-08-24T15:36:25+00:00",
+      "verification": "official_public_post"
+    },
+    "2098213845726892505": {
+      "url": "https://x.com/Tao100086/status/2098213845726892505",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-11T00:55:38+00:00",
+      "verification": "official_public_post",
+      "note": "瀏覽器自動化架構與後台執行策略；沒有產品 UI 的狀態示範。"
+    },
+    "2087643368591356257": {
+      "url": "https://x.com/teach_fireworks/status/2087643368591356257",
+      "archive_files": [
+        "X-2026-08-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "dashi-taskboard-agent-status-columns"
+      ],
+      "published_at": "2026-08-12T20:52:20+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未驗證狀態同步、拖曳或完成條件"
+      ]
+    },
+    "2059543239074656469": {
+      "url": "https://x.com/turingou/status/2059543239074656469",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-05-27T07:52:27+00:00",
+      "verification": "official_public_post",
+      "note": "統一聊天元件的需求提問，沒有已實作界面。"
+    },
+    "2064303471281557649": {
+      "url": "https://x.com/tuturetom/status/2064303471281557649",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "open-design-shared-agent-canvas"
+      ],
+      "published_at": "2026-06-09T11:07:55+00:00",
+      "verification": "official_public_post"
+    },
+    "2086829438961119668": {
+      "url": "https://x.com/tuturetom/status/2086829438961119668",
+      "archive_files": [
+        "X-2026-08-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "open-design-shared-agent-canvas"
+      ],
+      "published_at": "2026-08-10T14:58:04+00:00",
+      "verification": "official_public_post"
+    },
+    "2083998264018313269": {
+      "url": "https://x.com/Tz_2022/status/2083998264018313269",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-02T19:27:59+00:00",
+      "verification": "official_public_post",
+      "note": "已下載並檢視附圖，只有一項 TOML 設定；原帖未展示多選框的實際 UI 或互動，效率倍數沒有驗證。"
+    },
+    "2088996874460303447": {
+      "url": "https://x.com/VibeEverything/status/2088996874460303447",
+      "archive_files": [
+        "X-2026-08-18.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "21st-component-discovery-preview-prompt"
+      ],
+      "published_at": "2026-08-16T14:30:41+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "複用驗證：未執行 Copy prompt 或測試生成程式"
+      ]
+    },
+    "2061618080934252630": {
+      "url": "https://x.com/vikingmute/status/2061618080934252630",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "motion-vocabulary-actionable-brief"
+      ],
+      "published_at": "2026-06-02T01:17:08+00:00",
+      "verification": "official_public_post"
+    },
+    "2061979261637181775": {
+      "url": "https://x.com/vikingmute/status/2061979261637181775",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "coss-heroui-component-state-gallery"
+      ],
+      "published_at": "2026-06-03T01:12:20+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "accessibility: 未測鍵盤、螢幕閱讀器與錯誤狀態"
+      ]
+    },
+    "2080288142817419657": {
+      "url": "https://x.com/vikingmute/status/2080288142817419657",
+      "archive_files": [
+        "X-2026-07-24.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "bentoslides-file-editor-share-entry"
+      ],
+      "published_at": "2026-07-23T13:45:17+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2085017661566779635": {
+      "url": "https://x.com/vikingmute/status/2085017661566779635",
+      "archive_files": [
+        "X-2026-08-06.md",
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-05T14:58:42+00:00",
+      "verification": "official_public_post",
+      "note": "禮品卡付款方式推薦，未展示可核驗的結帳流程。",
+      "related_sources": [
+        {
+          "id": "2085016013440213063",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2079118667074376114": {
+      "url": "https://x.com/VincentWei93/status/2079118667074376114",
+      "archive_files": [
+        "X-2026-07-21.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-20T08:18:13+00:00",
+      "verification": "official_public_post",
+      "note": "宣傳片製作 Skill 與運鏡效果，排除。"
+    },
+    "2069829482404622725": {
+      "url": "https://x.com/vista8/status/2069829482404622725",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ports-menubar-process-identity"
+      ],
+      "published_at": "2026-06-24T17:06:18+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2073100197769646511": {
+      "url": "https://x.com/vista8/status/2073100197769646511",
+      "archive_files": [
+        "X-2026-07-04.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "design-skill-comparison-shared-scenarios"
+      ],
+      "published_at": "2026-07-03T17:42:58+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "評測重現：未執行原作者測試或取得完整提示與環境"
+      ]
+    },
+    "2077955236048879724": {
+      "url": "https://x.com/vista8/status/2077955236048879724",
+      "archive_files": [
+        "X-2026-07-18.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-17T03:15:09+00:00",
+      "verification": "official_public_post",
+      "note": "只有安裝指令與審美推薦，未展示可歸納的具體改法。"
+    },
+    "2082281547080872347": {
+      "url": "https://x.com/vista8/status/2082281547080872347",
+      "archive_files": [
+        "X-2026-07-29.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "tldraw-storyboard-math-explanation"
+      ],
+      "published_at": "2026-07-29T01:46:22+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未驗證腳本操控、離線行為或影片輸出"
+      ]
+    },
+    "2105197113600786917": {
+      "url": "https://x.com/waylybaye/status/2105197113600786917",
+      "archive_files": [
+        "X-2026-10-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-09-30T07:24:39+00:00",
+      "verification": "official_public_post",
+      "note": "具體內容是 xcodebuild 渲染與測試自動化方法，沒有獨立的介面設計方法或產品 UI 示例。"
+    },
+    "2064207600456003953": {
+      "url": "https://x.com/weichen_ink/status/2064207600456003953",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-09T04:46:57+00:00",
+      "verification": "official_public_post",
+      "note": "公眾號封面與排版工具推薦，沒有具體產品互動。"
+    },
+    "2068204579578417451": {
+      "url": "https://x.com/xiaoerzhan/status/2068204579578417451",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "app-icon-shelf-detail-color-index"
+      ],
+      "published_at": "2026-06-20T05:29:31+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "來源識別：圖庫品牌未由原文確認；素材授權未核對"
+      ]
+    },
+    "2065278092441268246": {
+      "url": "https://x.com/xiaohu/status/2065278092441268246",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "wechat-format-preview-before-publish"
+      ],
+      "published_at": "2026-06-12T03:40:42+00:00",
+      "verification": "official_public_post"
+    },
+    "2059110885533381014": {
+      "url": "https://x.com/xin_pai88825/status/2059110885533381014",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "visual-style-inspector-prompt-handoff"
+      ],
+      "published_at": "2026-05-26T03:14:26+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "runtime: 未驗證生成描述與實際修改是否一致"
+      ]
+    },
+    "2061299111832469667": {
+      "url": "https://x.com/xin_pai88825/status/2061299111832469667",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-01T04:09:40+00:00",
+      "verification": "official_public_post",
+      "note": "Rotato 宣傳片製作教學；引用翻譯產品屬背景，不把其功能挪成主帖設計案例。",
+      "related_sources": [
+        {
+          "id": "2049760753046200809",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2037901837333152236",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2062018158433849708": {
+      "url": "https://x.com/xin_pai88825/status/2062018158433849708",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "portfolio-monochrome-product-proof-layout"
+      ],
+      "published_at": "2026-06-03T03:46:54+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "交付驗證：僅為生成案例圖，未開啟或操作作品集"
+      ]
+    },
+    "2062536809259892901": {
+      "url": "https://x.com/xin_pai88825/status/2062536809259892901",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "agent-risk-confirmation-button-semantics"
+      ],
+      "published_at": "2026-06-04T14:07:50+00:00",
+      "verification": "official_public_post",
+      "note": "Concrete interface pattern verified from original text and inspected media"
+    },
+    "2064199368941748323": {
+      "url": "https://x.com/xin_pai88825/status/2064199368941748323",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "component-theme-propagation-review"
+      ],
+      "published_at": "2026-06-09T04:14:15+00:00",
+      "verification": "official_public_post"
+    },
+    "2064531242364875244": {
+      "url": "https://x.com/xin_pai88825/status/2064531242364875244",
+      "archive_files": [
+        "X-2026-07-30.md",
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-10T02:12:59+00:00",
+      "verification": "official_public_post",
+      "note": "Rotato／ScreenStudio／剪映影片製作工具鏈，依本批範圍排除。",
+      "related_sources": [
+        {
+          "id": "2064199368941748323",
+          "relation": "quoted_source"
+        },
+        {
+          "id": "2062833455126475045",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2059258034820706541": {
+      "url": "https://x.com/xingxingli45573/status/2059258034820706541",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "taste-skill-design-parameter-boundaries"
+      ],
+      "published_at": "2026-05-26T12:59:09+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖未附同頁參數比較或成品素材",
+        "parameters: 原帖未給出可直接重現的參數範圍"
+      ]
+    },
+    "2079732590416961708": {
+      "url": "https://x.com/yangyi/status/2079732590416961708",
+      "archive_files": [
+        "X-2026-07-24.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-07-22T00:57:43+00:00",
+      "verification": "official_public_post",
+      "note": "桌面 Agent 與 OS 形態觀點，無實例。"
+    },
+    "2093968800316293400": {
+      "url": "https://x.com/yanliudreamer/status/2093968800316293400",
+      "archive_files": [
+        "X-2026-09-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-30T07:47:20+00:00",
+      "verification": "official_public_post",
+      "note": "單色海報、品牌與印刷質感生成，非產品 UI。"
+    },
+    "2089329138406760639": {
+      "url": "https://x.com/yetone/status/2089329138406760639",
+      "archive_files": [
+        "X-2026-08-18.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "官方 syndication TweetTombstone：account owner limits who can view their Posts."
+      ],
+      "note": [
+        "官方 syndication TweetTombstone：account owner limits who can view their Posts."
+      ]
+    },
+    "2098238788212535621": {
+      "url": "https://x.com/yihui_indie/status/2098238788212535621",
+      "archive_files": [
+        "X-2026-09-13.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "agent-notification-severity-routing"
+      ],
+      "published_at": "2026-09-11T02:34:45+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察"
+      ]
+    },
+    "2062542335611982167": {
+      "url": "https://x.com/yuanfei_gyf/status/2062542335611982167",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-04T14:29:47+00:00",
+      "verification": "official_public_post",
+      "note": "購買精品產品的稱讚與儀表板縮圖，沒有具體流程或問題說明。"
+    },
+    "2061644933287838180": {
+      "url": "https://x.com/yyyole/status/2061644933287838180",
+      "archive_files": [
+        "X-2026-08-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-06-02T03:03:50+00:00",
+      "verification": "official_public_post",
+      "note": "兒童插畫繪本風格與提示詞，非兒童應用介面。"
+    },
+    "2093715171047096659": {
+      "url": "https://x.com/yyyole/status/2093715171047096659",
+      "archive_files": [
+        "X-2026-08-31.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-08-29T14:59:30+00:00",
+      "verification": "official_public_post",
+      "note": "手機陀螺儀驅動的 3D 產品錄屏示範，屬影片呈現而非產品內交互。",
+      "related_sources": [
+        {
+          "id": "2092934131391013371",
+          "relation": "quoted_source"
+        }
+      ]
+    },
+    "2084559578440847706": {
+      "url": "https://x.com/ZaynHao/status/2084559578440847706",
+      "archive_files": [
+        "X-2026-08-06.md",
+        "X-2026-08-10.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "beam-orbs-labeled-ai-waiting-feedback"
+      ],
+      "published_at": "2026-08-04T08:38:27+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "lifecycle: 原片未呈現真實任務的觸發、取消、完成與失敗"
+      ]
+    },
+    "2094248106087047385": {
+      "url": "https://x.com/ZaynHao/status/2094248106087047385",
+      "archive_files": [
+        "X-2026-09-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "agent-ui-copy-essential-information"
+      ],
+      "published_at": "2026-08-31T02:17:12+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images：原貼文無圖片或示範介面",
+        "成效：未提供文案前後對照或測試"
+      ]
+    },
+    "2096785434332500161": {
+      "url": "https://x.com/ZaynHao/status/2096785434332500161",
+      "archive_files": [
+        "X-2026-09-08.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "rare-ui-scenario-motion-reference"
+      ],
+      "published_at": "2026-09-07T02:19:38+00:00",
+      "verification": "official_public_post"
+    },
+    "2106394380299022620": {
+      "url": "https://x.com/yetone/status/2106394380299022620",
+      "archive_files": [
+        "X-2026-10-04.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2106255245861167371": {
+      "url": "https://x.com/yetone/status/2106255245861167371",
+      "archive_files": [
+        "X-2026-10-04.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2116198373040759107": {
+      "url": "https://x.com/Kubai087/status/2116198373040759107",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-006-book-card"
+      ],
+      "published_at": "2026-10-30T15:59:43.000Z",
+      "verification": "official_public_post",
+      "missing": [
+        "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
+      ],
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2115516478254624914": {
+      "url": "https://x.com/yetone/status/2115516478254624914",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2115106690836435400": {
+      "url": "https://x.com/sundyme/status/2115106690836435400",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ember-dashboard-visual-subtraction"
+      ],
+      "published_at": "2026-10-27T15:41:46+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2114624187449127136": {
+      "url": "https://x.com/yetone/status/2114624187449127136",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2113244957305933920": {
+      "url": "https://x.com/1ittlecup/status/2113244957305933920",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "andromeld-action-timeline"
+      ],
+      "published_at": "2026-10-22T12:23:54+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2108574361443504625": {
+      "url": "https://x.com/dotey/status/2108574361443504625",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "claude-design-stateful-prototype-workflow"
+      ],
+      "published_at": "2026-10-09T15:04:37+00:00",
+      "verification": "official_public_post",
+      "note": "一般 Claude Design → 高保真原型／HTML → Claude Code 交付流程，依跨批次協調交由 main 合併，避免重複建卡。"
+    },
+    "2108012773535891818": {
+      "url": "https://x.com/geekplux/status/2108012773535891818",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "claude-design-stateful-prototype-workflow"
+      ],
+      "published_at": "2026-10-08T01:53:04+00:00",
+      "verification": "official_public_post",
+      "note": "一般 Claude Design → 高保真原型／HTML → Claude Code 交付流程，依跨批次協調交由 main 合併，避免重複建卡。"
+    },
+    "2107727627154849831": {
+      "url": "https://x.com/lemomo_ai/status/2107727627154849831",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "editable-artifact-review-contract"
+      ],
+      "published_at": "2026-10-07T07:00:00+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖未附介面圖片；只能核實文字中的欄位與評註構想"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2116623097839149231": {
+      "url": "https://x.com/dotey/status/2116623097839149231",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baoyu-design-local-review-sharing"
+      ],
+      "published_at": "2026-10-31T20:07:26+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2115667965328977920": {
+      "url": "https://x.com/dotey/status/2115667965328977920",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆原作者已刪除。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆原作者已刪除。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2115469767650021796": {
+      "url": "https://x.com/Kubai087/status/2115469767650021796",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-004-nested-continuous-corners"
+      ],
+      "published_at": "2026-10-28T15:44:30+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2114378773655326873": {
+      "url": "https://x.com/Kubai087/status/2114378773655326873",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-001-tactile-buttons"
+      ],
+      "published_at": "2026-10-25T15:29:17+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2114657951864791143": {
+      "url": "https://x.com/Kubai087/status/2114657951864791143",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "evilbuttons-live-component-catalog"
+      ],
+      "published_at": "2026-10-26T09:58:38+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2114299273252606017": {
+      "url": "https://x.com/slashui/status/2114299273252606017",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ui-component-dimensional-sheet"
+      ],
+      "published_at": "2026-10-25T10:13:23+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2114330367599714810": {
+      "url": "https://x.com/lemomo_ai/status/2114330367599714810",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "picnic-ui-to-miniature-scene"
+      ],
+      "published_at": "2026-10-25T12:16:56+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2112598829870575718": {
+      "url": "https://x.com/dotey/status/2112598829870575718",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-subtitle-style-preview"
+      ],
+      "published_at": "2026-10-20T17:36:25+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "fix-verification: 原帖記錄預覽文字過高的修正要求，未提供本次可驗證的修復測試"
+      ],
+      "note": "同產品、同流程的來源合併於此卡。"
+    },
+    "2111709116695760959": {
+      "url": "https://x.com/bearliu/status/2111709116695760959",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "raycast-command-primary-secondary"
+      ],
+      "published_at": "2026-10-18T06:41:01+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "motion: 影片是帶講解的剪輯，三張關鍵影格不是同一次完整操作"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2110797209881149619": {
+      "url": "https://x.com/vista8/status/2110797209881149619",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-10-15T18:17:26+00:00",
+      "verification": "official_public_post",
+      "note": "原文只說分配模型產生多份方案；圖為編排工具／文件畫面，沒有可抽取的實際設計方案與比較標準。"
+    },
+    "2107523062619054174": {
+      "url": "https://x.com/op7418/status/2107523062619054174",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "hark-chat-persistent-data-cards"
+      ],
+      "published_at": "2026-10-06T17:27:08+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "motion: 原帖僅取得靜態圖，無法核實所稱動效"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2106594714736857208": {
+      "url": "https://x.com/YuLin807/status/2106594714736857208",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "not_selected",
+      "cards": [],
+      "published_at": "2026-10-04T03:58:13+00:00",
+      "verification": "official_public_post",
+      "note": "原文是 live panel 星標里程碑，配圖只有 GitHub 專案頁，沒有可觀察的資料面板 UI。"
+    },
+    "2116911391437443471": {
+      "url": "https://x.com/Kubai087/status/2116911391437443471",
+      "archive_files": [
+        "X-2026-11-02.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-008-responsive-wiki"
+      ],
+      "published_at": "2026-11-01T15:13:00+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2116593247854453244": {
+      "url": "https://x.com/benjitaylor/status/2116593247854453244",
+      "archive_files": [
+        "X-2026-11-02.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "stageshow-live-faux-ui-bento"
+      ],
+      "published_at": "2026-10-31T18:08:49+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2117442507306901741": {
+      "url": "https://x.com/dotey/status/2117442507306901741",
+      "archive_files": [
+        "X-2026-11-03.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "verification": "archive_discovery_only",
+      "missing": [
+        "original: 官方 syndication 明確回覆原作者已刪除。",
+        "images: 官方公開來源無法取得原帖素材"
+      ],
+      "note": [
+        "original: 官方 syndication 明確回覆原作者已刪除。",
+        "images: 官方公開來源無法取得原帖素材"
+      ]
+    },
+    "2117314098165862612": {
+      "url": "https://x.com/Kubai087/status/2117314098165862612",
+      "archive_files": [
+        "X-2026-11-03.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-009-overlay-selection"
+      ],
+      "published_at": "2026-11-02T17:53:13+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2118371023871770799": {
+      "url": "https://x.com/dotey/status/2118371023871770799",
+      "archive_files": [
+        "X-2026-11-06.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baoyu-design-local-review-sharing"
+      ],
+      "published_at": "2026-11-05T15:53:04+00:00",
+      "verification": "official_public_post",
+      "note": "同產品、同流程的來源合併於此卡。"
+    },
+    "2117532958202716255": {
+      "url": "https://x.com/CyanCloud77/status/2117532958202716255",
+      "archive_files": [
+        "X-2026-11-06.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "answer-html-structured-visual-response"
+      ],
+      "published_at": "2026-11-03T08:22:53+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2117840330712334480": {
+      "url": "https://x.com/Kubai087/status/2117840330712334480",
+      "archive_files": [
+        "X-2026-11-06.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-asset-release"
+      ],
+      "published_at": "2026-11-04T04:44:17+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "assets: 未收錄工程檔、領取結果與使用授權"
+      ],
+      "note": "原帖為個人介紹與既有圖標／教程／Icons Skill 作品合集；已檢視三份素材，沒有獨立的新產品流程。"
+    },
+    "2117782193108082923": {
+      "url": "https://x.com/Kubai087/status/2117782193108082923",
+      "archive_files": [
+        "X-2026-11-06.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-010-liquid-glass"
+      ],
+      "published_at": "2026-11-04T00:53:15+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt"
+      ],
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2118610590042304686": {
+      "url": "https://x.com/wanerfu/status/2118610590042304686",
+      "archive_files": [
+        "X-2026-11-07.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "layout-before-helper-copy"
+      ],
+      "published_at": "2026-11-06T07:45:01+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "images: 原帖為文字指令，未附實際頁面的前後對照"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2118508433704169726": {
+      "url": "https://x.com/Kubai087/status/2118508433704169726",
+      "archive_files": [
+        "X-2026-11-07.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-012-message-bubble"
+      ],
+      "published_at": "2026-11-06T00:59:05+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt"
+      ],
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2119407376344461672": {
+      "url": "https://x.com/emilkowalski/status/2119407376344461672",
+      "archive_files": [
+        "X-2026-11-10.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "gesture-sheet-momentum-rubberband"
+      ],
+      "published_at": "2026-11-08T12:31:09+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "parameters: 原帖影片未提供速度門檻與彈簧參數"
+      ],
+      "note": "同產品、同流程的來源合併於此卡。"
+    },
+    "2119406396160540738": {
+      "url": "https://x.com/emilkowalski/status/2119406396160540738",
+      "archive_files": [
+        "X-2026-11-10.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "gesture-sheet-momentum-rubberband"
+      ],
+      "published_at": "2026-11-08T12:27:16+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "parameters: 原帖影片未提供速度門檻與彈簧參數"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2119354093458395284": {
+      "url": "https://x.com/awe0_io/status/2119354093458395284",
+      "archive_files": [
+        "X-2026-11-10.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "astryx-theme-component-contract"
+      ],
+      "published_at": "2026-11-08T08:59:26+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2120682993563922586": {
+      "url": "https://x.com/Kubai087/status/2120682993563922586",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-016-toast-vs-notification"
+      ],
+      "published_at": "2026-11-12T01:00:00+00:00",
+      "verification": "archive_discovery_only",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2120707475972538723": {
+      "url": "https://x.com/Kubai087/status/2120707475972538723",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-magazine-design-notes"
+      ],
+      "published_at": "2026-11-12T02:37:17+00:00",
+      "verification": "official_public_post",
+      "note": "原文是萬人關注里程碑，引用的雜誌式教程網頁已收錄；沒有新增設計內容。"
+    },
+    "2120113564761673729": {
+      "url": "https://x.com/zmangmor/status/2120113564761673729",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "siri-contextual-card-editing"
+      ],
+      "published_at": "2026-11-10T11:17:18+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "release: 無官方產品版本證據，保守視為示範",
+        "interaction: 關鍵影格無法核實全局手勢與直接編輯的完整步驟"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2120551252253974750": {
+      "url": "https://x.com/Kubai087/status/2120551252253974750",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "published_at": "2026-11-11T16:16:31+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2120394788755341636": {
+      "url": "https://x.com/Kubai087/status/2120394788755341636",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-icon-asset-release"
+      ],
+      "published_at": "2026-11-11T05:54:47+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "assets: 未收錄工程檔、領取結果與使用授權"
+      ],
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2120362989849366844": {
+      "url": "https://x.com/Kubai087/status/2120362989849366844",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-magazine-design-notes"
+      ],
+      "published_at": "2026-11-11T03:48:25+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2120320609255043510": {
+      "url": "https://x.com/Kubai087/status/2120320609255043510",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-015-continuity"
+      ],
+      "published_at": "2026-11-11T01:00:01+00:00",
+      "verification": "official_public_post",
+      "note": "原盤點已有精確來源 ID；未修改卡片。"
+    },
+    "2118545909692723663": {
+      "url": "https://x.com/__oQuery/status/2118545909692723663",
+      "archive_files": [
+        "X-2026-11-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "ryugi-shared-document-review"
+      ],
+      "published_at": "2026-11-06T03:28:00+00:00",
+      "verification": "official_public_post"
+    },
+    "2121414357041160456": {
+      "url": "https://x.com/lencx_/status/2121414357041160456",
+      "archive_files": [
+        "X-2026-11-14.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "lencx-sidebar-learned-width-snap"
+      ],
+      "published_at": "2026-11-14T01:26:11+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        {
+          "id": "2121278262278242802",
+          "url": "https://x.com/imharshin/status/2121278262278242802",
+          "relation": "quoted_primary_source"
+        }
+      ]
+    },
+    "2121449185014845794": {
+      "url": "https://x.com/Kubai087/status/2121449185014845794",
+      "archive_files": [
+        "X-2026-11-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-999-017-waiting-states"
+      ],
+      "published_at": "2026-11-14T03:44:34+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "prompt: 主帖提及的長版 Prompt 回覆未取得"
+      ]
+    },
+    "2121174537127735305": {
+      "url": "https://x.com/lencx_/status/2121174537127735305",
+      "archive_files": [
+        "X-2026-11-14.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "vercel-ui-sdk-composable-interaction-behaviors"
+      ],
+      "published_at": "2026-11-13T09:33:13+00:00",
+      "verification": "official_public_post",
+      "related_sources": [
+        {
+          "id": "2120950020249895314",
+          "url": "https://x.com/vercel/status/2120950020249895314",
+          "relation": "quoted_primary_source"
+        }
+      ]
+    },
+    "2108663149301846497": {
+      "url": "https://x.com/dotey/status/2108663149301846497",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "baocut-subtitle-style-preview"
+      ],
+      "published_at": "2026-10-09T20:57:26+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "fix-verification: 原帖記錄預覽文字過高的修正要求，未提供本次可驗證的修復測試"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2120154832694858224": {
+      "url": "https://x.com/dominikmartn/status/2120154832694858224",
+      "archive_files": [
+        "X-2026-11-12.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "fable-lime-ui-state-mosaic"
+      ],
+      "published_at": "2026-11-10T14:01:17+00:00",
+      "verification": "official_public_post",
+      "missing": [
+        "prompt: 原帖未提供生成方法或設計規格",
+        "runtime: 影片不能證明所有元件已實作可用"
+      ],
+      "note": "已依原文與可見素材撰寫。"
+    },
+    "2113095497003282861": {
+      "url": "https://x.com/randyloop/status/2113095497003282861",
+      "archive_files": [
+        "X-2026-11-01.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "nowdex-error-recovery-next-action"
+      ],
+      "published_at": "2026-10-22T02:30:00+00:00",
+      "verification": "official_public_post",
+      "note": "已依原文與可見素材撰寫。"
+    }
+  },
+  "pending_source_ids": [
+    "2067039941960327204",
+    "2088093704376762378",
+    "2103327328420217240",
+    "2055980925452968351",
+    "2088566304777048130",
+    "2088566363107242092",
+    "2089329138406760639",
+    "2106394380299022620",
+    "2106255245861167371",
+    "2115516478254624914",
+    "2114624187449127136",
+    "2115667965328977920",
+    "2117442507306901741"
+  ],
+  "open_card_gaps": {
+    "21st-component-discovery-preview-prompt": [
+      "複用驗證：未執行 Copy prompt 或測試生成程式"
+    ],
+    "agent-notification-severity-routing": [
+      "images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察"
+    ],
+    "agent-primary-vs-editor-primary-workspace": [
+      "usability: 未做兩種配置的任務比較"
+    ],
+    "agent-ui-copy-essential-information": [
+      "images：原貼文無圖片或示範介面",
+      "成效：未提供文案前後對照或測試"
+    ],
+    "app-icon-shelf-detail-color-index": [
+      "來源識別：圖庫品牌未由原文確認；素材授權未核對"
+    ],
+    "apple-status-icon-optical-balance-analysis": [
+      "官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品",
+      "文章素材：08、14、17 號來源下載回應 404；本卡所引六圖皆已取得並檢視"
+    ],
+    "ar-gallery-model-roster": [
+      "runtime: 僅核對錄影，未實測模型載入與 iPhone AR"
+    ],
+    "baocut-agent-entry-and-project-context": [
+      "implementation: 原帖為原型，CLI 與 API 整合未驗證"
+    ],
+    "baocut-icon-variant-size-review": [
+      "export: 未驗證輸出檔格式與系統實際顯示"
+    ],
+    "baocut-subtitle-style-preview": [
+      "fix-verification: 原帖記錄預覽文字過高的修正要求，未提供本次可驗證的修復測試"
+    ],
+    "baocut-watermark-preview-inspector": [
+      "互動／交付：僅核對作者公開原型與文字，未操作原型或驗證正式匯出"
+    ],
+    "baoyu-design-imported-system-local-preview": [
+      "匯入互動：附圖未展示完整 Design System 匯入與選擇流程；未執行工具"
+    ],
+    "beam-orbs-labeled-ai-waiting-feedback": [
+      "lifecycle: 原片未呈現真實任務的觸發、取消、完成與失敗"
+    ],
+    "bridge-background-agent-separate-cursor": [
+      "行為驗證：僅讀作者文章與公開圖，未測試背景輸入隔離或 App 相容性"
+    ],
+    "call-booking-progressive-slot-picker": [
+      "runtime: 概念動畫未驗證時區、占位衝突與寄信"
+    ],
+    "cell-architecture-model-exploration": [
+      "accuracy: 教學精度未核驗，作者亦明說僅前兩個模型完成"
+    ],
+    "chunui-component-demo-catalog": [
+      "device: 未安裝 Demo 或驗證真機及訂閱流程"
+    ],
+    "codex-change-proposal-comparison-table": [
+      "images: 原帖未附表格範例，僅可核對文字建議"
+    ],
+    "codex-inline-browser-task-preview": [
+      "互動驗證：單張公開截圖，未測試內嵌瀏覽器"
+    ],
+    "codex-planning-choice-question-card": [
+      "互動驗證：單張圖未核實複選、鍵盤或跳過後行為"
+    ],
+    "coss-heroui-component-state-gallery": [
+      "accessibility: 未測鍵盤、螢幕閱讀器與錯誤狀態"
+    ],
+    "dashi-taskboard-agent-status-columns": [
+      "runtime: 未驗證狀態同步、拖曳或完成條件"
+    ],
+    "design-skill-comparison-shared-scenarios": [
+      "評測重現：未執行原作者測試或取得完整提示與環境"
+    ],
+    "dual-agent-searchable-model-picker": [
+      "runtime: 原帖為預告，未驗證搜尋、切換與相容性"
+    ],
+    "editable-artifact-review-contract": [
+      "images: 原帖未附介面圖片；只能核實文字中的欄位與評註構想"
+    ],
+    "fable-lime-ui-state-mosaic": [
+      "prompt: 原帖未提供生成方法或設計規格",
+      "runtime: 影片不能證明所有元件已實作可用"
+    ],
+    "figma-ui-output-summary-and-details": [
+      "figma: 未核對原檔圖層、可編輯性或轉換速度"
+    ],
+    "gesture-sheet-momentum-rubberband": [
+      "parameters: 原帖影片未提供速度門檻與彈簧參數"
+    ],
+    "gzh-design-theme-components-mobile-reading": [
+      "平台保真：未實際貼入公眾號編輯器驗證"
+    ],
+    "hark-chat-persistent-data-cards": [
+      "motion: 原帖僅取得靜態圖，無法核實所稱動效"
+    ],
+    "huashu-brand-reference-variants": [
+      "images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察"
+    ],
+    "ios-status-summary-card-hierarchy": [
+      "runtime: 未執行 App 或核對系統數值"
+    ],
+    "kami-content-first-document-hierarchy": [
+      "comparison: 未取得完整前後版本與閱讀測試"
+    ],
+    "kubai-999-006-book-card": [
+      "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
+    ],
+    "kubai-999-010-liquid-glass": [
+      "prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt"
+    ],
+    "kubai-999-012-message-bubble": [
+      "prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt"
+    ],
+    "kubai-999-017-waiting-states": [
+      "prompt: 主帖提及的長版 Prompt 回覆未取得"
+    ],
+    "kubai-icon-asset-release": [
+      "assets: 未收錄工程檔、領取結果與使用授權"
+    ],
+    "layout-before-helper-copy": [
+      "images: 原帖為文字指令，未附實際頁面的前後對照"
+    ],
+    "liquid-gooey-detached-control-motion": [
+      "產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品"
+    ],
+    "llm-wiki-file-skill-chat-context": [
+      "行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範"
+    ],
+    "lumina-creature-anatomy-cross-section": [
+      "accuracy: 生成的幻想生物未經解剖或教材精度核驗"
+    ],
+    "mono-charts-contextual-chart-gallery": [
+      "runtime: 未測元件互動、CLI 安裝與真實資料映射"
+    ],
+    "morphicons-icon-transition-playground": [
+      "package: 未核對套件體積、演算法與無依賴聲明"
+    ],
+    "motion-taxonomy-labeled-examples": [
+      "parameters: 原帖未提供逐項曲線、時長與互動程式"
+    ],
+    "muse-charm-touch-conversation-entry": [
+      "images: 已下載並檢視原帖影片四張影格，但均為舞台演說或大會標誌，未顯示本文硬體操作，故不作介面證據",
+      "verification: 硬體發布資訊未以 Meta 官方消息獨立核實"
+    ],
+    "ojo-agent-team-to-canvas-prototype": [
+      "runtime: 僅官方展示，未驗證團隊執行與畫布編輯"
+    ],
+    "pi-generative-ui-progressive-widget-render": [
+      "runtime: 僅核對作者文章與動圖，未執行擴充"
+    ],
+    "portfolio-monochrome-product-proof-layout": [
+      "交付驗證：僅為生成案例圖，未開啟或操作作品集"
+    ],
+    "portfolio-preview-project-grid": [
+      "comparison: 未與原網站逐項對照或實測導覽"
+    ],
+    "raycast-command-primary-secondary": [
+      "motion: 影片是帶講解的剪輯，三張關鍵影格不是同一次完整操作"
+    ],
+    "reference-ui-structure-asset-calibration": [
+      "execution: 未執行原帖的還原工作流或量測差異"
+    ],
+    "shadcn-workflow-and-fleet-layouts": [
+      "implementation: 未核對元件來源、真實資料與互動行為"
+    ],
+    "share-days-card-template-preview": [
+      "images: 已遮除示範中人物名稱與頭像，局部視覺細節不保留"
+    ],
+    "siri-contextual-card-editing": [
+      "release: 無官方產品版本證據，保守視為示範",
+      "interaction: 關鍵影格無法核實全局手勢與直接編輯的完整步驟"
+    ],
+    "soft-skeuo-single-metaphor-icons": [
+      "交付驗證：未取得技能輸出檔案或驗證小尺寸效果"
+    ],
+    "soft-skeuomorphic-airplane-window-icon": [
+      "prompt: 原帖未提供可重現的完整提示詞"
+    ],
+    "swiftui-today-layout-comparison": [
+      "product: 原文未交代影片中任務 App 的產品身分"
+    ],
+    "taste-skill-design-parameter-boundaries": [
+      "images: 原帖未附同頁參數比較或成品素材",
+      "parameters: 原帖未給出可直接重現的參數範圍"
+    ],
+    "tldraw-storyboard-math-explanation": [
+      "runtime: 未驗證腳本操控、離線行為或影片輸出"
+    ],
+    "transitions-dev-state-preserving-components": [
+      "runtime: 未實測鍵盤、減少動態效果與複製出的程式碼"
+    ],
+    "url-audit-hero-input-output-preview": [
+      "產品識別：貼文所述 design.md 服務與附圖的品牌分析文案不一致，待核對"
+    ],
+    "vibe-coding-dictionary-state-motion-examples": [
+      "行為驗證：來源為圖解教程，未執行示例或測量性能；卡片選存六張相關圖，不是全文十八張圖的副本"
+    ],
+    "visual-style-inspector-prompt-handoff": [
+      "runtime: 未驗證生成描述與實際修改是否一致"
+    ],
+    "voicekey-summary-history-detail-layout": [
+      "比較驗證：僅比較作者公開截圖，未執行新舊版本"
+    ],
+    "webcam-glider-body-input-feedback": [
+      "互動驗證：未實際測試姿勢控制、延遲或替代輸入"
+    ],
+    "x-contextual-rocket-like": [
+      "images: 原帖未附素材，無法核對火箭動畫的觸發與結束影格"
+    ]
+  },
+  "next_run": [
+    "重掃新增或內容變更的 X-*.md，按 status ID 與同產品同流程查重。",
+    "先補 pending_source_ids 與 open_card_gaps，不以檔案日期或原帖日期代替點讚／收藏增量。",
+    "來源知識庫唯讀；只提交本庫本次卡片、素材與追蹤變更，完成後推送目前分支。"
+  ]
+}

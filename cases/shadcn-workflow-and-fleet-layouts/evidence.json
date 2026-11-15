@@ -1,0 +1,25 @@
+{
+  "source_id": "2089691327852392536",
+  "published_at": "2026-08-18T12:30:11+00:00",
+  "verification": "X public post HTML: embedded primary Tweet / NoteTweet payload",
+  "media": [
+    {
+      "file": "01-reference.jpg",
+      "source_post": "2089691327852392536",
+      "source_url": "https://pbs.twimg.com/media/HQASfcJaYAAKrBR.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    },
+    {
+      "file": "02-reference.jpg",
+      "source_post": "2089691327852392536",
+      "source_url": "https://pbs.twimg.com/media/HQATJdWaIAErmfp.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    }
+  ],
+  "aliases": [],
+  "source_dates": {},
+  "scope": "Primary post text and inspected source media; no product runtime acceptance",
+  "media_handling": "Source images fetched with ?name=large; design regions retained and personal data masked where necessary. Video/GIF sources retained only as selected still frames."
+}

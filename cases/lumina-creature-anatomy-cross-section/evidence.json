@@ -1,0 +1,39 @@
+{
+  "source_id": "2053879878693380346",
+  "published_at": "2026-05-11T16:48:16+00:00",
+  "verification": "X public post HTML: embedded primary Tweet / NoteTweet payload",
+  "media": [
+    {
+      "file": "01-frame.jpg",
+      "source_post": "2053879878693380346",
+      "source_url": "https://video.twimg.com/amplify_video/2053878976347512832/vid/avc1/960x720/1oaiORgdUXa7DFwV.mp4",
+      "timestamp_seconds": 0.84,
+      "gif_frame": null
+    },
+    {
+      "file": "02-frame.jpg",
+      "source_post": "2053879878693380346",
+      "source_url": "https://video.twimg.com/amplify_video/2053878976347512832/vid/avc1/960x720/1oaiORgdUXa7DFwV.mp4",
+      "timestamp_seconds": 3.359,
+      "gif_frame": null
+    },
+    {
+      "file": "03-frame.jpg",
+      "source_post": "2053879878693380346",
+      "source_url": "https://video.twimg.com/amplify_video/2053878976347512832/vid/avc1/960x720/1oaiORgdUXa7DFwV.mp4",
+      "timestamp_seconds": 6.088,
+      "gif_frame": null
+    },
+    {
+      "file": "04-frame.jpg",
+      "source_post": "2053879878693380346",
+      "source_url": "https://video.twimg.com/amplify_video/2053878976347512832/vid/avc1/960x720/1oaiORgdUXa7DFwV.mp4",
+      "timestamp_seconds": 8.817,
+      "gif_frame": null
+    }
+  ],
+  "aliases": [],
+  "source_dates": {},
+  "scope": "Primary post text and inspected source media; no product runtime acceptance",
+  "media_handling": "Source images fetched with ?name=large; design regions retained and personal data masked where necessary. Video/GIF sources retained only as selected still frames."
+}

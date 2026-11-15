@@ -1,0 +1,18 @@
+{
+  "source_id": "2090386706000400412",
+  "published_at": "2026-08-20T10:33:22+00:00",
+  "verification": "X public post HTML: embedded primary Tweet / NoteTweet payload",
+  "media": [
+    {
+      "file": "01-reference.jpg",
+      "source_post": "2090386706000400412",
+      "source_url": "https://pbs.twimg.com/media/HQKLnvRakAACvIp.jpg?name=large",
+      "timestamp_seconds": null,
+      "gif_frame": null
+    }
+  ],
+  "aliases": [],
+  "source_dates": {},
+  "scope": "Primary post text and inspected source media; no product runtime acceptance",
+  "media_handling": "Source images fetched with ?name=large; design regions retained and personal data masked where necessary. Video/GIF sources retained only as selected still frames."
+}
