@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-15T02:17:30.063672+00:00",
+  "checked_at_utc": "2026-11-15T17:08:24.910703+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 84,
+    "case_count": 86,
     "series_cards": 17,
-    "other_cards": 67,
+    "other_cards": 69,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -56,7 +56,7 @@
       "016",
       "017"
     ],
-    "latest_confirmed_number": "017",
+    "latest_confirmed_number": "018",
     "unconfirmed_numbers_within_001_015": [
       "013"
     ],
@@ -69,9 +69,9 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 410,
+    "images": 428,
     "videos": 58,
-    "retained": "Publicly downloadable source variants plus sampled frames; historical source videos are retained; episode 017 retains six sampled frames only."
+    "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
   "processed_posts": {
     "2120442942557216805": {
@@ -1345,15 +1345,71 @@
       ],
       "verification": "official_public_post_note_tweet_and_sampled_video",
       "discovered_in": "MyKnowledgeBase/X/X-2026-11-14.md"
+    },
+    "2121284062983983257": {
+      "decision": "merged_update",
+      "published_at": "2026-11-13T16:48:26+00:00",
+      "canonical_post_id": "2120923602031919194",
+      "cards": [
+        "kubai-icons-friend-link-wall"
+      ],
+      "verification": "official_syndication_resolved_repost",
+      "note": "既有原帖自轉發，無新介面內容。"
+    },
+    "2121993904509911288": {
+      "decision": "not_selected",
+      "published_at": "2026-11-15T15:49:06+00:00",
+      "verification": "official_public_post",
+      "reason": "個人生活／帳號發文方向，沒有新的產品介面設計做法。"
+    },
+    "2121959212842734000": {
+      "decision": "not_selected",
+      "published_at": "2026-11-15T13:31:15+00:00",
+      "verification": "official_public_post",
+      "reason": "個人生活／帳號發文方向，沒有新的產品介面設計做法。"
+    },
+    "2121892029403922717": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-15T09:04:17+00:00",
+      "cards": [
+        "kubai-999-018-holographic-card"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes"
+    },
+    "2121938541240528957": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-15T12:09:06+00:00",
+      "cards": [
+        "kubai-carousel-loop-variants"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes",
+      "quoted_post_id": "2121551213112009164"
+    },
+    "2121551213112009164": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-14T10:30:00+00:00",
+      "cards": [
+        "kubai-carousel-loop-variants"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes"
+    },
+    "2121892403212964060": {
+      "decision": "supporting_reference",
+      "published_at": "2026-11-15T09:05:46+00:00",
+      "cards": [
+        "kubai-999-018-holographic-card"
+      ],
+      "verification": "official_parent_post_embedded_author_self_thread_note_tweet",
+      "note": "已核對完整 Prompt；保存原文連結與摘要。"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2121125744038543539",
-    "2121123775051891148",
-    "2120923602031919194",
-    "2120866563184308488",
-    "2120765986899132726"
+    "2121993904509911288",
+    "2121959212842734000",
+    "2121938541240528957",
+    "2121551213112009164",
+    "2121892029403922717"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -1487,6 +1543,10 @@
     "2121201471106785455": {
       "original_id": "2121187869888762364",
       "original_author": "VigoCreativeAI"
+    },
+    "2121284062983983257": {
+      "original_id": "2120923602031919194",
+      "original_author": "Kubai087"
     }
   },
   "author_prompt_replies": {
@@ -1505,6 +1565,9 @@
     ],
     "016": [
       "2120685913441456371"
+    ],
+    "018": [
+      "2121892403212964060"
     ]
   },
   "open_card_gaps": {
@@ -1586,11 +1649,5 @@
     "Retain the incomplete full-history status until a complete timeline is actually traversed.",
     "Do not advance a global boundary after source access failures."
   ],
-  "pending_source_checks": {
-    "2121284062983983257": {
-      "published_at": "2026-11-13T16:48:26+00:00",
-      "verification": "official_public_post_truncated_repost",
-      "reason": "官方公開資料僅含截斷自轉發文字，未取得 canonical 原帖 ID；待核對後合併既有 Icons 卡片，不以第三方摘要補寫。"
-    }
-  }
+  "pending_source_checks": {}
 }

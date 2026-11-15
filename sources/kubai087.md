@@ -2,7 +2,7 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **84 張卡片**：999 系列 17 張，其他設計參考 67 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **86 張卡片**：999 系列 17 張，其他設計參考 69 張。同一作品與流程的轉發或補充合併保存。
 
 每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
 
@@ -23,7 +23,7 @@
 
 ## 999 小技巧系列
 
-已確認篇號為 001–012、014–017。另有一篇同系列衝擊波教學，原帖及兩個編輯版本均未標號，保留為「未標號」，未直接指派 013。999 是系列名稱。
+已確認篇號為 001–012、014–018。另有一篇同系列衝擊波教學，原帖及兩個編輯版本均未標號，保留為「未標號」，未直接指派 013。999 是系列名稱。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -43,6 +43,7 @@
 | 015 | [枯白 015：用共享元素連接操作前後的介面狀態](../cases/kubai-999-015-continuity/case.md) | [X](https://x.com/Kubai087/status/2120320609255043510) |
 | 016 | [枯白 016：依觸發來源與是否需後續處理區分 Toast 與 Notification](../cases/kubai-999-016-toast-vs-notification/case.md) | [X](https://x.com/Kubai087/status/2120682993563922586) |
 | 017 | [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | [X](https://x.com/Kubai087/status/2121449185014845794) |
+| 018 | [Kubai 018：隨光點傾斜、帶厚度翻面的全息卡片](../cases/kubai-999-018-holographic-card/case.md) | [X](https://x.com/Kubai087/status/2121892029403922717) |
 | 未標號（013 候選） | [999 小技巧（未標號）：具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | [X](https://x.com/Kubai087/status/2119359092334743735) |
 
 ## 其他設計卡片
@@ -117,9 +118,11 @@
 | [網頁工作台首屏參考：用真實介面局部或可互動指令框取代抽象宣傳圖](../cases/kubai-hassan-workbench-hero-sections/case.md) | onboarding, visual, data-display, ai-chat |
 | [生成式介面等待過渡：把輸入框粒子揉成光團再展開為結果卡片](../cases/kubai-ian-prompt-to-card-morph/case.md) | feedback, ai-chat, visual, forms |
 
+| [同一組圖片的四種輪播軌跡：螺旋、扇牌、斜向流與景深軌道](../cases/kubai-carousel-loop-variants/case.md) | visual, navigation, data-display |
+
 ## 素材與待補
 
-目前已保存 410 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 428 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
@@ -163,3 +166,9 @@ rg -n -F '2119359092334743735' cases sources
 ## 2026-11-14 檢查待核對
 
 發現 [Icons 自轉發](https://x.com/Kubai087/status/2121284062983983257)，官方公開資料僅含截斷文字，未取得 canonical 原帖 ID；保留待核對，尚未合併卡片。此次新增 0 張、補充 0 張，未推進完整歷史覆蓋邊界。
+
+## 2026-11-15 歷史來源回補
+
+官方嵌入資料已將 [Icons 自轉發](https://x.com/Kubai087/status/2121284062983983257)解析為既有原帖 `2120923602031919194`，解除 2026-11-14 的 canonical ID 待核對項目，合併至友鏈牆卡片，沒有重複建卡。公開主頁仍僅為近期樣本，第三方索引停留在 11 月 14 日，不據此推進全歷史覆蓋邊界。
+
+本次新增 [018 鐳射卡片](../cases/kubai-999-018-holographic-card/case.md)（六種材質、指標傾斜、視差與翻面厚度）與 [四種輪播軌跡](../cases/kubai-carousel-loop-variants/case.md)，保存 18 張影格。018 作者直接回覆的 Prompt 已核對，保留來源連結與摘要。兩則個人生活／帳號方向帖未收錄。
