@@ -6,10 +6,10 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-15T17:04:50.118323+00:00",
+  "checked_at_utc": "2026-11-16T17:00:40.402371+00:00",
   "coverage": {
-    "archive_files": 107,
-    "distinct_archive_status_ids": 869,
+    "archive_files": 108,
+    "distinct_archive_status_ids": 874,
     "design_candidates": 244,
     "decision_counts": {
       "collected_or_merged": 148,
@@ -449,6 +449,10 @@
     {
       "filename": "X-2026-11-15.md",
       "sha256": "30a435ba57238e9cb19079d0d504c98d242896a0584825a42743d55cd582f78b"
+    },
+    {
+      "filename": "X-2026-11-16.md",
+      "sha256": "713416d38035db88d5cffed5269c0afb1fbc8df814944e6e972f8140142c8730"
     }
   ],
   "processed_posts": {
@@ -1290,9 +1294,9 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
-        "result_type": "TweetTombstone",
+        "result_type": "unavailable",
         "text_complete": false
       }
     },
@@ -1926,7 +1930,7 @@
         "官方 syndication TweetTombstone：This Post is from a suspended account."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -2152,7 +2156,7 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -2490,7 +2494,7 @@
         "primary_article_text"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "Tweet",
         "text_complete": false
@@ -3007,9 +3011,9 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
-        "result_type": "TweetTombstone",
+        "result_type": "unavailable",
         "text_complete": false
       }
     },
@@ -3031,7 +3035,7 @@
         "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -3697,7 +3701,7 @@
         "官方 syndication TweetTombstone：account owner limits who can view their Posts."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -3846,7 +3850,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -3872,7 +3876,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -3919,7 +3923,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -3963,7 +3967,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -4076,7 +4080,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -4301,7 +4305,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+        "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
         "method": "official_syndication",
         "result_type": "TweetTombstone",
         "text_complete": false
@@ -4995,10 +4999,21 @@
     "來源知識庫唯讀；只提交本庫本次卡片、素材與追蹤變更，完成後推送目前分支。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-15T17:06:41.669421+00:00",
+    "checked_at_utc": "2026-11-16T17:01:10.523080+00:00",
     "requested": 13,
-    "tombstones": 12,
-    "article_link_only": 1,
+    "result_types": {
+      "unavailable": 2,
+      "TweetTombstone": 10,
+      "Tweet": 1
+    },
     "resolved": 0
-  }
+  },
+  "incremental_screening": [
+    {
+      "filename": "X-2026-11-16.md",
+      "posts_screened": 5,
+      "design_candidates": 0,
+      "basis": "歷史彙總摘要初篩：調試、網路、投資、銷售與代理架構，未見具體產品介面設計做法；未將摘要當成原帖素材。"
+    }
+  ]
 }

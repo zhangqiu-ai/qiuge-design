@@ -5,9 +5,10 @@ product: null
 author: '枯白啃設計（@Kubai087）'
 platforms: []
 tags: [visual, content-editing, data-display]
-source: 使用者提供截圖（原帖連結未取得）
+source: https://x.com/Kubai087/status/2121615225816494303
+published_at: 2026-11-14T14:44:22+00:00
 date: 2026-11-14
-missing: ['source-url: 使用者只提供截圖，未取得原帖連結與發布時間']
+missing: []
 ---
 
 ## 問題
@@ -55,3 +56,7 @@ AI 生成或 Vibe Coding 做出的產品，常見問題是元件風格各自為�
 - 第 3 條圓角的細節：[遞進圓角與連續曲率](../kubai-999-004-nested-continuous-corners/case.md)
 - 第 2 條元件語義的實例：[依觸發來源與是否需後續處理區分 Toast 與 Notification](../kubai-999-016-toast-vs-notification/case.md)、[依資訊、風險與任務長度選擇浮層](../kubai-999-009-overlay-selection/case.md)
 - 同主題的其他做法：[把設計問題清單反過來用於審稿](../kubai-anti-slop-review/case.md)、[修整 AI 介面：先統一對齊，再建立字級層次](../kubai-alignment-type-hierarchy/case.md)
+
+## 原帖回補（2026-11-16）
+
+已核對 [X 官方原帖](https://x.com/Kubai087/status/2121615225816494303)及其完整 NoteTweet，與先前使用者提供的五條指令截圖一致；第六個編號僅為系列教程追蹤邀請，不另算設計指令。原帖發表時間為 2026-11-14T14:44:22+00:00，來源連結與發布日期缺漏已補齊。

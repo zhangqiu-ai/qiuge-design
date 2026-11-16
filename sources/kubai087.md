@@ -2,7 +2,7 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **86 張卡片**：999 系列 17 張，其他設計參考 69 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **88 張卡片**：999 系列 17 張，其他設計參考 71 張。同一作品與流程的轉發或補充合併保存。
 
 每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
 
@@ -120,19 +120,24 @@
 
 | [同一組圖片的四種輪播軌跡：螺旋、扇牌、斜向流與景深軌道](../cases/kubai-carousel-loop-variants/case.md) | visual, navigation, data-display |
 
+| [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | feedback, visual |
+
+| [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | navigation, data-display |
+
 ## 素材與待補
 
-目前已保存 428 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 447 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
 | 卡片 | 待補內容 |
 | --- | --- |
-| [枯白 017 等待狀態](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
+| [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
 | [ASCII 與 Dither：只調圖像質感，保留登入內容](../cases/kubai-999-003-dither-ascii/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
+| [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
 | [999 小技巧（未標號）：具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | episode: 原帖及兩個編輯版本均未標示編號；可能對應 013，尚未確認 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
@@ -150,6 +155,7 @@
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證 |
 | [進度色條、逐幀挑選與行旁答案：把變化留在內容附近](../cases/kubai-timeline-content-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結 |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
+| [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
 
 ## 查找方式
 
@@ -172,3 +178,9 @@ rg -n -F '2119359092334743735' cases sources
 官方嵌入資料已將 [Icons 自轉發](https://x.com/Kubai087/status/2121284062983983257)解析為既有原帖 `2120923602031919194`，解除 2026-11-14 的 canonical ID 待核對項目，合併至友鏈牆卡片，沒有重複建卡。公開主頁仍僅為近期樣本，第三方索引停留在 11 月 14 日，不據此推進全歷史覆蓋邊界。
 
 本次新增 [018 鐳射卡片](../cases/kubai-999-018-holographic-card/case.md)（六種材質、指標傾斜、視差與翻面厚度）與 [四種輪播軌跡](../cases/kubai-carousel-loop-variants/case.md)，保存 18 張影格。018 作者直接回覆的 Prompt 已核對，保留來源連結與摘要。兩則個人生活／帳號方向帖未收錄。
+
+## 2026-11-16 增量與歷史回補
+
+新增復古 404 恢復流程與 RicoUI 分類預覽／安裝入口兩張卡片；補充既有圖標工作流的 Skill 1.2.0／圖標包 0.9.0、六個寵物與六個辦公圖標（12 張關鍵幀），並回補五條設計指令的官方來源與日期。兩張新卡另保存 7 張影格，保留操作未實測與上線證據邊界。
+
+已核對公開主頁近期樣本及第三方索引新增條目；課程推廣、日刊生產流程、純視覺長條圖與帳號互動未建卡。全帳戶歷史、013 篇號及既有待補仍未宣稱完整，未推進全局覆蓋邊界。

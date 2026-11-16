@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-15T17:08:24.910703+00:00",
+  "checked_at_utc": "2026-11-16T17:03:30.606318+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 86,
+    "case_count": 88,
     "series_cards": 17,
-    "other_cards": 69,
+    "other_cards": 71,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -69,7 +69,7 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 428,
+    "images": 447,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -1401,15 +1401,158 @@
       ],
       "verification": "official_parent_post_embedded_author_self_thread_note_tweet",
       "note": "已核對完整 Prompt；保存原文連結與摘要。"
+    },
+    "2122355752912445749": {
+      "decision": "not_selected",
+      "published_at": "2026-11-16T15:46:57+00:00",
+      "verification": "official_public_post",
+      "reason": "Star 目標或帳號命名互動，沒有具體產品介面做法。"
+    },
+    "2122264462820532253": {
+      "decision": "not_selected",
+      "published_at": "2026-11-16T09:44:12+00:00",
+      "verification": "official_public_post",
+      "reason": "Star 目標或帳號命名互動，沒有具體產品介面做法。"
+    },
+    "2122251936649056315": {
+      "decision": "not_selected",
+      "published_at": "2026-11-16T08:54:25+00:00",
+      "verification": "official_public_post",
+      "reason": "Star 目標或帳號命名互動，沒有具體產品介面做法。"
+    },
+    "2121845833121579166": {
+      "decision": "merged_update",
+      "published_at": "2026-11-15T06:00:43+00:00",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes",
+      "media": [
+        "07-frame-01.jpg",
+        "07-frame-02.jpg",
+        "07-frame-03.jpg",
+        "07-frame-04.jpg",
+        "07-frame-05.jpg",
+        "07-frame-06.jpg"
+      ]
+    },
+    "2122357349151383553": {
+      "decision": "merged_update",
+      "published_at": "2026-11-16T15:53:18+00:00",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes",
+      "media": [
+        "08-frame-01.jpg",
+        "08-frame-02.jpg",
+        "08-frame-03.jpg"
+      ]
+    },
+    "2121638625582653570": {
+      "decision": "merged_update",
+      "published_at": "2026-11-14T16:17:21+00:00",
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes",
+      "media": [
+        "09-frame-01.jpg",
+        "09-frame-02.jpg",
+        "09-frame-03.jpg"
+      ]
+    },
+    "2121615225816494303": {
+      "decision": "merged_update",
+      "published_at": "2026-11-14T14:44:22+00:00",
+      "cards": [
+        "kubai-anti-slop-product-directives"
+      ],
+      "verification": "official_public_post_note_tweet",
+      "note": "與既有使用者截圖一致，補齊原帖來源與日期；第六項為追蹤邀請。"
+    },
+    "2121604852266770874": {
+      "decision": "not_selected",
+      "published_at": "2026-11-14T14:03:08+00:00",
+      "verification": "official_public_post",
+      "reason": "課程與社群推廣，附件未充分展示具體介面解法。"
+    },
+    "2121600183150792724": {
+      "decision": "not_selected",
+      "published_at": "2026-11-14T13:44:35+00:00",
+      "verification": "official_public_post",
+      "reason": "課程與社群推廣，附件未充分展示具體介面解法。"
+    },
+    "2121868841039147507": {
+      "decision": "not_selected",
+      "published_at": "2026-11-15T07:32:08+00:00",
+      "verification": "official_public_post",
+      "reason": "日刊資訊採集與發布流程，沒有具體閱讀或導航介面設計。"
+    },
+    "2121862512413225006": {
+      "decision": "not_selected",
+      "published_at": "2026-11-15T07:06:59+00:00",
+      "verification": "official_public_post",
+      "reason": "日刊資訊採集與發布流程，沒有具體閱讀或導航介面設計。"
+    },
+    "2121517010995851474": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-14T08:14:05+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "cards": [
+        "adi-retro-404-recovery"
+      ]
+    },
+    "2121249224268394634": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-13T14:30:00+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "cards": [
+        "adi-retro-404-recovery"
+      ]
+    },
+    "2121557246308196371": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-14T10:53:58+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "cards": [
+        "ricoui-component-preview-install"
+      ]
+    },
+    "2121541444368466169": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-14T09:51:11+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "cards": [
+        "ricoui-component-preview-install"
+      ]
+    },
+    "2121516946659364979": {
+      "decision": "not_selected",
+      "published_at": "2026-11-14T08:13:50+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "已檢視原圖：人物及前景物件跨越圓角長條形成景深，屬生成式視覺作品，沒有操作、狀態或介面任務；不為純視覺效果硬建 UI 卡片。"
+    },
+    "2121496106731540542": {
+      "decision": "not_selected",
+      "published_at": "2026-11-14T06:51:01+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "已檢視原圖：人物及前景物件跨越圓角長條形成景深，屬生成式視覺作品，沒有操作、狀態或介面任務；不為純視覺效果硬建 UI 卡片。"
+    },
+    "2121241605218947205": {
+      "decision": "not_selected",
+      "published_at": "2026-11-13T13:59:44+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "已檢視原圖：人物及前景物件跨越圓角長條形成景深，屬生成式視覺作品，沒有操作、狀態或介面任務；不為純視覺效果硬建 UI 卡片。"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2121993904509911288",
-    "2121959212842734000",
-    "2121938541240528957",
-    "2121551213112009164",
-    "2121892029403922717"
+    "2122357349151383553",
+    "2122355752912445749",
+    "2121845833121579166",
+    "2122264462820532253",
+    "2122251936649056315"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -1547,6 +1690,22 @@
     "2121284062983983257": {
       "original_id": "2120923602031919194",
       "original_author": "Kubai087"
+    },
+    "2121604852266770874": {
+      "original_id": "2121600183150792724",
+      "original_author": "ianneo_ai"
+    },
+    "2121868841039147507": {
+      "original_id": "2121862512413225006",
+      "original_author": "ianneo_ai"
+    },
+    "2121557246308196371": {
+      "original_id": "2121541444368466169",
+      "original_author": "ricouii"
+    },
+    "2121516946659364979": {
+      "original_id": "2121496106731540542",
+      "original_author": "LgyLight"
     }
   },
   "author_prompt_replies": {
@@ -1571,6 +1730,10 @@
     ]
   },
   "open_card_gaps": {
+    "adi-retro-404-recovery": [
+      "互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作",
+      "上線證據：僅確認作者示範，未取得正式產品頁"
+    ],
     "kubai-999-003-dither-ascii": [
       "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
     ],
@@ -1591,9 +1754,6 @@
     ],
     "kubai-ai-icon-refinement": [
       "attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結"
-    ],
-    "kubai-anti-slop-product-directives": [
-      "source-url: 使用者只提供截圖，未取得原帖連結與發布時間"
     ],
     "kubai-ascii-login-reference": [
       "source: 產品正式網址、上線狀態與設計署名待確認"
@@ -1641,6 +1801,9 @@
     ],
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
+    ],
+    "ricoui-component-preview-install": [
+      "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
     ]
   },
   "next_run": [
@@ -1649,5 +1812,96 @@
     "Retain the incomplete full-history status until a complete timeline is actually traversed.",
     "Do not advance a global boundary after source access failures."
   ],
-  "pending_source_checks": {}
+  "pending_source_checks": {},
+  "latest_discovery_index_total": 179,
+  "collection_card_slugs": [
+    "adi-retro-404-recovery",
+    "kubai-999-001-tactile-buttons",
+    "kubai-999-002-menu-safe-triangle",
+    "kubai-999-003-dither-ascii",
+    "kubai-999-004-nested-continuous-corners",
+    "kubai-999-005-drag-sort",
+    "kubai-999-006-book-card",
+    "kubai-999-007-typography",
+    "kubai-999-008-responsive-wiki",
+    "kubai-999-009-overlay-selection",
+    "kubai-999-010-liquid-glass",
+    "kubai-999-011-animation-easing",
+    "kubai-999-012-message-bubble",
+    "kubai-999-014-card-deletion",
+    "kubai-999-015-continuity",
+    "kubai-999-016-toast-vs-notification",
+    "kubai-999-017-waiting-states",
+    "kubai-999-018-holographic-card",
+    "kubai-999-unnumbered-shockwave",
+    "kubai-aave-visual-identity",
+    "kubai-agent-ui-review",
+    "kubai-ai-icon-refinement",
+    "kubai-ai-writing-panel",
+    "kubai-airbuild-glass-icon",
+    "kubai-alignment-type-hierarchy",
+    "kubai-animated-bento",
+    "kubai-anti-slop-product-directives",
+    "kubai-anti-slop-review",
+    "kubai-app-store-banner-reference",
+    "kubai-arion-onboarding",
+    "kubai-ascii-daily-new-tab",
+    "kubai-ascii-login-reference",
+    "kubai-canvas-vector-interactions",
+    "kubai-card-illustration-resources",
+    "kubai-carousel-loop-variants",
+    "kubai-cloudflare-canvas-mark",
+    "kubai-crommacode-pixel-ui",
+    "kubai-day-night-artwork",
+    "kubai-design-judgment-tools",
+    "kubai-design-principles-ai",
+    "kubai-empty-state-svg",
+    "kubai-figma-agent-canvas",
+    "kubai-figma-matcap-material",
+    "kubai-fluid-glass-reference",
+    "kubai-functional-icon-states",
+    "kubai-glass-background-comparison",
+    "kubai-gliner-ui-concept",
+    "kubai-hassan-workbench-hero-sections",
+    "kubai-health-app-icons",
+    "kubai-hover-shortcut-teaching",
+    "kubai-ian-prompt-to-card-morph",
+    "kubai-icon-asset-release",
+    "kubai-icon-gradients-textures",
+    "kubai-icons-friend-link-wall",
+    "kubai-icons-generation-workflow",
+    "kubai-interactive-data-visualization",
+    "kubai-interactive-keyboard",
+    "kubai-iterx-logo",
+    "kubai-kaze-nondisruptive-browser",
+    "kubai-landing-animation-workflow",
+    "kubai-linux-motion-vocabulary",
+    "kubai-lumno-new-tab-materials",
+    "kubai-lumno-search-input",
+    "kubai-lumno-shift-click-preview",
+    "kubai-lumno-tab-switcher",
+    "kubai-luwei-icon",
+    "kubai-macos-lockscreen",
+    "kubai-magazine-design-notes",
+    "kubai-mascot-icon-composition",
+    "kubai-nero-motion-components",
+    "kubai-openlogi-icon",
+    "kubai-playful-download-progress",
+    "kubai-portrait-skeuomorphic-components",
+    "kubai-praha-ui-gallery",
+    "kubai-product-design-stages",
+    "kubai-reference-to-figma",
+    "kubai-rove-icon",
+    "kubai-squircle-fallback",
+    "kubai-texture-color-blending",
+    "kubai-timeline-content-interactions",
+    "kubai-tracck-icon",
+    "kubai-tutti-logo",
+    "kubai-ui-sound-reference",
+    "kubai-video-to-ascii-animation",
+    "kubai-voice-input-ui",
+    "kubai-webgl-letter-wallpaper",
+    "kubai-zahra-ui-components",
+    "ricoui-component-preview-install"
+  ]
 }
