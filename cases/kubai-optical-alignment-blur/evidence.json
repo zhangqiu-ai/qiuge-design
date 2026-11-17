@@ -1,0 +1,53 @@
+{
+  "source": "https://x.com/Kubai087/status/2122514434069537097",
+  "published_at": "2026-11-17T02:17:30+00:00",
+  "collected_on": "2026-11-17",
+  "media_source": "Official X post media_entities2; downloaded video.twimg.com MP4",
+  "media_id": "2122233161845538816",
+  "frames": [
+    {
+      "file": "01-sharp-icon.png",
+      "seconds": 0.5,
+      "sha256": "70d12b109c8bd3c2d692052c2668381e6ea6d99b5f508e6743eb5df5e8d40e7f"
+    },
+    {
+      "file": "02-blurred-mass.png",
+      "seconds": 4.5,
+      "sha256": "42d6756fa401a251e2dc7bb2c11840da730b35532dd1524faedc479847a419dd"
+    },
+    {
+      "file": "03-green-guide.png",
+      "seconds": 6.5,
+      "sha256": "0d813316c9d41736bca057d8a89e0b5bfe15cf7feabc11928c3ec22cd8b16ab8"
+    },
+    {
+      "file": "04-wide-pill.png",
+      "seconds": 10.5,
+      "sha256": "a3fa57a6546ed02380bb43041dbd55d77dcdfaa285ea7cff80f8ff4007535bd3"
+    },
+    {
+      "file": "05-text-guide.png",
+      "seconds": 16.5,
+      "sha256": "ee5064ef5cc7489eb0e038329c671bffb23362d84503f2e03f9add5575006969"
+    },
+    {
+      "file": "06-sharp-text.png",
+      "seconds": 19.8,
+      "sha256": "33d156b587c54676839aaa6fd65cb0be043cda250837c5ce8254093826f0101c"
+    }
+  ],
+  "verification": "Official post raw map parsed by supplied fetch.py; video contact sheets visually inspected; all six retained frames visually inspected; PNG decode and Markdown image references checked. No live product behavior tested.",
+  "primary_retrieval": {
+    "scope": "Success verified only for these two direct status URLs in this worker; no claim that profile, Chrome, other clients, or global connectivity recovered. Main-reported profile urllib/curl 503 and Chrome timeout remain separate observations.",
+    "command": "python /tmp/qiuge-nov16/fetch.py https://x.com/Kubai087/status/2122514434069537097",
+    "primary_method": "Supplied fetch.py uses urllib.request.urlopen(Request(status_url, headers={User-Agent: Mozilla/5.0}), timeout=25), HTMLParser script extraction and nested JSON Tweet parsing.",
+    "attempts": 1,
+    "outcome": "Process exited 0; per-ID raw map contains matching rest_id, publisher Kubai087, details.created_at_ms, full_text and media_entities2 video variants.",
+    "fallback": "Not needed; no profile request or profile retry performed by this worker.",
+    "rawmap_sha256": "063e76d1cef1c6631f334d3271d84cbaa2c594416e7ea3e3fb033658ae3f91cf",
+    "verified_rest_id": "2122514434069537097",
+    "verified_screen_name": "Kubai087",
+    "media_retrieval": "curl -L --fail --max-time 45 -o /tmp/<ID>.mp4 <highest-bitrate official video_info MP4 variant>; first attempt exited 0 for both; frames extracted via ffmpeg, raw MP4 removed.",
+    "network_configuration": "No proxy/environment changes made."
+  }
+}

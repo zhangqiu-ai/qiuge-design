@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-16T17:03:30.606318+00:00",
+  "checked_at_utc": "2026-11-17T17:17:42.358468+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 88,
+    "case_count": 92,
     "series_cards": 17,
-    "other_cards": 71,
+    "other_cards": 75,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -69,7 +69,7 @@
     "note": "999 is the series name, not a claim that 999 posts have been published."
   },
   "media": {
-    "images": 447,
+    "images": 464,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -1544,6 +1544,112 @@
       "published_at": "2026-11-13T13:59:44+00:00",
       "verification": "official_public_post_and_inspected_media",
       "reason": "已檢視原圖：人物及前景物件跨越圓角長條形成景深，屬生成式視覺作品，沒有操作、狀態或介面任務；不為純視覺效果硬建 UI 卡片。"
+    },
+    "2122514434069537097": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-17T02:17:30+00:00",
+      "cards": [
+        "kubai-optical-alignment-blur"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes"
+    },
+    "2122537848721309741": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-17T03:50:32+00:00",
+      "cards": [
+        "kubai-slowed-ui-microfeedback"
+      ],
+      "verification": "official_public_post_and_inspected_video_keyframes"
+    },
+    "2122198949612417440": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-16T05:23:52Z",
+      "cards": [
+        "night-dial-day-night-toggle"
+      ],
+      "canonical_source": "https://x.com/seanaiux/status/2122038172087726134",
+      "verification": "official_public_post_and_inspected_video_keyframes",
+      "missing": [
+        "product: 未核實此示範用於已上線產品；平台依網頁模板連結分類",
+        "authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬"
+      ]
+    },
+    "2122038172087726134": {
+      "decision": "supporting_reference",
+      "cards": [
+        "night-dial-day-night-toggle"
+      ],
+      "verification": "official_public_post"
+    },
+    "2122280846921224277": {
+      "decision": "collected_partial",
+      "published_at": "2026-11-16T10:49:18Z",
+      "cards": [
+        "medalsmith-onboarding"
+      ],
+      "canonical_source": "https://x.com/cats_juice/status/2122287437405929859",
+      "verification": "official_public_text_media_download_failed",
+      "missing": [
+        "images: 官方影片下載逾時、HTTP2 錯誤及 503；封面下載 SSL 錯誤，未能保留與檢視影格",
+        "observation: onboarding 版面、文案與動效流程待影片可取得後核實",
+        "availability: 上架及平台來自作者聲明，未獨立核實商店頁面"
+      ]
+    },
+    "2122287437405929859": {
+      "decision": "supporting_reference",
+      "cards": [
+        "medalsmith-onboarding"
+      ],
+      "verification": "official_public_post"
+    },
+    "2122531539791860042": {
+      "decision": "not_selected",
+      "verification": "official_text_and_images_screened",
+      "reason": "官方 HTML 包含 Ian 原帖及引用帖；兩張原圖已檢視。未顯示 DSH-to-Figma 身分，不能合併；依缺乏具體 UI 借鑑內容排除。",
+      "related_source_ids": [
+        "2122520347463565391",
+        "2122516902241292631"
+      ]
+    },
+    "2122555749478142429": {
+      "decision": "pending_verification",
+      "verification": "official_syndication_partial_text_media_failed",
+      "reason": "官方 syndication 請求回傳 Jackywine 原帖 2122527571187531866；候選 ID 與原帖的關係尚未由官方 HTML 核實。正文已核對，媒體未觀察，不能判定為純流程或建立設計卡。",
+      "related_source_ids": [
+        "2122527571187531866"
+      ],
+      "missing": [
+        "full-text: 官方嵌入文字截斷，完整 NoteTweet 未取得",
+        "video: 官方影片下載受阻，具體披露流程未核實"
+      ]
+    },
+    "2122513018328433129": {
+      "decision": "not_selected",
+      "verification": "official_public_text",
+      "reason": "已讀主帖及引用帖：主帖介紹設計師；引用帖為 Yi 的任職與社交自介。初篩不收錄；附帶 GIF 尚未檢視，不對其設計內容下結論。",
+      "published_at": "2026-11-17T02:11:52.000Z"
+    },
+    "2122554601417461813": {
+      "decision": "not_selected",
+      "verification": "official_public_text",
+      "reason": "已讀主帖及 X 內嵌引用全文：主帖評論概念的可解釋性；引用帖介紹把「高級感」拆成具體修改要求的課程。初篩不收錄；引用影片未檢視，不主張影片無設計價值。",
+      "published_at": "2026-11-17T04:57:06.000Z"
+    },
+    "2122560534172336210": {
+      "decision": "not_selected",
+      "verification": "official_public_text",
+      "reason": "已讀主帖：分享 Grokbot 自動營運微信影片號、製作封面與簡介的經驗。屬營運分享，未提供可直接歸納的介面流程，初篩不收錄；附圖未檢視。",
+      "published_at": "2026-11-17T05:20:41.000Z"
+    },
+    "2122226084888588441": {
+      "decision": "pending_verification",
+      "verification": "discovery_only_access_failed",
+      "reason": "Primary post content unreadable; discovery label alone cannot justify notselected or supportingexisting."
+    },
+    "2122197666771943510": {
+      "decision": "not_selected",
+      "verification": "official_public_text",
+      "reason": "已讀主帖：邀請讀者留下 App icon 接受第三期免費點評。邀請本身未包含具體評改結果，初篩不收錄；不推斷回覆串沒有有用案例。"
     }
   },
   "public_profile_snapshot_ids": [
@@ -1706,6 +1812,10 @@
     "2121516946659364979": {
       "original_id": "2121496106731540542",
       "original_author": "LgyLight"
+    },
+    "2122280846921224277": {
+      "original_id": "2122287437405929859",
+      "original_author": "cats_juice"
     }
   },
   "author_prompt_replies": {
@@ -1792,8 +1902,15 @@
     "kubai-macos-lockscreen": [
       "images: dingyi 發布原帖的附圖未包含於本批 metadata"
     ],
+    "kubai-optical-alignment-blur": [
+      "attribution: 未確認原影片作者與首次發布日期"
+    ],
     "kubai-reference-to-figma": [
       "assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證"
+    ],
+    "kubai-slowed-ui-microfeedback": [
+      "attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作",
+      "behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證"
     ],
     "kubai-timeline-content-interactions": [
       "images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖",
@@ -1801,6 +1918,15 @@
     ],
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
+    ],
+    "medalsmith-onboarding": [
+      "images: 官方影片下載逾時、HTTP2 錯誤及 503；封面下載 SSL 錯誤，未能保留與檢視影格",
+      "observation: onboarding 版面、文案與動效流程待影片可取得後核實",
+      "availability: 上架及平台來自作者聲明，未獨立核實商店頁面"
+    ],
+    "night-dial-day-night-toggle": [
+      "product: 未核實此示範用於已上線產品；平台依網頁模板連結分類",
+      "authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬"
     ],
     "ricoui-component-preview-install": [
       "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
@@ -1812,8 +1938,17 @@
     "Retain the incomplete full-history status until a complete timeline is actually traversed.",
     "Do not advance a global boundary after source access failures."
   ],
-  "pending_source_checks": {},
-  "latest_discovery_index_total": 179,
+  "pending_source_checks": {
+    "2122555749478142429": {
+      "reason": "原文僅部分可讀、影片不可下載；不據第三方摘要補寫一次推送與回覆門檻。",
+      "related_original_id": "2122527571187531866"
+    },
+    "2122226084888588441": {
+      "reason": "Primary post content unreadable; discovery label alone cannot justify notselected or supportingexisting.",
+      "discovered_on": "2026-11-17"
+    }
+  },
+  "latest_discovery_index_total": 191,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "kubai-999-001-tactile-buttons",
@@ -1886,12 +2021,14 @@
     "kubai-mascot-icon-composition",
     "kubai-nero-motion-components",
     "kubai-openlogi-icon",
+    "kubai-optical-alignment-blur",
     "kubai-playful-download-progress",
     "kubai-portrait-skeuomorphic-components",
     "kubai-praha-ui-gallery",
     "kubai-product-design-stages",
     "kubai-reference-to-figma",
     "kubai-rove-icon",
+    "kubai-slowed-ui-microfeedback",
     "kubai-squircle-fallback",
     "kubai-texture-color-blending",
     "kubai-timeline-content-interactions",
@@ -1902,6 +2039,13 @@
     "kubai-voice-input-ui",
     "kubai-webgl-letter-wallpaper",
     "kubai-zahra-ui-components",
+    "medalsmith-onboarding",
+    "night-dial-day-night-toggle",
     "ricoui-component-preview-install"
-  ]
+  ],
+  "last_profile_check": {
+    "checked_at_utc": "2026-11-17T17:17:42.358468+00:00",
+    "status": "failed",
+    "details": "公開首頁 urllib/curl 返回 503；Chrome 分頁建立逾時。部分直接 status URL 成功，不代表首頁或完整時間線已恢復。"
+  }
 }

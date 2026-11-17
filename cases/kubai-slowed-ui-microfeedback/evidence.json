@@ -1,0 +1,53 @@
+{
+  "source": "https://x.com/Kubai087/status/2122537848721309741",
+  "published_at": "2026-11-17T03:50:32+00:00",
+  "collected_on": "2026-11-17",
+  "media_source": "Official X post media_entities2; downloaded video.twimg.com MP4",
+  "media_id": "2122330482792607744",
+  "frames": [
+    {
+      "file": "01-bookmark-morph.png",
+      "seconds": 3,
+      "sha256": "ecedcd9cd12a21f7dcbcaea47aa30f583dbfea6e211a260102d842c1910ac2e8"
+    },
+    {
+      "file": "02-toggle.png",
+      "seconds": 8.5,
+      "sha256": "e64bcf108bda4185f7e6d663ad48dacaadbaab87521c550205b6ecdfd98dc7a7"
+    },
+    {
+      "file": "03-publishing.png",
+      "seconds": 9.8,
+      "sha256": "aa7e6507c1d239b971e6aa7f23b299ca7421f01655196f8eece987613bd8e7b5"
+    },
+    {
+      "file": "04-published.png",
+      "seconds": 10.9,
+      "sha256": "1e297209ec6c070d637a796fa5862b2d67594de48c88f56f07b0443bc0943972"
+    },
+    {
+      "file": "05-hold-delete.png",
+      "seconds": 14.4,
+      "sha256": "066b25220313a29f103b62724b2a4ef78d3e578523358c5f97a621c076685dc3"
+    },
+    {
+      "file": "06-delete-dissolve.png",
+      "seconds": 16,
+      "sha256": "c6a677ec44ac31fa43f08e42836f6d807f1463c95994bd0d12a0bc5a650ec533"
+    }
+  ],
+  "verification": "Official post raw map parsed by supplied fetch.py; video contact sheets visually inspected; all six retained frames visually inspected; PNG decode and Markdown image references checked. No live product behavior tested.",
+  "primary_retrieval": {
+    "scope": "Success verified only for these two direct status URLs in this worker; no claim that profile, Chrome, other clients, or global connectivity recovered. Main-reported profile urllib/curl 503 and Chrome timeout remain separate observations.",
+    "command": "python /tmp/qiuge-nov16/fetch.py https://x.com/Kubai087/status/2122537848721309741",
+    "primary_method": "Supplied fetch.py uses urllib.request.urlopen(Request(status_url, headers={User-Agent: Mozilla/5.0}), timeout=25), HTMLParser script extraction and nested JSON Tweet parsing.",
+    "attempts": 1,
+    "outcome": "Process exited 0; per-ID raw map contains matching rest_id, publisher Kubai087, details.created_at_ms, full_text and media_entities2 video variants.",
+    "fallback": "Not needed; no profile request or profile retry performed by this worker.",
+    "rawmap_sha256": "8b79748cc4a533845cbd62ba0c7f76eecc63c922829e9d5cc53aae367ec3f12a",
+    "verified_rest_id": "2122537848721309741",
+    "verified_screen_name": "Kubai087",
+    "media_retrieval": "curl -L --fail --max-time 45 -o /tmp/<ID>.mp4 <highest-bitrate official video_info MP4 variant>; first attempt exited 0 for both; frames extracted via ffmpeg, raw MP4 removed.",
+    "network_configuration": "No proxy/environment changes made."
+  }
+}

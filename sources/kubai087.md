@@ -2,7 +2,7 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **88 張卡片**：999 系列 17 張，其他設計參考 71 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **92 張卡片**：999 系列 17 張，其他設計參考 75 張。同一作品與流程的轉發或補充合併保存。
 
 每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
 
@@ -124,9 +124,17 @@
 
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | navigation, data-display |
 
+| [光學對齊：先模糊元素，再比較視覺重量](../cases/kubai-optical-alignment-blur/case.md) | visual, data-display |
+
+| [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | feedback, visual |
+
+| [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | visual, feedback, forms |
+
+| [Medalsmith 首次使用引導（素材待補）](../cases/medalsmith-onboarding/case.md) | onboarding, visual |
+
 ## 素材與待補
 
-目前已保存 447 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
+目前已保存 464 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
 
 必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
 
@@ -152,9 +160,13 @@
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
 | [Orbit Clocks 的時鐘屏保與風格選擇](../cases/kubai-macos-lockscreen/case.md) | images: dingyi 發布原帖的附圖未包含於本批 metadata |
+| [光學對齊：先模糊元素，再比較視覺重量](../cases/kubai-optical-alignment-blur/case.md) | attribution: 未確認原影片作者與首次發布日期 |
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證 |
+| [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [進度色條、逐幀挑選與行旁答案：把變化留在內容附近](../cases/kubai-timeline-content-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結 |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
+| [Medalsmith 首次使用引導（素材待補）](../cases/medalsmith-onboarding/case.md) | images: 官方影片下載逾時、HTTP2 錯誤及 503；封面下載 SSL 錯誤，未能保留與檢視影格；observation: onboarding 版面、文案與動效流程待影片可取得後核實；availability: 上架及平台來自作者聲明，未獨立核實商店頁面 |
+| [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
 
 ## 查找方式
@@ -184,3 +196,9 @@ rg -n -F '2119359092334743735' cases sources
 新增復古 404 恢復流程與 RicoUI 分類預覽／安裝入口兩張卡片；補充既有圖標工作流的 Skill 1.2.0／圖標包 0.9.0、六個寵物與六個辦公圖標（12 張關鍵幀），並回補五條設計指令的官方來源與日期。兩張新卡另保存 7 張影格，保留操作未實測與上線證據邊界。
 
 已核對公開主頁近期樣本及第三方索引新增條目；課程推廣、日刊生產流程、純視覺長條圖與帳號互動未建卡。全帳戶歷史、013 篇號及既有待補仍未宣稱完整，未推進全局覆蓋邊界。
+
+## 2026-11-17 增量檢查
+
+新增光學對齊、慢放微動效、Night Dial 晨昏切換三張有影格卡片，以及 Medalsmith 素材待補卡片。共保存 17 張新影格；徽章 App 的原文與編輯日期可讀，但影片無法取得，沒有臆測 onboarding 版面。
+
+首頁 503、Chrome 建頁逾時；部分直接原帖可讀。Ian 網頁轉 Figma 的概覽無足夠介面細節，未另建卡；Jackywine 漸進式披露的完整文字與影片仍待補。018 自轉發映射未核實，保留待查。系列最新已確認仍為 018，不據讀取失敗推斷沒有新篇，也不推進完整歷史覆蓋邊界。

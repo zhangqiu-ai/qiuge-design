@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 108 份歷史彙總、874 個不同 status ID；識別 244 則設計候選。
+已初篩 109 份歷史彙總、878 個不同 status ID；識別 246 則設計候選。
 
-候選處理：148 則對應 129 張卡片，83 則不收錄，13 則待核對。卡片也可能保留素材／全文缺漏，見下表。
+候選處理：150 則對應 131 張卡片，83 則不收錄，13 則待核對。卡片也可能保留素材／全文缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -142,6 +142,9 @@
 | [X 情境化按讚：把節慶回饋留在既有動作上](../cases/x-contextual-rocket-like/case.md) | feedback, visual |
 | [小伴：從陪伴角色切換到單張圖像教學卡](../cases/xiaoban-companion-learning-cards/case.md) | ai-chat, content-editing, feedback |
 
+| [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | feedback, visual |
+| [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | data-display, navigation, content-editing |
+
 ## 待補素材與全文
 
 | 卡片 | 缺漏 |
@@ -184,10 +187,12 @@
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
+| [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [先改布局再補提示：把介面減法變成審稿規則](../cases/layout-before-helper-copy/case.md) | images: 原帖為文字指令，未附實際頁面的前後對照 |
 | [Liquid Gooey：以黏合與分離交代控制項的展開](../cases/liquid-gooey-detached-control-motion/case.md) | 產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品 |
 | [llm_wiki：在聊天輸入處選擇檔案與技能並回看引用](../cases/llm-wiki-file-skill-chat-context/case.md) | 行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範 |
 | [Lumina 概念：用模式切換與剖面滑桿探索生物構造](../cases/lumina-creature-anatomy-cross-section/case.md) | accuracy: 生成的幻想生物未經解剖或教材精度核驗 |
+| [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | media: 原始高畫質影片下載不完整，改用官方 606×360 版本；裁圖小字辨識有限；verification: 未安裝麥田或發布助手，未驗證平台資料、轉化計算與實際發布行為 |
 | [Mono Charts：在每張圖卡中保留指標、圖例與複製入口](../cases/mono-charts-contextual-chart-gallery/case.md) | runtime: 未測元件互動、CLI 安裝與真實資料映射 |
 | [Morphicons：在同一預覽位置比較圖標變形與彈性](../cases/morphicons-icon-transition-playground/case.md) | package: 未核對套件體積、演算法與無依賴聲明 |
 | [Motion 術語短片：情境、名稱與示例同屏對照](../cases/motion-taxonomy-labeled-examples/case.md) | parameters: 原帖未提供逐項曲線、時長與互動程式 |
@@ -245,3 +250,9 @@
 新增彙總 5 則，依摘要初篩為調試、網路、投資、銷售與代理架構，沒有具體介面設計線索，未列入原帖收錄佇列。本來源本次新增 0 張、補充 0 張；未將摘要當作原帖核實證據。
 
 13 則歷史待補來源已重查：10 則仍為官方不可見提示，1 則只返回文章連結，2 則本次未取得有效回應；保留原有待核對狀態。
+
+## 2026-11-17 增量檢查
+
+4 則新增彙總中，微動效與麥田工作台各對應一張新卡；前者與 Kubai 每日來源共用同一卡片，沒有重複建卡。已核對官方文字與可下載的影片。另兩則為剪輯教學與診斷工具，未列入介面案例。正文或畫質不足的部分在各卡 missing 保留。
+
+歷史 13 則待補來源已重查：11 則官方不可見提示，1 則僅有文章連結，1 則請求 503。未視為沒有更新，亦未清除既有待補佇列。
