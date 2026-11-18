@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **92 張卡片**：999 系列 17 張，其他設計參考 75 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **95 張卡片**：999 系列 19 張，其他設計參考 76 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**，最近一次排程檢查於 2026-11-14 00:57（UTC+8，對應排程觸發）執行並自動提交推送。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-18（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -23,7 +23,7 @@
 
 ## 999 小技巧系列
 
-已確認篇號為 001–012、014–018。另有一篇同系列衝擊波教學，原帖及兩個編輯版本均未標號，保留為「未標號」，未直接指派 013。999 是系列名稱。
+已確認篇號為 001–019。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -44,12 +44,15 @@
 | 016 | [枯白 016：依觸發來源與是否需後續處理區分 Toast 與 Notification](../cases/kubai-999-016-toast-vs-notification/case.md) | [X](https://x.com/Kubai087/status/2120682993563922586) |
 | 017 | [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | [X](https://x.com/Kubai087/status/2121449185014845794) |
 | 018 | [Kubai 018：隨光點傾斜、帶厚度翻面的全息卡片](../cases/kubai-999-018-holographic-card/case.md) | [X](https://x.com/Kubai087/status/2121892029403922717) |
-| 未標號（013 候選） | [999 小技巧（未標號）：具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | [X](https://x.com/Kubai087/status/2119359092334743735) |
+| 013 | [具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | [X](https://x.com/Kubai087/status/2119359092334743735) |
+| 019 | [捲動驅動的五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | [X](https://x.com/Kubai087/status/2122492414598459820) |
 
 ## 其他設計卡片
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | ai-chat, feedback, data-display |
+| [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | visual, navigation, feedback |
 | [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | navigation, data-display, ai-chat |
 | [深淺模式：讓裝飾配圖也一起入夜](../cases/kubai-day-night-artwork/case.md) | visual |
 | [Portrait 元件：用細描邊、投影與微弱高光交代層次](../cases/kubai-portrait-skeuomorphic-components/case.md) | visual, feedback |
@@ -134,19 +137,19 @@
 
 ## 素材與待補
 
-目前已保存 464 張圖片／關鍵幀、58 段影片。影片使用官方公開的可下載版本，另保留抽樣幀；單張圖不作完整動效或可用性驗證。
-
-必要的來源缺口與額外資源未取得情況，分別記在各卡的 `missing`；工程檔、授權或正式上線狀態沒有取得時，不補寫成已確認。
+目前已保存 483 張圖片／關鍵幀、58 段歷史影片。本次新增19張圖片／關鍵幀，沒有新增原始影片；單張圖不作完整動效或可用性驗證。
 
 | 卡片 | 待補內容 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
+| [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
+| [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | images: 影片含個人筆記與對話，已檢視但不保存畫面；verification: 短片不能驗證未回覆時停止推送的實際行為 |
 | [ASCII 與 Dither：只調圖像質感，保留登入內容](../cases/kubai-999-003-dither-ascii/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
-| [999 小技巧（未標號）：具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | episode: 原帖及兩個編輯版本均未標示編號；可能對應 013，尚未確認 |
+| [枯白 019：讓捲動進度驅動五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能；product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
 | [對話分支與可編輯筆觸：操作後保留原有結構](../cases/kubai-canvas-vector-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結 |
@@ -160,12 +163,13 @@
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
 | [Orbit Clocks 的時鐘屏保與風格選擇](../cases/kubai-macos-lockscreen/case.md) | images: dingyi 發布原帖的附圖未包含於本批 metadata |
+| [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取 |
 | [光學對齊：先模糊元素，再比較視覺重量](../cases/kubai-optical-alignment-blur/case.md) | attribution: 未確認原影片作者與首次發布日期 |
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證 |
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [進度色條、逐幀挑選與行旁答案：把變化留在內容附近](../cases/kubai-timeline-content-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結 |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
-| [Medalsmith 首次使用引導（素材待補）](../cases/medalsmith-onboarding/case.md) | images: 官方影片下載逾時、HTTP2 錯誤及 503；封面下載 SSL 錯誤，未能保留與檢視影格；observation: onboarding 版面、文案與動效流程待影片可取得後核實；availability: 上架及平台來自作者聲明，未獨立核實商店頁面 |
+| [Medalsmith 首次使用引導：徽章展示、日曆與跨裝置](../cases/medalsmith-onboarding/case.md) | observation: 未觀察「開始使用」後的主介面；未核實徽章運動與手勢、裝置姿態之間的因果關係；availability: 上架及平台來自作者聲明，未獨立核實商店頁面；iCloud 與 MCP 僅觀察到介紹文案，未實測 |
 | [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
 
@@ -202,3 +206,12 @@ rg -n -F '2119359092334743735' cases sources
 新增光學對齊、慢放微動效、Night Dial 晨昏切換三張有影格卡片，以及 Medalsmith 素材待補卡片。共保存 17 張新影格；徽章 App 的原文與編輯日期可讀，但影片無法取得，沒有臆測 onboarding 版面。
 
 首頁 503、Chrome 建頁逾時；部分直接原帖可讀。Ian 網頁轉 Figma 的概覽無足夠介面細節，未另建卡；Jackywine 漸進式披露的完整文字與影片仍待補。018 自轉發映射未核實，保留待查。系列最新已確認仍為 018，不據讀取失敗推斷沒有新篇，也不推進完整歷史覆蓋邊界。
+
+
+## 2026-11-18 增量與歷史回補
+
+新增下拉選單縮放錨點、回覆後續讀的漸進式簡報及 019 捲動卡片三張卡片。補充 Medalsmith 五張去識別引導影格、教程官網三張公開流程截圖；013 由官方期號與原帖直接回鏈確認。018 自轉發映射已核實，兩項待查來源解除。
+
+官網003／006／017公開正文與 Prompt／Skill 為可補查的一手來源，但不把它們當成舊 X 全文恢復。Jackywine 因影片含個人筆記，不留圖；無回覆即停止尚未獨立驗證。教程批量下載要求登入，複製成功與 Agent 消費尚未驗證。圖標推薦、OpenMotion 宣傳與貓咪日常不另建卡。
+
+首頁已恢復為近期樣本；第三方索引總數192。全帳戶歷史仍不完整，不推進全局覆蓋邊界。收藏彙總已核對110份、878個去重原帖ID，新增0條；13條歷史待核對重試仍未解除。

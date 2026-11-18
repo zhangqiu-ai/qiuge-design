@@ -8,6 +8,8 @@ tags: [visual, feedback, data-display]
 source: https://x.com/Kubai087/status/2121892029403922717
 published_at: 2026-11-15T09:04:17+00:00
 date: 2026-11-15
+series: kubai-999
+episode: "018"
 missing: []
 ---
 

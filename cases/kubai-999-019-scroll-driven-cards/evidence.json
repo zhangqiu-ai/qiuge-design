@@ -1,0 +1,93 @@
+{
+  "episode": "019",
+  "series": "Vibe Design Tips / 999 Tips",
+  "canonical_url": "https://vibedesign.tips/019-scroll-cards/",
+  "identity_evidence": {
+    "index": "explicit 019 entry links to /019-scroll-cards/",
+    "detail_title": "019 Five card interactions driven by scrolling – Vibe Design Tips",
+    "not_inferred_from_sidebar_count": true
+  },
+  "author": {
+    "name": "Kubai",
+    "url": "https://x.com/kubai087",
+    "basis": "official TechArticle author and publisher"
+  },
+  "publication": {
+    "datePublished": "2026-11-17T00:50:00.299Z",
+    "uploadDate": "2026-11-17T00:50:00.299Z",
+    "basis": "official detail JSON-LD",
+    "social_published_at": "2026-11-17T00:50:00+00:00"
+  },
+  "collected_date": "2026-11-18",
+  "same_flow_as_dropdown": false,
+  "comparison": "scroll-position-driven long-page card sequences versus trigger-origin dropdown scaling",
+  "sources": [
+    {
+      "url": "https://vibedesign.tips/",
+      "status": "public_retrieval_succeeded",
+      "evidence": "explicit episode entry"
+    },
+    {
+      "url": "https://vibedesign.tips/019-scroll-cards/",
+      "status": "public_retrieval_succeeded",
+      "evidence": "title, canonical, author and publication JSON-LD"
+    },
+    {
+      "url": "https://vibedesign.tips/019-scroll-cards/tip.en.json",
+      "status": "public_retrieval_succeeded",
+      "evidence": "summary, notes, parameters and prompt"
+    },
+    {
+      "url": "https://vibedesign.tips/_app/019-Bq8LgVUZ.mp4",
+      "status": "public_retrieval_succeeded",
+      "evidence": "official VideoObject.contentUrl and HTML source; 720x678; 42.933008 seconds"
+    },
+    {
+      "url": "https://vibedesign.tips/_app/main-CckETua6.js",
+      "status": "public_retrieval_succeeded",
+      "evidence": "official 019 asset mapping"
+    },
+    {
+      "url": "https://x.com/Kubai087/status/2122492414598459820",
+      "status": "official_public_SSR_succeeded",
+      "evidence": "NoteTweet full text, timestamp and direct author Prompt reply"
+    }
+  ],
+  "social_source_urls": [
+    "https://x.com/Kubai087/status/2122492414598459820"
+  ],
+  "social_source_status": "official_X_SSR_full_text_and_timestamp_verified",
+  "official_episode_mapping": {
+    "evidence_url": "https://vibedesign.tips/_app/i18n-SlnnMrPu.js",
+    "status": "public_retrieval_succeeded",
+    "record_excerpt": "{issue:`019`,slug:`019-scroll-cards`,x:`2122492414598459820`,name:`Scroll Cards`}"
+  },
+  "missing": [
+    "runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能",
+    "product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品"
+  ],
+  "media": {
+    "frame_times_seconds": [
+      4,
+      12,
+      20,
+      28,
+      35,
+      38
+    ],
+    "crop": "666:596:27:60",
+    "raw_video_retained": false
+  },
+  "scope": {
+    "other_cards": "read_only",
+    "sources_modified": false,
+    "git_commands_run": false,
+    "existing_magazine_modified": false,
+    "episode_013_modified": false
+  },
+  "verification": {
+    "official_media_visually_inspected": true,
+    "repeatable_browser_test": "NOT_RUN: source collection only",
+    "delegation": "No subagent tools available in this runtime"
+  }
+}
