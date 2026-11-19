@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **95 張卡片**：999 系列 19 張，其他設計參考 76 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **99 張卡片**：999 系列 19 張，其他設計參考 80 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-18（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-19（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -51,6 +51,10 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [儀表盤卡片：總覽、時間篩選與單卡下鑽](../cases/kubai-dashboard-metric-drilldown/case.md) | data-display, navigation, feedback |
+| [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | content-editing, data-display, feedback |
+| [互動表格示範：在同一訂單頁比較篩選與批次操作](../cases/ian-interactive-table-demo/case.md) | data-display, search, feedback |
+| [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | visual |
 | [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | ai-chat, feedback, data-display |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | visual, navigation, feedback |
 | [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | navigation, data-display, ai-chat |
@@ -137,23 +141,26 @@
 
 ## 素材與待補
 
-目前已保存 483 張圖片／關鍵幀、58 段歷史影片。本次新增19張圖片／關鍵幀，沒有新增原始影片；單張圖不作完整動效或可用性驗證。
+目前已保存 505 張圖片／關鍵幀、58 段歷史影片；本次只新增圖片，不保存原始影片。
 
 | 卡片 | 待補內容 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
+| [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線；implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數 |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
+| [互動表格示範：在同一訂單頁比較篩選與批次操作](../cases/ian-interactive-table-demo/case.md) | 互動驗證：未取得可執行 Demo；規範與文章的具體來源未在原帖交代 |
+| [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | 互動驗證：未取得可執行原型，僅核對原帖與示範影片 |
 | [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | images: 影片含個人筆記與對話，已檢視但不保存畫面；verification: 短片不能驗證未回覆時停止推送的實際行為 |
 | [ASCII 與 Dither：只調圖像質感，保留登入內容](../cases/kubai-999-003-dither-ascii/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
-| [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
 | [枯白 019：讓捲動進度驅動五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能；product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
 | [對話分支與可編輯筆觸：操作後保留原有結構](../cases/kubai-canvas-vector-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結 |
 | [產品卡片的手繪油畫配圖與資源整理](../cases/kubai-card-illustration-resources/case.md) | assets: 已核對公開 Figma 連結，資源檔內容與使用授權尚未取得 |
+| [儀表盤卡片：總覽、時間篩選與單卡下鑽](../cases/kubai-dashboard-metric-drilldown/case.md) | attribution: 原帖未標示示範介面的原設計者或產品名稱；verification: 只觀察影片；未驗證資料正確性、篩選聯動範圍、鍵盤操作及正式上線狀態 |
 | [Lumno 的功能關聯空狀態 SVG](../cases/kubai-empty-state-svg/case.md) | primary-full-text: SVG 長文原帖的官方全文未取得，以 FxTwitter 展開內容補充；開源說明已核對官方嵌入全文 |
 | [流光玻璃的控件示例與視覺參考規範](../cases/kubai-fluid-glass-reference/case.md) | assets: 未收錄完整視覺參考規範 |
 | [固定玻璃參數換背景：先檢查卡片下方的色塊](../cases/kubai-glass-background-comparison/case.md) | attribution: @davidhaz 靈感原始連結未附於來源封包 |
@@ -215,3 +222,10 @@ rg -n -F '2119359092334743735' cases sources
 官網003／006／017公開正文與 Prompt／Skill 為可補查的一手來源，但不把它們當成舊 X 全文恢復。Jackywine 因影片含個人筆記，不留圖；無回覆即停止尚未獨立驗證。教程批量下載要求登入，複製成功與 Agent 消費尚未驗證。圖標推薦、OpenMotion 宣傳與貓咪日常不另建卡。
 
 首頁已恢復為近期樣本；第三方索引總數192。全帳戶歷史仍不完整，不推進全局覆蓋邊界。收藏彙總已核對110份、878個去重原帖ID，新增0條；13條歷史待核對重試仍未解除。
+
+
+## 2026-11-19 增量與歷史回補
+
+本來源新增4張：AI Studio局部折射圖示、儀表盤的週期篩選與單卡下鑽、多方案原型分層切換及互動表格；補充3張既有卡片（圖標、017來源及教程站）。圖標更新與教程站發布合併既有卡片。017 作者直接Prompt回覆的官方完整長文已取得，解除歷史缺漏，僅保存來源與摘要。
+
+首頁為近期樣本，第三方索引總數199；官方既有模組仍列001–019，但官網首頁403，未將搜尋不到020當成沒有更新。完整帳戶歷史仍未遍歷，不推進全局覆蓋邊界。實體機器人外觀、互關與帳號更名不另收錄。

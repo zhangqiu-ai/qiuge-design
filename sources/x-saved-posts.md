@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 110 份歷史彙總、878 個不同 status ID；識別 246 則設計候選。
+已初篩 111 份歷史彙總、886 個不同 status ID；本來源識別 251 則設計候選（本次兩則 Kubai 交主線）。
 
-候選處理：150 則對應 131 張卡片，83 則不收錄，13 則待核對。卡片也可能保留素材／全文缺漏，見下表。
+候選處理：153 則對應 132 張卡片，85 則不收錄，13 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -145,6 +145,8 @@
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | feedback, visual |
 | [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | data-display, navigation, content-editing |
 
+| [OpenMotion：從模板預覽銜接到可編輯時間軸](../cases/openmotion-template-preview-studio/case.md) | content-editing, search, navigation |
+
 ## 待補素材與全文
 
 | 卡片 | 缺漏 |
@@ -185,8 +187,8 @@
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
-| [枯白 017：依任務選 Spinner、Skeleton、Progress 與樂觀更新](../cases/kubai-999-017-waiting-states/case.md) | prompt: 主帖提及的長版 Prompt 回覆未取得 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
+| [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取 |
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [先改布局再補提示：把介面減法變成審稿規則](../cases/layout-before-helper-copy/case.md) | images: 原帖為文字指令，未附實際頁面的前後對照 |
 | [Liquid Gooey：以黏合與分離交代控制項的展開](../cases/liquid-gooey-detached-control-motion/case.md) | 產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品 |
@@ -198,6 +200,7 @@
 | [Motion 術語短片：情境、名稱與示例同屏對照](../cases/motion-taxonomy-labeled-examples/case.md) | parameters: 原帖未提供逐項曲線、時長與互動程式 |
 | [Muse Charm 概念硬體：以輕觸啟動對話](../cases/muse-charm-touch-conversation-entry/case.md) | images: 已下載並檢視原帖影片四張影格，但均為舞台演說或大會標誌，未顯示本文硬體操作，故不作介面證據；verification: 硬體發布資訊未以 Meta 官方消息獨立核實 |
 | [OJO 展示：把團隊能力、需求稿與裝置預覽接成流程](../cases/ojo-agent-team-to-canvas-prototype/case.md) | runtime: 僅官方展示，未驗證團隊執行與畫布編輯 |
+| [OpenMotion：從模板預覽銜接到可編輯時間軸](../cases/openmotion-template-preview-studio/case.md) | 互動驗證：僅觀察作者發布影片，未執行模板重建、時間軸編輯或匯出；不採信宣傳中的還原率 |
 | [pi Generative UI：逐步呈現資料卡，再補入圖表與表格](../cases/pi-generative-ui-progressive-widget-render/case.md) | runtime: 僅核對作者文章與動圖，未執行擴充 |
 | [作品集概念：以黑白留白與產品截圖建立作品敘事](../cases/portfolio-monochrome-product-proof-layout/case.md) | 交付驗證：僅為生成案例圖，未開啟或操作作品集 |
 | [作品集還原示範：大字介紹與專案縮圖分段呈現](../cases/portfolio-preview-project-grid/case.md) | comparison: 未與原網站逐項對照或實測導覽 |
@@ -262,3 +265,14 @@
 上游當日彙總沒有新增帖子，收藏來源本次新增 0 張、補充 0 張；來源知識庫維持唯讀，未將此結果當成 X 全帳戶無更新。歷史待補佇列另行保留。
 
 13 則歷史來源重查後，12 則仍為官方不可見提示，1 則只返回文章連結；未解除原有缺漏。
+
+## 2026-11-19 增量檢查
+
+獨立核對 111 份 SHA-256：新增 X-2026-11-19.md，其餘 110 份未變，無刪除。8 個新增 status ID 中，6 個非 Kubai、2 個 Kubai 交由主線。三個非 Kubai 設計線索已核對官方資料：OpenMotion 新建 1 張；Web 指引是工程流程，語音陪伴未取得操作素材，這次不建卡。另三則摘要為研究、生活與程式維護，未列設計候選。
+
+[OpenMotion 卡片](../cases/openmotion-template-preview-studio/case.md)保存三張裁切影格；未實測重建、編輯或匯出，不採信宣傳還原率。未保存完整提示或原始影片。
+
+13 則歷史 pending 各查詢一次官方 syndication：9 則 TweetTombstone、1 則只有文章連結、3 則連線 503；解除 0 則。保留既有缺漏，未反覆重試。來源知識庫維持唯讀；本庫收錄與追蹤變更經統一校驗後提交推送。
+
+
+兩則Kubai教程站來源已與主線核對並合併既有卡片，保留點讚／收藏出處。本來源本輪新增1張卡片、補充1張既有卡片的來源；13則歷史待補仍保留。

@@ -8,7 +8,7 @@ tags: ["feedback", "data-display", "accessibility"]
 source: "https://x.com/Kubai087/status/2121449185014845794"
 date: "2026-11-14"
 published_at: "2026-11-14T03:44:34+00:00"
-missing: ["prompt: 主帖提及的長版 Prompt 回覆未取得"]
+missing: []
 series: kubai-999
 episode: "017"
 ---
@@ -56,3 +56,8 @@ episode: "017"
 ## 來源與核對範圍
 
 [Kubai 第 017 期原帖](https://x.com/Kubai087/status/2121449185014845794)的官方長文快取與官方附片均已核對；保留六張影格，不保留原始影片。原帖提到另附 Prompt，但本次快取未包含該回覆，沒有將其當成已核對規範。
+
+
+## 2026-11-19 來源回補
+
+已取得[作者直接 Prompt 回覆](https://x.com/Kubai087/status/2121449497171841362)的官方完整 NoteTweet，解除原有來源缺漏。指令先盤點實際等待點，再按持續時間、取消與失敗恢復選擇模式；另要求離線測試樂觀更新、減少動態效果與輔助技術回饋。這些是作者要求的檢查項目，不代表本卡或原示範已通過驗證。僅保存來源與摘要，不複製完整指令。

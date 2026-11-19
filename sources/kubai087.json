@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
+  "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 95,
+    "case_count": 99,
     "series_cards": 19,
-    "other_cards": 76,
+    "other_cards": 80,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -70,10 +70,16 @@
       "verification_url": "https://vibedesign.tips/013-shockwave-glow/",
       "verified_at_utc": "2026-11-18T17:09:34.690693+00:00"
     },
-    "note": "999 is the series name, not a claim that 999 posts have been published."
+    "note": "999 is the series name, not a claim that 999 posts have been published.",
+    "last_check": {
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "official_module": "https://vibedesign.tips/_app/i18n-SlnnMrPu.js",
+      "module_numbers": "001–019",
+      "limitation": "首頁403，既有官方公開模組列到019；未將未找到020當成未發布的證據。"
+    }
   },
   "media": {
-    "images": 483,
+    "images": 505,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -1127,20 +1133,18 @@
   },
   "additional_processed_posts": {
     "2120484329830916286": {
-      "decision": "merged_update",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "verification": "official_public_post"
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
     },
     "2120551252253974750": {
-      "decision": "merged_update",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "verification": "official_public_post_and_sampled_video",
-      "published_at": "2026-11-11T16:16:31+00:00",
-      "media": "5 sampled frames; original post video linked"
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
     },
     "2120707475972538723": {
       "decision": "not_selected",
@@ -1167,13 +1171,11 @@
       "verification": "official_public_post_edit_control"
     },
     "2120830679089090681": {
-      "decision": "merged_update",
-      "published_at": "2026-11-12T10:46:51+00:00",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "media": "05-source.mp4 + 2 sampled frames; linked GitHub repo kubai087/kubai-icons verified SKILL.md, PROMPT.md, LICENSING.md",
-      "verification": "official_public_post_and_official_github_repo"
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
     },
     "2120866563184308488": {
       "decision": "collected_or_merged",
@@ -1251,13 +1253,11 @@
       "verification": "official_public_post"
     },
     "2121123775051891148": {
-      "decision": "merged_update",
-      "published_at": "2026-11-13T06:11:31+00:00",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "media": "06-source.mp4 + 2 sampled frames (0.8.0 update: 9 yard/gardening icons + Web Component support)",
-      "verification": "official_public_post"
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
     },
     "2121125420506751462": {
       "decision": "collected_or_merged",
@@ -1343,12 +1343,11 @@
     },
     "2121449185014845794": {
       "decision": "collected_or_merged",
-      "published_at": "2026-11-14T03:44:34+00:00",
-      "cards": [
-        "kubai-999-017-waiting-states"
-      ],
-      "verification": "official_public_post_note_tweet_and_sampled_video",
-      "discovered_in": "MyKnowledgeBase/X/X-2026-11-14.md"
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes",
+      "published_at": "2026-11-14T03:44:34+00:00"
     },
     "2121284062983983257": {
       "decision": "merged_update",
@@ -1378,7 +1377,8 @@
       "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
       "canonical_id": "2121892029403922717",
       "reason": "官方原帖全文與轉發映射已核對；媒體觀察與卡片缺漏分開保存。",
-      "card": "kubai-999-018-holographic-card"
+      "card": "kubai-999-018-holographic-card",
+      "published_at": "2026-11-15T09:04:17+00:00"
     },
     "2121938541240528957": {
       "decision": "collected_or_merged",
@@ -1425,46 +1425,28 @@
       "reason": "Star 目標或帳號命名互動，沒有具體產品介面做法。"
     },
     "2121845833121579166": {
-      "decision": "merged_update",
-      "published_at": "2026-11-15T06:00:43+00:00",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "verification": "official_public_post_and_inspected_video_keyframes",
-      "media": [
-        "07-frame-01.jpg",
-        "07-frame-02.jpg",
-        "07-frame-03.jpg",
-        "07-frame-04.jpg",
-        "07-frame-05.jpg",
-        "07-frame-06.jpg"
-      ]
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-15T06:00:43+00:00"
     },
     "2122357349151383553": {
-      "decision": "merged_update",
-      "published_at": "2026-11-16T15:53:18+00:00",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "verification": "official_public_post_and_inspected_video_keyframes",
-      "media": [
-        "08-frame-01.jpg",
-        "08-frame-02.jpg",
-        "08-frame-03.jpg"
-      ]
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-16T15:53:18+00:00"
     },
     "2121638625582653570": {
-      "decision": "merged_update",
-      "published_at": "2026-11-14T16:17:21+00:00",
-      "cards": [
-        "kubai-icons-generation-workflow"
-      ],
-      "verification": "official_public_post_and_inspected_video_keyframes",
-      "media": [
-        "09-frame-01.jpg",
-        "09-frame-02.jpg",
-        "09-frame-03.jpg"
-      ]
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-14T16:17:21+00:00"
     },
     "2121615225816494303": {
       "decision": "merged_update",
@@ -1567,7 +1549,7 @@
     },
     "2122198949612417440": {
       "decision": "collected_or_merged",
-      "published_at": "2026-11-16T05:23:52Z",
+      "published_at": "2026-11-16T05:23:52+00:00",
       "cards": [
         "night-dial-day-night-toggle"
       ],
@@ -1583,11 +1565,12 @@
       "cards": [
         "night-dial-day-night-toggle"
       ],
-      "verification": "official_public_post"
+      "verification": "official_public_post",
+      "published_at": "2026-11-15T18:45:00+00:00"
     },
     "2122280846921224277": {
       "decision": "collected_partial",
-      "published_at": "2026-11-16T10:49:18Z",
+      "published_at": "2026-11-16T10:49:18+00:00",
       "cards": [
         "medalsmith-onboarding"
       ],
@@ -1604,7 +1587,8 @@
       "cards": [
         "medalsmith-onboarding"
       ],
-      "verification": "official_public_post"
+      "verification": "official_public_post",
+      "published_at": "2026-11-16T11:15:29+00:00"
     },
     "2122531539791860042": {
       "decision": "not_selected",
@@ -1621,7 +1605,8 @@
       "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
       "canonical_id": "2122527571187531866",
       "reason": "官方原帖全文與轉發映射已核對；媒體觀察與卡片缺漏分開保存。",
-      "card": "jackywine-progressive-disclosure-briefing"
+      "card": "jackywine-progressive-disclosure-briefing",
+      "published_at": "2026-11-17T05:01:40+00:00"
     },
     "2122513018328433129": {
       "decision": "not_selected",
@@ -1633,7 +1618,7 @@
       "decision": "not_selected",
       "verification": "official_public_text",
       "reason": "已讀主帖及 X 內嵌引用全文：主帖評論概念的可解釋性；引用帖介紹把「高級感」拆成具體修改要求的課程。初篩不收錄；引用影片未檢視，不主張影片無設計價值。",
-      "published_at": "2026-11-17T04:57:06.000Z"
+      "published_at": "2026-11-17T04:57:06+00:00"
     },
     "2122560534172336210": {
       "decision": "not_selected",
@@ -1647,12 +1632,14 @@
       "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
       "canonical_id": "2121892029403922717",
       "reason": "官方原帖全文與轉發映射已核對；媒體觀察與卡片缺漏分開保存。",
-      "card": "kubai-999-018-holographic-card"
+      "card": "kubai-999-018-holographic-card",
+      "published_at": "2026-11-16T07:11:42+00:00"
     },
     "2122197666771943510": {
       "decision": "not_selected",
       "verification": "official_public_text",
-      "reason": "已讀主帖：邀請讀者留下 App icon 接受第三期免費點評。邀請本身未包含具體評改結果，初篩不收錄；不推斷回覆串沒有有用案例。"
+      "reason": "已讀主帖：邀請讀者留下 App icon 接受第三期免費點評。邀請本身未包含具體評改結果，初篩不收錄；不推斷回覆串沒有有用案例。",
+      "published_at": "2026-11-16T05:18:46+00:00"
     },
     "2123076115464098210": {
       "decision": "collected_or_merged",
@@ -1676,15 +1663,16 @@
       "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
       "canonical_id": "2122527571187531866",
       "reason": "官方原帖全文與轉發映射已核對；媒體觀察與卡片缺漏分開保存。",
-      "card": "jackywine-progressive-disclosure-briefing"
+      "card": "jackywine-progressive-disclosure-briefing",
+      "published_at": "2026-11-17T03:09:42+00:00"
     },
     "2123056851189395913": {
       "decision": "collected_or_merged",
-      "verification": "official_public_primary",
-      "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
-      "reason": "Announcement alone insufficient; live official site supports substantive index/detail/agent handoff UX update.",
-      "published_at": "2026-11-18T14:12:52+00:00",
-      "card": "kubai-magazine-design-notes"
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes",
+      "published_at": "2026-11-18T14:12:52+00:00"
     },
     "2123095870262673428": {
       "decision": "not_selected",
@@ -1708,33 +1696,246 @@
     },
     "2119359092334743735": {
       "decision": "collected_or_merged",
-      "verification": "official_public_primary",
-      "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
-      "reason": "作者官網013詳情直接回鏈本原帖，解除未標號缺漏。",
-      "official_article": "https://vibedesign.tips/013-shockwave-glow/",
-      "card": "kubai-999-unnumbered-shockwave"
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes"
     },
     "2122492414598459820": {
       "decision": "collected_or_merged",
-      "verification": "official_X_SSR_full_text_and_official_site",
-      "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
-      "official_article": "https://vibedesign.tips/019-scroll-cards/",
-      "card": "kubai-999-019-scroll-driven-cards",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes",
       "published_at": "2026-11-17T00:50:00+00:00"
     },
     "2122496665571803155": {
       "decision": "collected_or_merged",
       "card": "kubai-999-019-scroll-driven-cards",
       "verification": "official_X_direct_author_reply",
-      "reason": "Prompt來源與摘要，不保存完整指令。"
+      "reason": "Prompt來源與摘要，不保存完整指令。",
+      "published_at": "2026-11-17T01:06:53+00:00"
+    },
+    "2122869725273444611": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "published_at": "2026-11-18T01:49:18+00:00",
+      "card": "kubai-dashboard-metric-drilldown"
+    },
+    "2122673122566644158": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-17T12:48:04+00:00"
+    },
+    "2122726146764865625": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-17T16:18:46+00:00"
+    },
+    "2122917792903209141": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes",
+      "published_at": "2026-11-18T05:00:18+00:00"
+    },
+    "2122745010294771873": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "reason": "僅推薦相同教程站，保留來源映射，不新增獨立卡片。",
+      "card": "kubai-magazine-design-notes",
+      "published_at": "2026-11-17T17:33:43+00:00"
+    },
+    "2121449497171841362": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2121449185014845794",
+      "card": "kubai-999-017-waiting-states",
+      "published_at": "2026-11-14T03:45:49+00:00"
+    },
+    "2122870563064693241": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "reason": "Devinbot實體機器人形象與電路板外觀評論，無具體軟體介面或前端流程。",
+      "published_at": "2026-11-18T01:52:37+00:00"
+    },
+    "2122873779143819404": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "reason": "帳號更名與認證訊息，無設計做法。",
+      "published_at": "2026-11-18T02:05:24+00:00"
+    },
+    "2123417088459186600": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "reason": "互關社交互動，無具體設計內容。",
+      "published_at": "2026-11-19T14:04:19+00:00"
+    },
+    "2123413484285427935": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "reason": "徵求作品以互關，邀請本身無可觀察設計方法。",
+      "published_at": "2026-11-19T13:50:00+00:00"
+    },
+    "2120215002594587073": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2118188266025553929": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2117605750474428446": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2118014184877428821": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120110508909133962",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2120110508909133962": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "published_at": "2026-11-10 11:05:09 +0000",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2120362989849366844": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "published_at": "2026-11-11T03:48:25Z",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2115091203465290087": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2116198373040759107": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2120362989849366844",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2123458251861971238": {
+      "decision": "collected_or_merged",
+      "published_at": "2026-11-19T16:47:53+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "五張原圖呈現局部折射、色散、手機情境與小馬方案，有具體可借鑑細節；產品存在但新圖示上線未確認。",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00",
+      "card": "ai-studio-refractive-app-icon"
+    },
+    "2123458659216998763": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+      "verification": "official_public_post",
+      "canonical_id": "2123458251861971238",
+      "card": "ai-studio-refractive-app-icon",
+      "published_at": "2026-11-19T16:49:30+00:00"
+    },
+    "2122868968298041349": {
+      "decision": "collected_or_merged",
+      "card": "ian-interactive-table-demo",
+      "canonical_id": "2122860352094523695",
+      "published_at": "2026-11-18T01:46:17+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2122860352094523695": {
+      "decision": "collected_or_merged",
+      "card": "ian-interactive-table-demo",
+      "canonical_id": "2122860352094523695",
+      "published_at": "2026-11-18T01:12:03+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2122690700781531461": {
+      "decision": "collected_or_merged",
+      "card": "ian-multi-option-interactive-prototypes",
+      "canonical_id": "2122673879562731637",
+      "published_at": "2026-11-17T13:57:55+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2122673879562731637": {
+      "decision": "collected_or_merged",
+      "card": "ian-multi-option-interactive-prototypes",
+      "canonical_id": "2122673879562731637",
+      "published_at": "2026-11-17T12:51:04+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2123355707257036846": {
+      "decision": "not_selected",
+      "published_at": "2026-11-19T10:00:25+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "原作者公告 v0.9.0 服務商與八種主題；11.2 秒影片抽樣僅見服務商標誌輪播、六服務商總覽及網站結尾，沒有主題設定、收信或帳號切換流程。Kubai 為推薦語，不足以建獨立設計卡。",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2123328843394199909": {
+      "decision": "not_selected",
+      "published_at": "2026-11-19T08:13:40+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "原作者公告 v0.9.0 服務商與八種主題；11.2 秒影片抽樣僅見服務商標誌輪播、六服務商總覽及網站結尾，沒有主題設定、收信或帳號切換流程。Kubai 為推薦語，不足以建獨立設計卡。",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00"
+    },
+    "2123302641484845386": {
+      "decision": "supporting_existing",
+      "published_at": "2026-11-19T06:29:33+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "原作者明稱安裝 kubai-holo-card Skill 後換成怪盜基德圖片；21.705 秒影片抽樣見同樣六種材質選擇與指標光澤變化。Kubai 評論視差適合周邊，沒有獨立新流程。既有 018 已收錄材質、傾斜與翻面，不增卡也不改舊卡。",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00",
+      "card": "kubai-999-018-holographic-card"
+    },
+    "2123299148657209350": {
+      "decision": "supporting_existing",
+      "published_at": "2026-11-19T06:15:40+00:00",
+      "verification": "official_public_post_and_inspected_media",
+      "reason": "原作者明稱安裝 kubai-holo-card Skill 後換成怪盜基德圖片；21.705 秒影片抽樣見同樣六種材質選擇與指標光澤變化。Kubai 評論視差適合周邊，沒有獨立新流程。既有 018 已收錄材質、傾斜與翻面，不增卡也不改舊卡。",
+      "checked_at_utc": "2026-11-19T17:04:43.416067+00:00",
+      "card": "kubai-999-018-holographic-card"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2123095870262673428",
-    "2123089246693294567",
-    "2123076115464098210",
-    "2123056851189395913"
+    "2123458251861971238",
+    "2123417088459186600",
+    "2123413484285427935",
+    "2123355707257036846",
+    "2123328843394199909",
+    "2123302641484845386",
+    "2123299148657209350",
+    "2121892029403922717"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -1900,6 +2101,18 @@
     "2122226084888588441": {
       "original_id": "2121892029403922717",
       "original_author": "Kubai087"
+    },
+    "2122726146764865625": {
+      "original_id": "2122673122566644158",
+      "original_author": "Kubai087"
+    },
+    "2122690700781531461": {
+      "original_id": "2122673879562731637",
+      "original_author": "ianneo_ai"
+    },
+    "2122868968298041349": {
+      "original_id": "2122860352094523695",
+      "original_author": "ianneo_ai"
     }
   },
   "author_prompt_replies": {
@@ -1924,6 +2137,9 @@
     ],
     "019": [
       "2122496665571803155"
+    ],
+    "017": [
+      "2121449497171841362"
     ]
   },
   "open_card_gaps": {
@@ -1931,10 +2147,20 @@
       "互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作",
       "上線證據：僅確認作者示範，未取得正式產品頁"
     ],
+    "ai-studio-refractive-app-icon": [
+      "shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線",
+      "implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數"
+    ],
     "emil-dropdown-trigger-transform-origin": [
       "code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作",
       "product: 教學對照示範，沒有指定產品與正式上線版本證據",
       "interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式"
+    ],
+    "ian-interactive-table-demo": [
+      "互動驗證：未取得可執行 Demo；規範與文章的具體來源未在原帖交代"
+    ],
+    "ian-multi-option-interactive-prototypes": [
+      "互動驗證：未取得可執行原型，僅核對原帖與示範影片"
     ],
     "jackywine-progressive-disclosure-briefing": [
       "images: 影片含個人筆記與對話，已檢視但不保存畫面",
@@ -1952,9 +2178,6 @@
     "kubai-999-012-message-bubble": [
       "prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt"
     ],
-    "kubai-999-017-waiting-states": [
-      "prompt: 主帖提及的長版 Prompt 回覆未取得"
-    ],
     "kubai-999-019-scroll-driven-cards": [
       "runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能",
       "product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品"
@@ -1971,6 +2194,10 @@
     ],
     "kubai-card-illustration-resources": [
       "assets: 已核對公開 Figma 連結，資源檔內容與使用授權尚未取得"
+    ],
+    "kubai-dashboard-metric-drilldown": [
+      "attribution: 原帖未標示示範介面的原設計者或產品名稱",
+      "verification: 只觀察影片；未驗證資料正確性、篩選聯動範圍、鍵盤操作及正式上線狀態"
     ],
     "kubai-empty-state-svg": [
       "primary-full-text: SVG 長文原帖的官方全文未取得，以 FxTwitter 展開內容補充；開源說明已核對官方嵌入全文"
@@ -2039,10 +2266,13 @@
     "Do not advance a global boundary after source access failures."
   ],
   "pending_source_checks": {},
-  "latest_discovery_index_total": 192,
+  "latest_discovery_index_total": 199,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
+    "ai-studio-refractive-app-icon",
     "emil-dropdown-trigger-transform-origin",
+    "ian-interactive-table-demo",
+    "ian-multi-option-interactive-prototypes",
     "jackywine-progressive-disclosure-briefing",
     "kubai-999-001-tactile-buttons",
     "kubai-999-002-menu-safe-triangle",
@@ -2081,6 +2311,7 @@
     "kubai-carousel-loop-variants",
     "kubai-cloudflare-canvas-mark",
     "kubai-crommacode-pixel-ui",
+    "kubai-dashboard-metric-drilldown",
     "kubai-day-night-artwork",
     "kubai-design-judgment-tools",
     "kubai-design-principles-ai",
@@ -2138,8 +2369,8 @@
     "ricoui-component-preview-install"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-18T17:09:34.690693+00:00",
+    "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
     "status": "success_recent_sample_only",
-    "details": "公開官方首頁資料恢復；僅少量近期樣本，另核對作者官網與待查原帖，不代表完整時間線。"
+    "details": "官方首頁公開資料可讀，另核對第三方索引新增7條的官方原帖；不代表完整時間線。"
   }
 }
