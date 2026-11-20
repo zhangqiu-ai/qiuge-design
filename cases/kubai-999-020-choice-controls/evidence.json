@@ -1,0 +1,117 @@
+{
+  "collected_at": "2026-11-20T17:07:05.370247+00:00",
+  "series_number": "020",
+  "kind": "concept",
+  "official_module": "https://vibedesign.tips/_app/i18n-DOAboJWQ.js",
+  "module_mapping": {
+    "issue": "020",
+    "slug": "020-choice-controls",
+    "x": "2123217190052827633"
+  },
+  "posts": {
+    "2123217190052827633": {
+      "url": "https://x.com/Kubai087/status/2123217190052827633",
+      "author": "Kubai087",
+      "published_at": "2026-11-19T00:50:00+00:00",
+      "verification": "official X HTML parsed using /tmp/qiuge-nov16/fetch.py",
+      "media": [
+        {
+          "type": "video",
+          "media_id": "2123106760907177984",
+          "duration_ms": 62421,
+          "dimensions": {
+            "height": 2880,
+            "width": 2160
+          },
+          "mp4_variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/pl/5llYGzBluc8RxBRu.m3u8?tag=29&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/320x426/7YqfNIHEPEz091NB.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/480x640/nMgtnVB67KhqEbHb.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/720x960/ocVdhxvpKJfGZleQ.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/1080x1440/3lwy-n53tUGCauIc.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123106760907177984/vid/avc1/2160x2880/ZDPpWVksjNb5sNVA.mp4?tag=29"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "frames": [
+    {
+      "file": "cases/kubai-999-020-choice-controls/01-switch-instant.png",
+      "time_seconds": 3,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "5938e18385d8b946821174717f766d1c8f0727ec739e262815fb27de9cf20e01",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-020-choice-controls/02-checkbox-submit.png",
+      "time_seconds": 7,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "291827889f318d5e753adf8faebb418dbc7100ee9977d80978730f77f9713dd5",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-020-choice-controls/03-split-action-menu.png",
+      "time_seconds": 23,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "3e47bb46f6ddcca422d31de137ec2386ec5494c60afe1b2c4ab02e535d77054b",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-020-choice-controls/04-segment-and-radio.png",
+      "time_seconds": 30,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "c7fe61d45027c3271788b38e03721ebbc761df5cac3135d9a3e575bbf2928514",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-020-choice-controls/05-search-select.png",
+      "time_seconds": 38,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "b0fe18d9fdc0e38c528bc253cdb9853b4ce47f263e547f129086058b92700369",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-020-choice-controls/06-multiple-choice.png",
+      "time_seconds": 58,
+      "source_video": "choice-small.mp4",
+      "crop": "crop=720:730:0:150",
+      "sha256": "c6ecf9be1cf3bcf344f037fc9a630bcc34f2db4c98785523cfbc1faa02b50c25",
+      "inspected": true
+    }
+  ],
+  "runtime_verification": "NOT_RUN; reviewed official recordings only",
+  "full_prompt_retained": false,
+  "raw_video_retained": false,
+  "missing": [
+    "實測：僅核對官方文章與示範影片，未測試真實儲存、通知權限或鍵盤操作"
+  ]
+}

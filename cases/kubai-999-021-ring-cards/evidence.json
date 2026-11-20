@@ -1,0 +1,186 @@
+{
+  "collected_at": "2026-11-20T17:07:05.370247+00:00",
+  "series_number": "021",
+  "kind": "concept",
+  "official_module": "https://vibedesign.tips/_app/i18n-DOAboJWQ.js",
+  "module_mapping": {
+    "issue": "021",
+    "slug": "021-ring-cards",
+    "x": "2123579578098536608"
+  },
+  "posts": {
+    "2123579578098536608": {
+      "url": "https://x.com/Kubai087/status/2123579578098536608",
+      "author": "Kubai087",
+      "published_at": "2026-11-20T00:50:00+00:00",
+      "verification": "official X HTML parsed using /tmp/qiuge-nov16/fetch.py",
+      "media": [
+        {
+          "type": "video",
+          "media_id": "2123463986377326592",
+          "duration_ms": 17066,
+          "dimensions": {
+            "height": 2880,
+            "width": 2160
+          },
+          "mp4_variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/pl/s3aA_1WR_xahjT1I.m3u8?tag=29&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/320x426/82oaSpoddeScWzy6.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/480x640/JyRRsgOLGIe5xEEr.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/720x960/WfYSIo5TFcEs-jW8.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/1080x1440/2ZyY12OnhJ72iEM3.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123463986377326592/vid/avc1/2160x2880/PC2s9wP4Oxg3whz1.mp4?tag=29"
+            }
+          ]
+        }
+      ]
+    },
+    "2123640171841368384": {
+      "url": "https://x.com/Kubai087/status/2123640171841368384",
+      "author": "Kubai087",
+      "published_at": "2026-11-20T04:50:46+00:00",
+      "verification": "official X HTML parsed using /tmp/qiuge-nov16/fetch.py",
+      "media": [
+        {
+          "type": "video",
+          "media_id": "2123639893767462913",
+          "duration_ms": 19771,
+          "dimensions": {
+            "height": 2160,
+            "width": 3964
+          },
+          "mp4_variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/pl/D5XgvX8wQiHBIRfN.m3u8?tag=29"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/vid/avc1/494x270/XoHEPXoggGfT1fG0.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/vid/avc1/660x360/RZujJBiJkPaDKTBk.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/vid/avc1/1320x720/QYARuaf3OtmJx77t.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/vid/avc1/1982x1080/ivOud1A-vefgJ-So.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2123639893767462913/vid/avc1/3964x2160/MtrTFSvP4yoCvSkJ.mp4?tag=29"
+            }
+          ]
+        }
+      ]
+    },
+    "2123671794657931389": {
+      "url": "https://x.com/Kubai087/status/2123671794657931389",
+      "author": "Kubai087",
+      "published_at": "2026-11-20T06:56:26+00:00",
+      "verification": "official X HTML parsed using /tmp/qiuge-nov16/fetch.py",
+      "media": []
+    }
+  },
+  "frames": [
+    {
+      "file": "cases/kubai-999-021-ring-cards/01-inside-gradient.png",
+      "time_seconds": 0,
+      "source_video": "2123579578098536608.mp4",
+      "crop": "crop=1080:1350:0:0",
+      "sha256": "f326fabb2d7eabd574db2da87af67b9e267c83b2a8b280d5e45632e9d595bb5d",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-021-ring-cards/02-curvature-transition.png",
+      "time_seconds": 6,
+      "source_video": "2123579578098536608.mp4",
+      "crop": "crop=1080:1350:0:0",
+      "sha256": "a8b5c9e600141f01c7e5f9f88ac6cac8db80e3171b1b79e96e75a9c8a0ee5f48",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-021-ring-cards/03-outside-depth.png",
+      "time_seconds": 8,
+      "source_video": "2123579578098536608.mp4",
+      "crop": "crop=1080:1350:0:0",
+      "sha256": "83a88944335aa1dd5958d77c5a0e8cfe5692e08673f10c2f7fa98d18d6f3c32c",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-021-ring-cards/04-return-inside.png",
+      "time_seconds": 16,
+      "source_video": "2123579578098536608.mp4",
+      "crop": "crop=1080:1350:0:0",
+      "sha256": "b8798f06f049d8582e7f4c4b903160de2dc8de48642d4a5775b66009d2fc092f",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-021-ring-cards/05-playground-perspective.png",
+      "time_seconds": 4,
+      "source_video": "2123640171841368384.mp4",
+      "crop": "crop=782:1034:16:24",
+      "sha256": "391c6642735a6872a475d8b01dfddb8c7f3fe084d774a1ca54b0b0623ed6708e",
+      "inspected": true
+    },
+    {
+      "file": "cases/kubai-999-021-ring-cards/06-playground-corner.png",
+      "time_seconds": 12,
+      "source_video": "2123640171841368384.mp4",
+      "crop": "crop=782:1034:16:24",
+      "sha256": "38a418f58aeeac2f4938faa87cf1eb2deeea9c08b149e6c70af3df7c90f6f3dd",
+      "inspected": true
+    }
+  ],
+  "runtime_verification": "NOT_RUN; reviewed official recordings only",
+  "full_prompt_retained": false,
+  "raw_video_retained": false,
+  "canonical_mappings": {
+    "2123671794657931389": "2123579578098536608"
+  },
+  "syndication_fallback": {
+    "request": "https://cdn.syndication.twimg.com/tweet-result?id=2123671794657931389&lang=en&token=0",
+    "returned_id": "2123579578098536608",
+    "returned_author": "Kubai087",
+    "returned_published_at": "2026-11-20T00:50:00.000Z",
+    "attempts": 2,
+    "first_outcome": "503",
+    "second_outcome": "200"
+  },
+  "missing": [
+    "prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補",
+    "互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好",
+    "文章頁：兩次公開請求回應 503；篇號與回鏈由首頁當前官方模組及 X 原帖確認"
+  ]
+}

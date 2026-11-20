@@ -6,17 +6,17 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-19T17:03:57.173818+00:00",
+  "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
   "coverage": {
-    "archive_files": 111,
-    "distinct_archive_status_ids": 886,
-    "design_candidates": 251,
+    "archive_files": 112,
+    "distinct_archive_status_ids": 890,
+    "design_candidates": 254,
     "decision_counts": {
-      "collected_or_merged": 153,
+      "collected_or_merged": 154,
       "not_selected": 85,
-      "pending_verification": 13
+      "pending_verification": 15
     },
-    "cards_referenced": 132,
+    "cards_referenced": 133,
     "full_archive_screening_complete": true,
     "primary_verification_complete": false,
     "limitation": "彙總摘要僅作發現線索；初篩無具體產品介面設計內容的帖子不逐條公開其收藏紀錄。原文或素材未取得者保留缺漏，不代表沒有價值。歷史彙總不等同完整 X 點讚或收藏匯出。"
@@ -465,6 +465,10 @@
     {
       "filename": "X-2026-11-19.md",
       "sha256": "390b4a238b8aaae72b8bdbcd1b4984907f58d296320501af002afab0b32eb1dd"
+    },
+    {
+      "filename": "X-2026-11-20.md",
+      "sha256": "0c9d2ffe949bd9cf574fbd1f7ee66245cf5f7abb67b13ed30b9add781ef8cc98"
     }
   ],
   "processed_posts": {
@@ -1306,12 +1310,12 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:02.542941+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2067039941960327204&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
@@ -1945,12 +1949,12 @@
         "官方 syndication TweetTombstone：This Post is from a suspended account."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:02.543492+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088093704376762378&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "This Post is from a suspended account. Learn more"
       }
     },
@@ -2174,12 +2178,12 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:02.543634+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2103327328420217240&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
@@ -2515,12 +2519,12 @@
         "primary_article_text"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:02.543767+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2055980925452968351&lang=en&token=0",
         "attempts": 1,
-        "result_type": "Tweet",
-        "text_complete": false
+        "text_complete": false,
+        "result_type": "Tweet"
       }
     },
     "2097254145271222630": {
@@ -3034,13 +3038,13 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:06.224806+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566304777048130&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
-        "notice": "This Post was deleted by the Post author. Learn more"
+        "result_type": "request_error",
+        "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
       }
     },
     "2088566363107242092": {
@@ -3061,12 +3065,12 @@
         "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:06.580821+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566363107242092&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
@@ -3730,12 +3734,12 @@
         "官方 syndication TweetTombstone：account owner limits who can view their Posts."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:07.109899+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2089329138406760639&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
     },
@@ -3882,12 +3886,12 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:08.100745+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106394380299022620&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
     },
@@ -3911,13 +3915,13 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:09.733926+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106255245861167371&lang=en&token=0",
         "attempts": 1,
-        "result_type": "request_error",
         "text_complete": false,
-        "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+        "result_type": "TweetTombstone",
+        "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
     },
     "2116198373040759107": {
@@ -3961,12 +3965,12 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:11.390073+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115516478254624914&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
     },
@@ -4008,13 +4012,13 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:13.631506+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2114624187449127136&lang=en&token=0",
         "attempts": 1,
-        "result_type": "request_error",
         "text_complete": false,
-        "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+        "result_type": "TweetTombstone",
+        "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
     },
     "2113244957305933920": {
@@ -4124,13 +4128,13 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:14.308034+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115667965328977920&lang=en&token=0",
         "attempts": 1,
-        "result_type": "request_error",
         "text_complete": false,
-        "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+        "result_type": "TweetTombstone",
+        "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
     "2115469767650021796": {
@@ -4352,12 +4356,12 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+        "checked_at_utc": "2026-11-20T17:01:14.346808+00:00",
         "method": "official_syndication",
         "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2117442507306901741&lang=en&token=0",
         "attempts": 1,
-        "result_type": "TweetTombstone",
         "text_complete": false,
+        "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
@@ -4971,6 +4975,66 @@
         "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
       ],
       "published_at": "2026-11-18T05:00:18+00:00"
+    },
+    "2123287630582563293": {
+      "url": "https://x.com/fishjar/status/2123287630582563293",
+      "archive_files": [
+        "X-2026-11-20.md"
+      ],
+      "saved_via": [
+        "點讚",
+        "收藏"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "published_at": "2026-11-19T05:29:54.564000+00:00",
+      "verification": "official_syndication_partial_text",
+      "missing": [
+        "primary_text: X 原頁 SSR 請求 503；官方 syndication 正文截斷於「普通的 app 模擬器（如」，未取得完整原文。",
+        "primary_article_text: 未取得貼文連結的 Meta 官方文章全文。",
+        "primary_media: 未取得足以判斷具體設計的完整原帖素材，不能因摘要偏工程而排除。"
+      ],
+      "note": "來源／素材不完整，暫不作收錄或排除判斷。",
+      "checked_at_utc": "2026-11-20T17:05:10.074550+00:00"
+    },
+    "2123625468729413925": {
+      "url": "https://x.com/lxfater/status/2123625468729413925",
+      "archive_files": [
+        "X-2026-11-20.md"
+      ],
+      "saved_via": [
+        "點讚",
+        "收藏"
+      ],
+      "decision": "pending_verification",
+      "cards": [],
+      "published_at": "2026-11-20T03:52:21.455000+00:00",
+      "verification": "official_public_post_and_one_inspected_photo",
+      "missing": [
+        "primary_media: 第一張官方圖片 HXiiG-kWoAAO6In.jpg 下載 503，未能檢視；不能因第二張為使用者回饋而排除第一張可能包含的介面。"
+      ],
+      "note": "來源／素材不完整，暫不作收錄或排除判斷。",
+      "checked_at_utc": "2026-11-20T17:05:10.074550+00:00"
+    },
+    "2123266417671958600": {
+      "url": "https://x.com/Kubai087/status/2123266417671958600",
+      "archive_files": [
+        "X-2026-11-20.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "decision": "collected_or_merged",
+      "cards": [
+        "kubai-layered-design-system"
+      ],
+      "published_at": "2026-11-19T04:05:37+00:00",
+      "verification": "official_full_primary_text",
+      "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
+      "missing": [
+        "images: 原帖為文字方法，沒有附帶介面圖片或影片",
+        "validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證"
+      ]
     }
   },
   "pending_source_ids": [
@@ -4986,7 +5050,9 @@
     "2115516478254624914",
     "2114624187449127136",
     "2115667965328977920",
-    "2117442507306901741"
+    "2117442507306901741",
+    "2123287630582563293",
+    "2123625468729413925"
   ],
   "open_card_gaps": {
     "21st-component-discovery-preview-prompt": [
@@ -5103,6 +5169,10 @@
     "kubai-icon-asset-release": [
       "assets: 未收錄工程檔、領取結果與使用授權"
     ],
+    "kubai-layered-design-system": [
+      "images: 原帖為文字方法，沒有附帶介面圖片或影片",
+      "validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證"
+    ],
     "kubai-magazine-design-notes": [
       "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
       "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
@@ -5215,12 +5285,12 @@
     "本次不提交、不推送；Kubai 交主線處理。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-19T17:01:09.361957+00:00",
+    "checked_at_utc": "2026-11-20T17:02:58.391616+00:00",
     "requested": 13,
     "result_types": {
-      "TweetTombstone": 9,
+      "TweetTombstone": 11,
       "Tweet": 1,
-      "request_error": 3
+      "request_error": 1
     },
     "resolved": 0,
     "max_attempts_per_id": 1
@@ -5256,6 +5326,19 @@
         "2122917792903209141"
       ],
       "basis": "三則非 Kubai 設計線索核對官方來源；另外三則研究／生活／程式維護無具體介面線索。兩則 Kubai 交主線。"
+    },
+    {
+      "filename": "X-2026-11-20.md",
+      "posts_screened": 4,
+      "non_kubai_posts_screened": 3,
+      "design_candidates": 2,
+      "cards_created": 0,
+      "cards_merged": 0,
+      "kubai_deferred_to_main": [
+        "2123266417671958600"
+      ],
+      "basis": "fishjar 原文截斷／文章未取得、lxfater 第一張圖 503，兩則保留待核對；HackGHT 完整原帖僅為源碼預告，排除；Kubai 交主線。",
+      "pending_verification": 2
     }
   ]
 }

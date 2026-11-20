@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **99 張卡片**：999 系列 19 張，其他設計參考 80 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **107 張卡片**：999 系列 21 張，其他設計參考 86 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-19（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-20（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -23,7 +23,7 @@
 
 ## 999 小技巧系列
 
-已確認篇號為 001–019。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
+已確認篇號為 001–021。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -46,11 +46,19 @@
 | 018 | [Kubai 018：隨光點傾斜、帶厚度翻面的全息卡片](../cases/kubai-999-018-holographic-card/case.md) | [X](https://x.com/Kubai087/status/2121892029403922717) |
 | 013 | [具有折射與色散的衝擊波](../cases/kubai-999-unnumbered-shockwave/case.md) | [X](https://x.com/Kubai087/status/2119359092334743735) |
 | 019 | [捲動驅動的五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | [X](https://x.com/Kubai087/status/2122492414598459820) |
+| 020 | [枯白 020：依生效時機、值與動作選擇控制項](../cases/kubai-999-020-choice-controls/case.md) | [來源](https://x.com/Kubai087/status/2123217190052827633) |
+| 021 | [枯白 021：環內流體漸層與環外景深卡片切換](../cases/kubai-999-021-ring-cards/case.md) | [來源](https://x.com/Kubai087/status/2123579578098536608) |
 
 ## 其他設計卡片
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | forms, feedback, ai-chat |
+| [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | search, data-display, ai-chat, content-editing |
+| [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | visual, content-editing |
+| [IconSwapper：以大、小雙預覽編輯帶狀態的 Dock 圖示](../cases/iconswapper-live-dock-preview/case.md) | content-editing, data-display, visual |
+| [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | data-display, navigation, visual |
+| [Design Engineer Notes：文章內逐步比較與手寫批註](../cases/ian-design-notes-reading-illustrations/case.md) | data-display, content-editing |
 | [儀表盤卡片：總覽、時間篩選與單卡下鑽](../cases/kubai-dashboard-metric-drilldown/case.md) | data-display, navigation, feedback |
 | [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | content-editing, data-display, feedback |
 | [互動表格示範：在同一訂單頁比較篩選與批次操作](../cases/ian-interactive-table-demo/case.md) | data-display, search, feedback |
@@ -141,21 +149,26 @@
 
 ## 素材與待補
 
-目前已保存 505 張圖片／關鍵幀、58 段歷史影片；本次只新增圖片，不保存原始影片。
+目前保存 537 張圖片／關鍵幀、58 段歷史影片；本次新增32張圖片，不新增原始影片。
 
-| 卡片 | 待補內容 |
+| 卡片 | 缺漏 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
 | [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線；implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數 |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
+| [Design Engineer Notes：文章內逐步比較與手寫批註](../cases/ian-design-notes-reading-illustrations/case.md) | execution: 僅檢視作者公開錄影與宣傳圖片，未登入課程或操作配圖；未驗證動效的捲動觸發條件 |
+| [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | site: 原帖沒有工具網址，未驗證公開可用性及與 denotes.dev 的部署關係；未操作複製功能 |
 | [互動表格示範：在同一訂單頁比較篩選與批次操作](../cases/ian-interactive-table-demo/case.md) | 互動驗證：未取得可執行 Demo；規範與文章的具體來源未在原帖交代 |
 | [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | 互動驗證：未取得可執行原型，僅核對原帖與示範影片 |
+| [IconSwapper：以大、小雙預覽編輯帶狀態的 Dock 圖示](../cases/iconswapper-live-dock-preview/case.md) | execution: 僅檢視官方示範影片，未安裝或驗證帳號資料同步；官網本次回應 403 |
 | [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | images: 影片含個人筆記與對話，已檢視但不保存畫面；verification: 短片不能驗證未回覆時停止推送的實際行為 |
 | [ASCII 與 Dither：只調圖像質感，保留登入內容](../cases/kubai-999-003-dither-ascii/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [枯白 019：讓捲動進度驅動五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能；product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品 |
+| [枯白 020：依生效時機、值與動作選擇控制項](../cases/kubai-999-020-choice-controls/case.md) | 實測：僅核對官方文章與示範影片，未測試真實儲存、通知權限或鍵盤操作 |
+| [枯白 021：環內流體漸層與環外景深卡片切換](../cases/kubai-999-021-ring-cards/case.md) | prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補；互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好；文章頁：兩次公開請求回應 503；篇號與回鏈由首頁當前官方模組及 X 原帖確認 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
 | [對話分支與可編輯筆觸：操作後保留原有結構](../cases/kubai-canvas-vector-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結 |
@@ -167,6 +180,7 @@
 | [懸停快捷鍵教學：先留回想空間，再顯示提示](../cases/kubai-hover-shortcut-teaching/case.md) | attribution: 影片介面原作者與產品名稱未附於來源封包 |
 | [生成式介面等待過渡：把輸入框粒子揉成光團再展開為結果卡片](../cases/kubai-ian-prompt-to-card-morph/case.md) | attribution: 原帖僅致謝 @dominikmartn，未附原始靈感貼文連結 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
+| [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | images: 原帖為文字方法，沒有附帶介面圖片或影片；validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證 |
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
 | [Orbit Clocks 的時鐘屏保與風格選擇](../cases/kubai-macos-lockscreen/case.md) | images: dingyi 發布原帖的附圖未包含於本批 metadata |
@@ -178,7 +192,9 @@
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
 | [Medalsmith 首次使用引導：徽章展示、日曆與跨裝置](../cases/medalsmith-onboarding/case.md) | observation: 未觀察「開始使用」後的主介面；未核實徽章運動與手勢、裝置姿態之間的因果關係；availability: 上架及平台來自作者聲明，未獨立核實商店頁面；iCloud 與 MCP 僅觀察到介紹文案，未實測 |
 | [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
+| [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | verification: 僅觀察作者示範與公開首頁，未實際提交搜尋、生成或驗收 MCP；mapping: Kubai RT 缺少直接 retweet-target 欄位，原帖對應由作者、正文前綴與同頁原帖交叉支持 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
+| [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | images: 原影片含個人會話、筆記與長 Prompt，不保存原片或畫面；僅保留文字觀察。；verification: 僅檢視官方文字與影片下緣三個時間點的裁切抽樣；未驗證 Fn 實際觸發、停止方式、文字回填、辨識準確率或詞庫學習。 |
 
 ## 查找方式
 
@@ -229,3 +245,10 @@ rg -n -F '2119359092334743735' cases sources
 本來源新增4張：AI Studio局部折射圖示、儀表盤的週期篩選與單卡下鑽、多方案原型分層切換及互動表格；補充3張既有卡片（圖標、017來源及教程站）。圖標更新與教程站發布合併既有卡片。017 作者直接Prompt回覆的官方完整長文已取得，解除歷史缺漏，僅保存來源與摘要。
 
 首頁為近期樣本，第三方索引總數199；官方既有模組仍列001–019，但官網首頁403，未將搜尋不到020當成沒有更新。完整帳戶歷史仍未遍歷，不推進全局覆蓋邊界。實體機器人外觀、互關與帳號更名不另收錄。
+
+
+## 2026-11-20 增量與歷史回補
+
+補查020與021系列，另收錄設計系統分層與新的實際介面示範；雙色圖標預告合併現有工作流。卡片區分作者主張、影片觀察與推論，不把參數滑塊、Skill預告或靜態圖當作實際運行已驗證。
+
+首頁首次503後重試恢復，仍僅為近期樣本。索引觀察到總數221，未將其當作完整帳戶匯出。Docker原帖與嵌入資料讀取失敗，保留待查；003無官方Tweet payload、006為503，保留原有全文缺漏，不推進完整歷史覆蓋邊界。
