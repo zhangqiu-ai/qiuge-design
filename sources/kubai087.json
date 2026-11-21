@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
+  "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 107,
-    "series_cards": 21,
-    "other_cards": 86,
+    "case_count": 110,
+    "series_cards": 22,
+    "other_cards": 88,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -59,9 +59,10 @@
       "018",
       "019",
       "020",
-      "021"
+      "021",
+      "022"
     ],
-    "latest_confirmed_number": "021",
+    "latest_confirmed_number": "022",
     "unconfirmed_numbers_within_001_015": [],
     "unnumbered_candidate": {
       "post_id": "2119359092334743735",
@@ -74,7 +75,7 @@
     },
     "note": "999 is the series name, not a claim that 999 posts have been published.",
     "last_check": {
-      "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
       "verified_numbers": [
         "001",
         "002",
@@ -96,13 +97,14 @@
         "018",
         "019",
         "020",
-        "021"
+        "021",
+        "022"
       ],
-      "limitation": "逐期官方來源與素材核對，不代表完整帳戶遍歷。"
+      "limitation": "官方逐期核對，不等同完整帳戶遍歷。"
     }
   },
   "media": {
-    "images": 537,
+    "images": 555,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -2027,10 +2029,11 @@
       "reason": "原作為虛構電影海報插畫，無UI/UX流程。"
     },
     "2123633816657174889": {
-      "verification": "access_failed",
-      "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
-      "decision": "pending_verification",
-      "reason": "Docker品牌動效分享；官方逐帖兩次503、嵌入一次503，未取得原文與媒體，不能依第三方摘要判定。"
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "reason": "已讀官方原帖，為Docker品牌LOGO與MG宣傳影片評論，沒有具體App介面或前端操作流程；解除原文待查，不另建卡。",
+      "published_at": "2026-11-20T04:25:31+00:00"
     },
     "2123318001017708571": {
       "decision": "collected_or_merged",
@@ -2070,11 +2073,9 @@
     },
     "2123582654503366977": {
       "decision": "collected_or_merged",
-      "verification": "official_primary_text_and_inspected_media",
-      "checked_at_utc": "2026-11-20T17:09:33.278774+00:00",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
       "published_at": "2026-11-20T01:02:13Z",
-      "author": "ianneo_ai",
-      "reason": "Ian 選詞索引與兩態比較工具；與既有 KAWAI／motion 詞典不同作者、不同工具。",
       "card": "ian-design-terminology-comparison"
     },
     "2123582954308087941": {
@@ -2135,10 +2136,9 @@
     },
     "2123579578098536608": {
       "decision": "collected_or_merged",
-      "verification": "official_primary_text_and_inspected_media",
-      "checked_at_utc": "2026-11-20T17:09:33.278774+00:00",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
       "published_at": "2026-11-20T00:50:00+00:00",
-      "author": "Kubai087",
       "card": "kubai-999-021-ring-cards"
     },
     "2123640171841368384": {
@@ -2228,15 +2228,74 @@
       "author": "ianneo_ai",
       "reason": "同介面圓角比較與既有連續曲率題目重複，補入原卡。",
       "card": "kubai-999-004-nested-continuous-corners"
+    },
+    "2123916881090445400": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-20T23:10:19+00:00",
+      "card": "figma-obj-import-repeat-transform"
+    },
+    "2124144040014934073": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "relation": "quote_commentary",
+      "original_id": "2123916881090445400",
+      "card": "figma-obj-import-repeat-transform",
+      "published_at": "2026-11-21T14:12:58+00:00"
+    },
+    "2124108673089986975": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T11:52:26+00:00",
+      "card": "vibe-design-early-member-card-export"
+    },
+    "2124108727192347131": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "card": "vibe-design-early-member-card-export",
+      "published_at": "2026-11-21T11:52:39+00:00"
+    },
+    "2124170395825873348": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T15:57:42+00:00",
+      "card": "kubai-999-022-empty-states"
+    },
+    "2124098904027447340": {
+      "decision": "collected_or_merged",
+      "card": "ian-design-terminology-comparison",
+      "verification": "official_post_media_and_public_deployment",
+      "published_at": "2026-11-21T11:13:37Z",
+      "author": "Kubai087",
+      "relation": "quote",
+      "checked_at_utc": "2026-11-21T17:05:20.044433+00:00",
+      "deployment_url": "https://www.topinspo.design/vocabulary",
+      "quoted_original_id": "2124095043644612637"
+    },
+    "2124095043644612637": {
+      "decision": "collected_or_merged",
+      "card": "ian-design-terminology-comparison",
+      "verification": "official_post_media_and_public_deployment",
+      "published_at": "2026-11-21T10:58:16Z",
+      "author": "ianneo_ai",
+      "relation": "original",
+      "checked_at_utc": "2026-11-21T17:05:20.044537+00:00",
+      "deployment_url": "https://www.topinspo.design/vocabulary"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2123810867389288594",
-    "2123799788630253953",
-    "2123750291065712709",
-    "2123689749584196085",
-    "2122917792903209141"
+    "2124170395825873348",
+    "2124144040014934073",
+    "2123916881090445400",
+    "2124108673089986975",
+    "2124098904027447340",
+    "2124095043644612637"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -2494,11 +2553,15 @@
       "product: 教學對照示範，沒有指定產品與正式上線版本證據",
       "interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式"
     ],
+    "figma-obj-import-repeat-transform": [
+      "implementation: 未取得作者自製外掛原始碼或公開下載入口，未實測OBJ／MTL匯入與簡化結果",
+      "verification: 僅觀察公開影片，未驗證圖層結構、重複物件更新與效能"
+    ],
     "ian-design-notes-reading-illustrations": [
       "execution: 僅檢視作者公開錄影與宣傳圖片，未登入課程或操作配圖；未驗證動效的捲動觸發條件"
     ],
     "ian-design-terminology-comparison": [
-      "site: 原帖沒有工具網址，未驗證公開可用性及與 denotes.dev 的部署關係；未操作複製功能"
+      "coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係"
     ],
     "ian-interactive-table-demo": [
       "互動驗證：未取得可執行 Demo；規範與文章的具體來源未在原帖交代"
@@ -2534,8 +2597,11 @@
     ],
     "kubai-999-021-ring-cards": [
       "prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補",
-      "互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好",
-      "文章頁：兩次公開請求回應 503；篇號與回鏈由首頁當前官方模組及 X 原帖確認"
+      "互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好"
+    ],
+    "kubai-999-022-empty-states": [
+      "production: 僅核對作者教學示範，未驗證真實上線產品或成效",
+      "interaction: 未操作可執行示範，無法驗證鍵盤、讀屏、窄版與 reduced-motion 行為"
     ],
     "kubai-ai-icon-refinement": [
       "attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結"
@@ -2621,6 +2687,12 @@
     "ricoui-component-preview-install": [
       "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
     ],
+    "vibe-design-early-member-card-export": [
+      "image-export: 官影片可見 Save image 入口，未驗證產出檔案",
+      "video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案",
+      "gyroscope: 作者聲明與公開程式含裝置方向權限分支，未做手機實機測試",
+      "public-flow: 已讀公開網站與資產；瀏覽器不可用，未實際操作入口或建立個人卡片"
+    ],
     "voiceinput-fn-agent-dictation": [
       "images: 原影片含個人會話、筆記與長 Prompt，不保存原片或畫面；僅保留文字觀察。",
       "verification: 僅檢視官方文字與影片下緣三個時間點的裁切抽樣；未驗證 Fn 實際觸發、停止方式、文字回填、辨識準確率或詞庫學習。"
@@ -2632,17 +2704,13 @@
     "Retain the incomplete full-history status until a complete timeline is actually traversed.",
     "Do not advance a global boundary after source access failures."
   ],
-  "pending_source_checks": {
-    "2123633816657174889": {
-      "reason": "Docker品牌動效分享；官方逐帖兩次503、嵌入一次503，未取得原文與媒體，不能依第三方摘要判定。",
-      "discovered_on": "2026-11-20"
-    }
-  },
+  "pending_source_checks": {},
   "latest_discovery_index_total": 221,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "ai-studio-refractive-app-icon",
     "emil-dropdown-trigger-transform-origin",
+    "figma-obj-import-repeat-transform",
     "ian-design-notes-reading-illustrations",
     "ian-design-terminology-comparison",
     "ian-interactive-table-demo",
@@ -2669,6 +2737,7 @@
     "kubai-999-019-scroll-driven-cards",
     "kubai-999-020-choice-controls",
     "kubai-999-021-ring-cards",
+    "kubai-999-022-empty-states",
     "kubai-999-unnumbered-shockwave",
     "kubai-aave-visual-identity",
     "kubai-agent-ui-review",
@@ -2746,16 +2815,25 @@
     "night-dial-day-night-toggle",
     "noax-peek-search-style-directions",
     "ricoui-component-preview-install",
+    "vibe-design-early-member-card-export",
     "voiceinput-fn-agent-dictation"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
+    "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
     "status": "success_recent_sample_only",
-    "details": "首頁首次503，單次重試成功；官方公開近期樣本與第三方索引線索分開核對，不代表完整時間線。"
+    "details": "官方首頁近期樣本可讀；第三方索引停於11月20日221條，未將索引未更新當作沒有新帖。"
   },
   "historical_text_retry": {
     "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
     "003": "Official SSR returned no Tweet payload; existing fulltext gap retained.",
     "006": "Official SSR proxy503; existing gap retained."
+  },
+  "official_article_prompt_sources": {
+    "022": {
+      "url": "https://vibedesign.tips/022-empty-states/",
+      "verification": "public_official_article_complete_prompt_block",
+      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+      "x_reply_id_verified": false
+    }
   }
 }

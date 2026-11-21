@@ -6,15 +6,15 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
+  "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
   "coverage": {
     "archive_files": 112,
     "distinct_archive_status_ids": 890,
     "design_candidates": 254,
     "decision_counts": {
       "collected_or_merged": 154,
-      "not_selected": 85,
-      "pending_verification": 15
+      "not_selected": 87,
+      "pending_verification": 13
     },
     "cards_referenced": 133,
     "full_archive_screening_complete": true,
@@ -1310,11 +1310,11 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:02.542941+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2067039941960327204&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:44.464368+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2067039941960327204&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
@@ -1949,11 +1949,11 @@
         "官方 syndication TweetTombstone：This Post is from a suspended account."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:02.543492+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088093704376762378&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:44.464986+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088093704376762378&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post is from a suspended account. Learn more"
       }
@@ -2178,11 +2178,11 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:02.543634+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2103327328420217240&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:44.465188+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2103327328420217240&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
@@ -2519,12 +2519,13 @@
         "primary_article_text"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:02.543767+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2055980925452968351&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:46.224733+00:00",
         "attempts": 1,
         "text_complete": false,
-        "result_type": "Tweet"
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2055980925452968351&lang=en&token=0",
+        "result_type": "Tweet",
+        "notice": ""
       }
     },
     "2097254145271222630": {
@@ -3038,13 +3039,13 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:06.224806+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566304777048130&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:47.328791+00:00",
         "attempts": 1,
         "text_complete": false,
-        "result_type": "request_error",
-        "error": "<urlopen error Tunnel connection failed: 503 Service Unavailable>"
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566304777048130&lang=en&token=0",
+        "result_type": "TweetTombstone",
+        "notice": "This Post was deleted by the Post author. Learn more"
       }
     },
     "2088566363107242092": {
@@ -3065,11 +3066,11 @@
         "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:06.580821+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566363107242092&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:47.515141+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2088566363107242092&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
@@ -3734,11 +3735,11 @@
         "官方 syndication TweetTombstone：account owner limits who can view their Posts."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:07.109899+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2089329138406760639&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:48.700159+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2089329138406760639&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
@@ -3886,11 +3887,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:08.100745+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106394380299022620&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:49.290882+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106394380299022620&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
@@ -3915,11 +3916,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:09.733926+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106255245861167371&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:49.704574+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106255245861167371&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
@@ -3965,11 +3966,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:11.390073+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115516478254624914&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:50.708469+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115516478254624914&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
@@ -4012,11 +4013,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:13.631506+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2114624187449127136&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:51.764004+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2114624187449127136&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "You’re unable to view this Post because this account owner limits who can view their Posts. Learn more"
       }
@@ -4128,11 +4129,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:14.308034+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115667965328977920&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:52.355515+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115667965328977920&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
@@ -4356,11 +4357,11 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-20T17:01:14.346808+00:00",
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2117442507306901741&lang=en&token=0",
+        "checked_at_utc": "2026-11-21T16:59:53.055976+00:00",
         "attempts": 1,
         "text_complete": false,
+        "method": "official_syndication",
+        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2117442507306901741&lang=en&token=0",
         "result_type": "TweetTombstone",
         "notice": "This Post was deleted by the Post author. Learn more"
       }
@@ -4985,17 +4986,23 @@
         "點讚",
         "收藏"
       ],
-      "decision": "pending_verification",
+      "decision": "not_selected",
       "cards": [],
       "published_at": "2026-11-19T05:29:54.564000+00:00",
-      "verification": "official_syndication_partial_text",
-      "missing": [
-        "primary_text: X 原頁 SSR 請求 503；官方 syndication 正文截斷於「普通的 app 模擬器（如」，未取得完整原文。",
-        "primary_article_text: 未取得貼文連結的 Meta 官方文章全文。",
-        "primary_media: 未取得足以判斷具體設計的完整原帖素材，不能因摘要偏工程而排除。"
-      ],
-      "note": "來源／素材不完整，暫不作收錄或排除判斷。",
-      "checked_at_utc": "2026-11-20T17:05:10.074550+00:00"
+      "verification": "official_ssr_full_note_and_inspected_media",
+      "missing": [],
+      "note": "已取得官方 SSR NoteTweet 完整原文、Meta 官方文章全文並逐張檢視其封面及三張內圖。內容是 QEMU／Cuttlefish 移植、虛擬化與 CI 統一；封面為 Android 桌面的示意，三張內圖為平台及架構圖。原文提及 Cocoa 顯示與滑鼠轉觸控，但未呈現具體操作狀態或可借鑑介面流程，本次不收錄。",
+      "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
+      "latest_retry": {
+        "checked_at_utc": "2026-11-21T16:59:54.652136+00:00",
+        "attempts": 1,
+        "text_complete": true,
+        "method": "official_ssr",
+        "source_url": "https://x.com/fishjar/status/2123287630582563293",
+        "result_type": "Tweet",
+        "media_inspected": true
+      },
+      "primary_article_url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/"
     },
     "2123625468729413925": {
       "url": "https://x.com/lxfater/status/2123625468729413925",
@@ -5006,15 +5013,22 @@
         "點讚",
         "收藏"
       ],
-      "decision": "pending_verification",
+      "decision": "not_selected",
       "cards": [],
       "published_at": "2026-11-20T03:52:21.455000+00:00",
-      "verification": "official_public_post_and_one_inspected_photo",
-      "missing": [
-        "primary_media: 第一張官方圖片 HXiiG-kWoAAO6In.jpg 下載 503，未能檢視；不能因第二張為使用者回饋而排除第一張可能包含的介面。"
-      ],
-      "note": "來源／素材不完整，暫不作收錄或排除判斷。",
-      "checked_at_utc": "2026-11-20T17:05:10.074550+00:00"
+      "verification": "official_ssr_full_note_and_inspected_media",
+      "missing": [],
+      "note": "已取得官方 SSR NoteTweet 完整原文並檢視兩張官方附圖：第一張是 GitHub 專案宣傳摘要，第二張是 Reddit 回饋。正文介紹提審掃描及要求人工確認不可見項目，未附實際報告／確認介面的布局或狀態；不是具體介面設計案例，本次不收錄。未將回饋中的一次過審當作已驗證成效。",
+      "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
+      "latest_retry": {
+        "checked_at_utc": "2026-11-21T16:59:55.889790+00:00",
+        "attempts": 1,
+        "text_complete": true,
+        "method": "official_ssr",
+        "source_url": "https://x.com/lxfater/status/2123625468729413925",
+        "result_type": "Tweet",
+        "media_inspected": true
+      }
     },
     "2123266417671958600": {
       "url": "https://x.com/Kubai087/status/2123266417671958600",
@@ -5050,9 +5064,7 @@
     "2115516478254624914",
     "2114624187449127136",
     "2115667965328977920",
-    "2117442507306901741",
-    "2123287630582563293",
-    "2123625468729413925"
+    "2117442507306901741"
   ],
   "open_card_gaps": {
     "21st-component-discovery-preview-prompt": [
@@ -5285,15 +5297,21 @@
     "本次不提交、不推送；Kubai 交主線處理。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-20T17:02:58.391616+00:00",
-    "requested": 13,
+    "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
+    "requested": 15,
     "result_types": {
-      "TweetTombstone": 11,
-      "Tweet": 1,
-      "request_error": 1
+      "TweetTombstone": 12,
+      "Tweet": 3
     },
-    "resolved": 0,
-    "max_attempts_per_id": 1
+    "resolved": 2,
+    "resolved_not_selected": 2,
+    "remaining_pending": 13,
+    "max_attempts_per_id": 1,
+    "methods": {
+      "official_syndication": 13,
+      "official_ssr": 2
+    },
+    "additional_evidence": "兩則 SSR 完整原文已檢視；Meta 官方文章全文及四張圖、lxfater 兩張圖均取得並檢視。"
   },
   "incremental_screening": [
     {
@@ -5339,6 +5357,19 @@
       ],
       "basis": "fishjar 原文截斷／文章未取得、lxfater 第一張圖 503，兩則保留待核對；HackGHT 完整原帖僅為源碼預告，排除；Kubai 交主線。",
       "pending_verification": 2
+    },
+    {
+      "date": "2026-11-21",
+      "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
+      "archive_files_hashed": 112,
+      "new_files": [],
+      "changed_files": [],
+      "deleted_files": [],
+      "new_status_ids": [],
+      "kubai_deferred_to_main": [],
+      "cards_created": 0,
+      "cards_merged": 0,
+      "basis": "112 份唯讀 SHA-256 與台帳完全一致；無增量帖子。15 則 pending 各一次官方重查，其中兩則補齊原文／關鍵素材後排除，13 則繼續待核對。"
     }
   ]
 }

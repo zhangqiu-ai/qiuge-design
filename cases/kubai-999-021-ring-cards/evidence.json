@@ -180,7 +180,12 @@
   },
   "missing": [
     "prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補",
-    "互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好",
-    "文章頁：兩次公開請求回應 503；篇號與回鏈由首頁當前官方模組及 X 原帖確認"
-  ]
+    "互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好"
+  ],
+  "article_recheck": {
+    "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+    "url": "https://vibedesign.tips/021-ring-cards/",
+    "status": "public_article_text_recovered",
+    "verification": "matching021title,inside860px,outside1500px,160pxglassrim; directXPromptreply remains unverified"
+  }
 }

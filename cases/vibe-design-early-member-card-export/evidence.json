@@ -1,0 +1,80 @@
+{
+  "source_id": "2124108673089986975",
+  "reply_id": "2124108727192347131",
+  "published_at": "2026-11-21T11:52:26Z",
+  "reply_published_at": "2026-11-21T11:52:39Z",
+  "checked_on": "2026-11-21",
+  "slug": "vibe-design-early-member-card-export",
+  "decision": "create_distinct_commemorative_card_export_flow",
+  "dedup": [
+    {
+      "slug": "kubai-999-018-holographic-card",
+      "decision": "distinct_product_and_export_flow"
+    },
+    {
+      "slug": "kubai-magazine-design-notes",
+      "decision": "same_product_distinct_flow_do_not_modify"
+    }
+  ],
+  "frames": [
+    {
+      "file": "01-06s.png",
+      "source_seconds": 6,
+      "sha256": "0e2aa8085bbde9acc70d8b94637f8b0857cf3e0bcc2d50309e46edb1e40624c6",
+      "privacy": "opaque_redaction_and_card_only_crop_visually_verified"
+    },
+    {
+      "file": "02-09s.png",
+      "source_seconds": 9,
+      "sha256": "267923f0ed64ab4ea55eb5111aeaedcb9a8df0f005ffa4279a8419ff10394dc7",
+      "privacy": "opaque_redaction_and_card_only_crop_visually_verified"
+    },
+    {
+      "file": "03-16s.png",
+      "source_seconds": 16,
+      "sha256": "035cb735a291a00246b37d4245ae730f595235aaf72318665de7f6bf5132d6cb",
+      "privacy": "opaque_redaction_and_card_only_crop_visually_verified"
+    },
+    {
+      "file": "04-21s.png",
+      "source_seconds": 21,
+      "sha256": "32519339ba8dd0c25c9f525c682122dbb8b3a941e80013e0fd0e89a5cde131fe",
+      "privacy": "opaque_redaction_and_card_only_crop_visually_verified"
+    }
+  ],
+  "missing": [
+    "image-export: 官影片可見 Save image 入口，未驗證產出檔案",
+    "video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案",
+    "gyroscope: 作者聲明與公開程式含裝置方向權限分支，未做手機實機測試",
+    "public-flow: 已讀公開網站與資產；瀏覽器不可用，未實際操作入口或建立個人卡片"
+  ],
+  "observed": "official_video_preview_flip_progress_46_percent_and_video_saved_ui",
+  "not_verified": [
+    "downloaded_image",
+    "downloaded_video",
+    "gyroscope_real_device",
+    "personal_card_creation"
+  ],
+  "sources_modified": false,
+  "git_used": false,
+  "privacy_fix": {
+    "review_source": "/tmp/nov21-review-followup.json",
+    "issues_addressed": [
+      "P1 memorial identifiers",
+      "P2 first two captions mismatch"
+    ],
+    "status": "fixed_and_final_four_saved_assets_visually_inspected",
+    "replacement": "01-00s directory removed; 01-06s card front and 02-09s actual back retained",
+    "redacted": [
+      "cardholder_name",
+      "individual_member_number",
+      "row_and_seat",
+      "highlighted_grid_position"
+    ],
+    "retained_shared_text": "999 is the shared cohort size, not an individual member number",
+    "source_video_redownloads": 1,
+    "raw_video_deleted": true,
+    "caption_file_alignment_verified": true,
+    "independent_rereview": "not_yet_run"
+  }
+}

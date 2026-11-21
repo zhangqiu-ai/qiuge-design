@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **107 張卡片**：999 系列 21 張，其他設計參考 86 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **110 張卡片**：999 系列 22 張，其他設計參考 88 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-20（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-21（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -23,7 +23,7 @@
 
 ## 999 小技巧系列
 
-已確認篇號為 001–021。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
+已確認篇號為 001–022。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -48,11 +48,14 @@
 | 019 | [捲動驅動的五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | [X](https://x.com/Kubai087/status/2122492414598459820) |
 | 020 | [枯白 020：依生效時機、值與動作選擇控制項](../cases/kubai-999-020-choice-controls/case.md) | [來源](https://x.com/Kubai087/status/2123217190052827633) |
 | 021 | [枯白 021：環內流體漸層與環外景深卡片切換](../cases/kubai-999-021-ring-cards/case.md) | [來源](https://x.com/Kubai087/status/2123579578098536608) |
+| 022 | [Kubai 022：依語意與空間選擇空狀態](../cases/kubai-999-022-empty-states/case.md) | [X](https://x.com/Kubai087/status/2124170395825873348) |
 
 ## 其他設計卡片
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | content-editing, feedback, visual |
+| [Figma 的 OBJ 匯入示範：先調來源物件，再重複排列與轉動整組](../cases/figma-obj-import-repeat-transform/case.md) | content-editing, visual, feedback |
 | [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | forms, feedback, ai-chat |
 | [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | search, data-display, ai-chat, content-editing |
 | [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | visual, content-editing |
@@ -149,15 +152,16 @@
 
 ## 素材與待補
 
-目前保存 537 張圖片／關鍵幀、58 段歷史影片；本次新增32張圖片，不新增原始影片。
+目前保存 555 張圖片／關鍵幀、58 段歷史影片；本次只保存圖片，不新增原始影片。
 
 | 卡片 | 缺漏 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
 | [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線；implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數 |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
+| [Figma 的 OBJ 匯入示範：先調來源物件，再重複排列與轉動整組](../cases/figma-obj-import-repeat-transform/case.md) | implementation: 未取得作者自製外掛原始碼或公開下載入口，未實測OBJ／MTL匯入與簡化結果；verification: 僅觀察公開影片，未驗證圖層結構、重複物件更新與效能 |
 | [Design Engineer Notes：文章內逐步比較與手寫批註](../cases/ian-design-notes-reading-illustrations/case.md) | execution: 僅檢視作者公開錄影與宣傳圖片，未登入課程或操作配圖；未驗證動效的捲動觸發條件 |
-| [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | site: 原帖沒有工具網址，未驗證公開可用性及與 denotes.dev 的部署關係；未操作複製功能 |
+| [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係 |
 | [互動表格示範：在同一訂單頁比較篩選與批次操作](../cases/ian-interactive-table-demo/case.md) | 互動驗證：未取得可執行 Demo；規範與文章的具體來源未在原帖交代 |
 | [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | 互動驗證：未取得可執行原型，僅核對原帖與示範影片 |
 | [IconSwapper：以大、小雙預覽編輯帶狀態的 Dock 圖示](../cases/iconswapper-live-dock-preview/case.md) | execution: 僅檢視官方示範影片，未安裝或驗證帳號資料同步；官網本次回應 403 |
@@ -168,7 +172,8 @@
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [枯白 019：讓捲動進度驅動五種卡片互動](../cases/kubai-999-019-scroll-driven-cards/case.md) | runtime: 僅核對官方文字與示範影片，未操作實際捲動、回捲、手機版或 Reduce motion；未測效能；product: 作者教學示範，未確認畫面中的 lowlight.fm 為已上線產品 |
 | [枯白 020：依生效時機、值與動作選擇控制項](../cases/kubai-999-020-choice-controls/case.md) | 實測：僅核對官方文章與示範影片，未測試真實儲存、通知權限或鍵盤操作 |
-| [枯白 021：環內流體漸層與環外景深卡片切換](../cases/kubai-999-021-ring-cards/case.md) | prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補；互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好；文章頁：兩次公開請求回應 503；篇號與回鏈由首頁當前官方模組及 X 原帖確認 |
+| [枯白 021：環內流體漸層與環外景深卡片切換](../cases/kubai-999-021-ring-cards/case.md) | prompt: 原帖提及附帶 Prompt，但本次未取得作者直接回覆；保留待補；互動實測：僅檢視官方影片，未操作 Playground 或驗證行動端效能、鍵盤及減少動態偏好 |
+| [Kubai 022：依語意與空間選擇空狀態](../cases/kubai-999-022-empty-states/case.md) | production: 僅核對作者教學示範，未驗證真實上線產品或成效；interaction: 未操作可執行示範，無法驗證鍵盤、讀屏、窄版與 reduced-motion 行為 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
 | [對話分支與可編輯筆觸：操作後保留原有結構](../cases/kubai-canvas-vector-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結 |
@@ -194,6 +199,7 @@
 | [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
 | [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | verification: 僅觀察作者示範與公開首頁，未實際提交搜尋、生成或驗收 MCP；mapping: Kubai RT 缺少直接 retweet-target 欄位，原帖對應由作者、正文前綴與同頁原帖交叉支持 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
+| [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | image-export: 官影片可見 Save image 入口，未驗證產出檔案；video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案；gyroscope: 作者聲明與公開程式含裝置方向權限分支，未做手機實機測試；public-flow: 已讀公開網站與資產；瀏覽器不可用，未實際操作入口或建立個人卡片 |
 | [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | images: 原影片含個人會話、筆記與長 Prompt，不保存原片或畫面；僅保留文字觀察。；verification: 僅檢視官方文字與影片下緣三個時間點的裁切抽樣；未驗證 Fn 實際觸發、停止方式、文字回填、辨識準確率或詞庫學習。 |
 
 ## 查找方式
@@ -252,3 +258,10 @@ rg -n -F '2119359092334743735' cases sources
 補查020與021系列，另收錄設計系統分層與新的實際介面示範；雙色圖標預告合併現有工作流。卡片區分作者主張、影片觀察與推論，不把參數滑塊、Skill預告或靜態圖當作實際運行已驗證。
 
 首頁首次503後重試恢復，仍僅為近期樣本。索引觀察到總數221，未將其當作完整帳戶匯出。Docker原帖與嵌入資料讀取失敗，保留待查；003無官方Tweet payload、006為503，保留原有全文缺漏，不推進完整歷史覆蓋邊界。
+
+
+## 2026-11-21 增量與歷史回補
+
+新增022空狀態：依語意與空間選線框、雙色圖標或迷你版；新增會員卡翻面及影片匯出流程、Figma OBJ匯入／重複排列／變換流程。詞彙工具的新部署沿用原卡，021官網文章已恢復可讀，解除文章缺漏；X直接Prompt回覆仍待補。Docker原帖已讀，純品牌宣傳不另收錄。
+
+收藏來源112份檔案未變；15則待查中的兩則補齊證據後排除，剩13則。官方首頁仍僅近期樣本，第三方索引未更新不代表X沒有新分享；完整歷史覆蓋邊界維持未完成。排程設定另核對為Asia/Shanghai每日09:00，未改動。
