@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+  "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 110,
+    "case_count": 111,
     "series_cards": 22,
-    "other_cards": 88,
+    "other_cards": 89,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -75,36 +75,38 @@
     },
     "note": "999 is the series name, not a claim that 999 posts have been published.",
     "last_check": {
-      "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
-      "verified_numbers": [
-        "001",
-        "002",
-        "003",
-        "004",
-        "005",
-        "006",
-        "007",
-        "008",
-        "009",
-        "010",
-        "011",
-        "012",
-        "013",
-        "014",
-        "015",
-        "016",
-        "017",
-        "018",
-        "019",
-        "020",
-        "021",
-        "022"
-      ],
-      "limitation": "官方逐期核對，不等同完整帳戶遍歷。"
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "official_mapping_url": "https://vibedesign.tips/_app/main-CQTjdGAg.js",
+      "maximum_explicit_issue": "022",
+      "mapping": {
+        "001": "2114378773655326873",
+        "002": "2114729985143677258",
+        "003": "2115091203465290087",
+        "004": "2115469767650021796",
+        "005": "2115823717024735708",
+        "006": "2116198373040759107",
+        "007": "2116555064227811412",
+        "008": "2116911391437443471",
+        "009": "2117314098165862612",
+        "010": "2117782193108082923",
+        "011": "2118143759984803898",
+        "012": "2118508433704169726",
+        "013": "2119359092334743735",
+        "014": "2119831380276523207",
+        "015": "2120320609255043510",
+        "016": "2120682993563922586",
+        "017": "2121449185014845794",
+        "018": "2121892029403922717",
+        "019": "2122492414598459820",
+        "020": "2123217190052827633",
+        "021": "2123579578098536608",
+        "022": "2124170395825873348"
+      },
+      "limitation": "官網當前索引明列001–022；不是完整X帳戶匯出，未將未見023當作未發布的證據。"
     }
   },
   "media": {
-    "images": 555,
+    "images": 566,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -2286,16 +2288,111 @@
       "relation": "original",
       "checked_at_utc": "2026-11-21T17:05:20.044537+00:00",
       "deployment_url": "https://www.topinspo.design/vocabulary"
+    },
+    "2124543045861548469": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "官方首頁文字為貓咪日常，沒有具體產品介面設計。",
+      "published_at": "2026-11-22T16:38:28+00:00"
+    },
+    "2124500898420592921": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "設計教學的授人以漁理念，未提供具體介面、流程或可操作設計方法。",
+      "published_at": "2026-11-22T13:51:00+00:00"
+    },
+    "2124440619120759238": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "正式版原帖與公開網站／示範影片，新增Skills取用及Saved狀態；未驗證登入下載結果。",
+      "published_at": "2026-11-22T09:51:28+00:00",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2124476440804831686": {
+      "decision": "not_selected",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "已檢視X創作者收益資格附圖，屬帳號進展，不是教程站產品流程；未推定與發布帖的引用關係。",
+      "published_at": "2026-11-22T12:13:49+00:00"
+    },
+    "2124467225503645764": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "核對作者與引用、公開比較表導言及11列，未宣稱全部74列／23作品已驗證。",
+      "published_at": "2026-11-22T11:37:11+00:00",
+      "card": "studio-vibe-design-comparison-workflow",
+      "quoted_original_id": "2124466296939245649"
+    },
+    "2124466296939245649": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "reason": "核對作者與引用、公開比較表導言及11列，未宣稱全部74列／23作品已驗證。",
+      "published_at": "2026-11-22T11:33:30+00:00",
+      "card": "studio-vibe-design-comparison-workflow"
+    },
+    "2124008455245820268": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T05:14:12+00:00",
+      "author": "Kubai087",
+      "relation": "retweet",
+      "reason": "same author, same vocabulary index and two-state comparison interface",
+      "card": "ian-design-terminology-comparison"
+    },
+    "2124008184063086861": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T05:13:07+00:00",
+      "author": "ianneo_ai",
+      "relation": "retweet",
+      "reason": "same author, same vocabulary index and two-state comparison interface",
+      "card": "ian-design-terminology-comparison"
+    },
+    "2124058518898815373": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T08:33:08+00:00",
+      "author": "Kubai087",
+      "relation": "quote",
+      "reason": "same Kubai Icons duotone family; user adoption screenshot, not independent icon product",
+      "card": "kubai-icons-generation-workflow",
+      "quoted_original_id": "2124057304614195657"
+    },
+    "2124057304614195657": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "published_at": "2026-11-21T08:28:19+00:00",
+      "author": "Chris_lin040818",
+      "relation": "quote",
+      "reason": "same Kubai Icons duotone family; user adoption screenshot, not independent icon product",
+      "card": "kubai-icons-generation-workflow"
+    },
+    "2124057917796274314": {
+      "decision": "collected_or_merged",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "verification": "official_public_primary",
+      "canonical_id": "2124058518898815373",
+      "relation": "edit_alias",
+      "card": "kubai-icons-generation-workflow"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2124170395825873348",
-    "2124144040014934073",
-    "2123916881090445400",
-    "2124108673089986975",
-    "2124098904027447340",
-    "2124095043644612637"
+    "2124543045861548469",
+    "2124500898420592921",
+    "2124440619120759238",
+    "2124476440804831686",
+    "2124467225503645764",
+    "2124466296939245649"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -2507,6 +2604,10 @@
     "2123277807006761021": {
       "original_id": "2122557342097285357",
       "original_author": "Jackywine"
+    },
+    "2124008455245820268": {
+      "original_id": "2124008184063086861",
+      "original_author": "ianneo_ai"
     }
   },
   "author_prompt_replies": {
@@ -2638,6 +2739,9 @@
     "kubai-icon-asset-release": [
       "assets: 未收錄工程檔、領取結果與使用授權"
     ],
+    "kubai-icons-generation-workflow": [
+      "release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收"
+    ],
     "kubai-layered-design-system": [
       "images: 原帖為文字方法，沒有附帶介面圖片或影片",
       "validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證"
@@ -2687,6 +2791,11 @@
     "ricoui-component-preview-install": [
       "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
     ],
+    "studio-vibe-design-comparison-workflow": [
+      "coverage: 僅閱讀導言及 001A–001D、002A–002C、003A–003D 共 11 列，未逐項核對其餘 63 列或 23 個作品",
+      "verification: 僅檢視作者公開文字與三張靜態比較圖，未實測產品、動態時序或上線狀態",
+      "images: 002C 原圖文字呈方塊，不能據此讀出選單項目"
+    ],
     "vibe-design-early-member-card-export": [
       "image-export: 官影片可見 Save image 入口，未驗證產出檔案",
       "video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案",
@@ -2705,7 +2814,7 @@
     "Do not advance a global boundary after source access failures."
   ],
   "pending_source_checks": {},
-  "latest_discovery_index_total": 221,
+  "latest_discovery_index_total": 224,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "ai-studio-refractive-app-icon",
@@ -2815,18 +2924,20 @@
     "night-dial-day-night-toggle",
     "noax-peek-search-style-directions",
     "ricoui-component-preview-install",
+    "studio-vibe-design-comparison-workflow",
     "vibe-design-early-member-card-export",
     "voiceinput-fn-agent-dictation"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-21T17:05:00.185829+00:00",
+    "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
     "status": "success_recent_sample_only",
-    "details": "官方首頁近期樣本可讀；第三方索引停於11月20日221條，未將索引未更新當作沒有新帖。"
+    "details": "官方首頁近期樣本可讀；第三方索引最新標示11月21日224條。分開處理主頁新帖及索引，不代表完整時間線。"
   },
   "historical_text_retry": {
-    "checked_at_utc": "2026-11-20T17:09:00.896613+00:00",
-    "003": "Official SSR returned no Tweet payload; existing fulltext gap retained.",
-    "006": "Official SSR proxy503; existing gap retained."
+    "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+    "003": "官方SSR請求完成，但未返回Tweet payload；原有全文缺漏保留。",
+    "006": "官方SSR請求完成，但未返回Tweet payload；原有全文缺漏保留。",
+    "021": "官方主帖可讀，但沒有直接Prompt回覆資料；保留該缺漏。"
   },
   "official_article_prompt_sources": {
     "022": {

@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **110 張卡片**：999 系列 22 張，其他設計參考 88 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **111 張卡片**：999 系列 22 張，其他設計參考 89 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-21（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-22（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -54,6 +54,7 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Studio 的設計比較工作流：逐項列出改動，也保留不適用的邊界](../cases/studio-vibe-design-comparison-workflow/case.md) | data-display, feedback, navigation, accessibility |
 | [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | content-editing, feedback, visual |
 | [Figma 的 OBJ 匯入示範：先調來源物件，再重複排列與轉動整組](../cases/figma-obj-import-repeat-transform/case.md) | content-editing, visual, feedback |
 | [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | forms, feedback, ai-chat |
@@ -152,7 +153,7 @@
 
 ## 素材與待補
 
-目前保存 555 張圖片／關鍵幀、58 段歷史影片；本次只保存圖片，不新增原始影片。
+目前保存 566 張圖片／關鍵幀、58 段歷史影片；本次只新增圖片，沒有新增原始影片。
 
 | 卡片 | 缺漏 |
 | --- | --- |
@@ -185,6 +186,7 @@
 | [懸停快捷鍵教學：先留回想空間，再顯示提示](../cases/kubai-hover-shortcut-teaching/case.md) | attribution: 影片介面原作者與產品名稱未附於來源封包 |
 | [生成式介面等待過渡：把輸入框粒子揉成光團再展開為結果卡片](../cases/kubai-ian-prompt-to-card-morph/case.md) | attribution: 原帖僅致謝 @dominikmartn，未附原始靈感貼文連結 |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
+| [Kubai Icons 的圖標庫與風格一致生成工作流](../cases/kubai-icons-generation-workflow/case.md) | release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收 |
 | [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | images: 原帖為文字方法，沒有附帶介面圖片或影片；validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證 |
 | [Linux 宣傳片參考：2.5D、線框與強對比排版](../cases/kubai-linux-motion-vocabulary/case.md) | author: 原帖未列宣傳片製作者或可核對的原始發布連結 |
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
@@ -199,6 +201,7 @@
 | [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
 | [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | verification: 僅觀察作者示範與公開首頁，未實際提交搜尋、生成或驗收 MCP；mapping: Kubai RT 缺少直接 retweet-target 欄位，原帖對應由作者、正文前綴與同頁原帖交叉支持 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
+| [Studio 的設計比較工作流：逐項列出改動，也保留不適用的邊界](../cases/studio-vibe-design-comparison-workflow/case.md) | coverage: 僅閱讀導言及 001A–001D、002A–002C、003A–003D 共 11 列，未逐項核對其餘 63 列或 23 個作品；verification: 僅檢視作者公開文字與三張靜態比較圖，未實測產品、動態時序或上線狀態；images: 002C 原圖文字呈方塊，不能據此讀出選單項目 |
 | [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | image-export: 官影片可見 Save image 入口，未驗證產出檔案；video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案；gyroscope: 作者聲明與公開程式含裝置方向權限分支，未做手機實機測試；public-flow: 已讀公開網站與資產；瀏覽器不可用，未實際操作入口或建立個人卡片 |
 | [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | images: 原影片含個人會話、筆記與長 Prompt，不保存原片或畫面；僅保留文字觀察。；verification: 僅檢視官方文字與影片下緣三個時間點的裁切抽樣；未驗證 Fn 實際觸發、停止方式、文字回填、辨識準確率或詞庫學習。 |
 
@@ -265,3 +268,10 @@ rg -n -F '2119359092334743735' cases sources
 新增022空狀態：依語意與空間選線框、雙色圖標或迷你版；新增會員卡翻面及影片匯出流程、Figma OBJ匯入／重複排列／變換流程。詞彙工具的新部署沿用原卡，021官網文章已恢復可讀，解除文章缺漏；X直接Prompt回覆仍待補。Docker原帖已讀，純品牌宣傳不另收錄。
 
 收藏來源112份檔案未變；15則待查中的兩則補齊證據後排除，剩13則。官方首頁仍僅近期樣本，第三方索引未更新不代表X沒有新分享；完整歷史覆蓋邊界維持未完成。排程設定另核對為Asia/Shanghai每日09:00，未改動。
+
+
+## 2026-11-22 增量與歷史補查
+
+本來源新增1張Studio比較工作流，補充3張既有卡片：教程站正式版的Skills／Saved、視覺層級同內容兩態比較，以及雙色圖標的專案選擇器使用展示。Studio僅核對導言與11列及3張靜態圖，不宣稱全部74項完成驗證。
+
+官網當前官方模組明列001–022，回鏈逐期可追蹤；未把未見023當作未發布。003／006仍無官方Tweet payload，021直接Prompt回覆仍未取得，保留缺漏。貓咪、泛論教學與創作者收益資格不另建卡。完整歷史覆蓋邊界保持未完成。

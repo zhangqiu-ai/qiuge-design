@@ -6,17 +6,17 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
+  "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
   "coverage": {
-    "archive_files": 112,
-    "distinct_archive_status_ids": 890,
-    "design_candidates": 254,
+    "archive_files": 113,
+    "distinct_archive_status_ids": 899,
+    "design_candidates": 263,
     "decision_counts": {
-      "collected_or_merged": 154,
-      "not_selected": 87,
-      "pending_verification": 13
+      "collected_or_merged": 159,
+      "not_selected": 90,
+      "pending_verification": 14
     },
-    "cards_referenced": 133,
+    "cards_referenced": 136,
     "full_archive_screening_complete": true,
     "primary_verification_complete": false,
     "limitation": "彙總摘要僅作發現線索；初篩無具體產品介面設計內容的帖子不逐條公開其收藏紀錄。原文或素材未取得者保留缺漏，不代表沒有價值。歷史彙總不等同完整 X 點讚或收藏匯出。"
@@ -469,6 +469,10 @@
     {
       "filename": "X-2026-11-20.md",
       "sha256": "0c9d2ffe949bd9cf574fbd1f7ee66245cf5f7abb67b13ed30b9add781ef8cc98"
+    },
+    {
+      "filename": "X-2026-11-22.md",
+      "sha256": "932cf6520c188895200b21eb39d255268c0ea7672f56caf8e4f5d7d575e52f39"
     }
   ],
   "processed_posts": {
@@ -1310,7 +1314,7 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:44.464368+00:00",
+        "checked_at_utc": "2026-11-22T17:00:44.139399+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -1949,7 +1953,7 @@
         "官方 syndication TweetTombstone：This Post is from a suspended account."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:44.464986+00:00",
+        "checked_at_utc": "2026-11-22T17:00:44.142876+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -2178,7 +2182,7 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:44.465188+00:00",
+        "checked_at_utc": "2026-11-22T17:00:44.143231+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -2519,7 +2523,7 @@
         "primary_article_text"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:46.224733+00:00",
+        "checked_at_utc": "2026-11-22T17:00:46.938874+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3039,7 +3043,7 @@
         "primary_media"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:47.328791+00:00",
+        "checked_at_utc": "2026-11-22T17:00:47.337107+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3066,7 +3070,7 @@
         "verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:47.515141+00:00",
+        "checked_at_utc": "2026-11-22T17:00:47.670137+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3735,7 +3739,7 @@
         "官方 syndication TweetTombstone：account owner limits who can view their Posts."
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:48.700159+00:00",
+        "checked_at_utc": "2026-11-22T17:00:49.837933+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3887,7 +3891,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:49.290882+00:00",
+        "checked_at_utc": "2026-11-22T17:00:50.415183+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3916,7 +3920,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:49.704574+00:00",
+        "checked_at_utc": "2026-11-22T17:00:50.474197+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -3966,7 +3970,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:50.708469+00:00",
+        "checked_at_utc": "2026-11-22T17:00:53.110488+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -4013,7 +4017,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:51.764004+00:00",
+        "checked_at_utc": "2026-11-22T17:00:53.303211+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -4129,7 +4133,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:52.355515+00:00",
+        "checked_at_utc": "2026-11-22T17:00:53.955669+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -4357,7 +4361,7 @@
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
-        "checked_at_utc": "2026-11-21T16:59:53.055976+00:00",
+        "checked_at_utc": "2026-11-22T17:00:57.992011+00:00",
         "attempts": 1,
         "text_complete": false,
         "method": "official_syndication",
@@ -4621,7 +4625,10 @@
       ],
       "published_at": "2026-11-11T16:16:31+00:00",
       "verification": "official_public_post",
-      "note": "原盤點已有精確來源 ID；未修改卡片。"
+      "note": "原盤點已有精確來源 ID；未修改卡片。",
+      "missing": [
+        "release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收"
+      ]
     },
     "2120394788755341636": {
       "url": "https://x.com/Kubai087/status/2120394788755341636",
@@ -5049,6 +5056,173 @@
         "images: 原帖為文字方法，沒有附帶介面圖片或影片",
         "validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證"
       ]
+    },
+    "2124035842704654727": {
+      "url": "https://x.com/ctatedev/status/2124035842704654727",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [
+        "prism-color-picker-variants"
+      ],
+      "published_at": "2026-11-21T07:03:02+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_and_inspected_video_frames",
+      "decision": "collected_or_merged",
+      "missing": [
+        "互動驗證：僅核對三段公開示範，未操作元件、測試鍵盤或核對光學模型；未確認正式發布"
+      ]
+    },
+    "2124186265461707055": {
+      "url": "https://x.com/diegohaz/status/2124186265461707055",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [
+        "app-shell-stable-sidebar-toggle"
+      ],
+      "published_at": "2026-11-21T17:00:45+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_and_inspected_video_frames",
+      "decision": "collected_or_merged",
+      "missing": [
+        "互動驗證：僅核對作者公開示範，未操作元件、測試鍵盤／窄視窗或量測動畫參數；未確認正式發布"
+      ]
+    },
+    "2124068063826067500": {
+      "url": "https://x.com/xiaohu/status/2124068063826067500",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [],
+      "published_at": "2026-11-21T09:11:04+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_full_text",
+      "decision": "not_selected",
+      "note": "完整原帖及官方外連只介紹 Obsidian CLI／技能整合；無附圖，公開插件頁是安裝入口，沒有具體筆記操作布局或狀態。",
+      "primary_url": "https://x.ai/bot/plugin/88871845"
+    },
+    "2124133258027728994": {
+      "url": "https://x.com/lxfater/status/2124133258027728994",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [],
+      "published_at": "2026-11-21T13:30:07+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_full_text",
+      "decision": "not_selected",
+      "note": "已讀完整 NoteTweet 與 Google Labs 官方倉庫 README；內容為技能能力與設計流程介紹，沒有具體介面示例或狀態，未安裝技能。",
+      "primary_url": "https://github.com/google-labs-code/stitch-skills"
+    },
+    "2123645210697884105": {
+      "url": "https://x.com/xiaohu/status/2123645210697884105",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚",
+        "收藏"
+      ],
+      "cards": [],
+      "published_at": "2026-11-20T05:10:48+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_full_text",
+      "decision": "pending_verification",
+      "note": "完整 NoteTweet 與同串回覆已讀；主圖是知識圖譜，另五張圖已檢視。回答缺漏及衝突提示兩張關鍵圖片 HTTP 403，引用示範影片未核對；保留 pending，不能因摘要或素材不足作最終排除。",
+      "missing": [
+        "media: 官方圖片 HXiyk-8bEAADkP-.jpg、HXiyo6xbQAAAfTs.jpg 回應 403",
+        "media: 跨文件引用示範影片未核對"
+      ]
+    },
+    "2123642745420169556": {
+      "url": "https://x.com/dingyi/status/2123642745420169556",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [],
+      "published_at": "2026-11-20T05:01:00+00:00",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "verification": "official_ssr_full_text",
+      "decision": "not_selected",
+      "note": "完整原帖與 Chrome 官方文章為 Web 平台技能發布、相容性與工程實踐，沒有本次可收錄的具體介面流程；未將宣傳成效作驗收。",
+      "primary_url": "https://developer.chrome.com/blog/modern-web-guidance-v1"
+    },
+    "2124008184063086861": {
+      "url": "https://x.com/ianneo_ai/status/2124008184063086861",
+      "decision": "collected_or_merged",
+      "verification": "official_primary_shared_with_kubai_collection",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "note": "與Kubai來源共用同一卡片；保留本日點讚／收藏來源，不重複建卡。",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "收藏",
+        "點讚"
+      ],
+      "cards": [
+        "ian-design-terminology-comparison"
+      ],
+      "published_at": "2026-11-21T05:13:07+00:00",
+      "missing": [
+        "coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係"
+      ]
+    },
+    "2123582654503366977": {
+      "url": "https://x.com/ianneo_ai/status/2123582654503366977",
+      "decision": "collected_or_merged",
+      "verification": "official_primary_shared_with_kubai_collection",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "note": "與Kubai來源共用同一卡片；保留本日點讚／收藏來源，不重複建卡。",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [
+        "ian-design-terminology-comparison"
+      ],
+      "published_at": "2026-11-20T01:02:13+00:00",
+      "missing": [
+        "coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係"
+      ]
+    },
+    "2123750291065712709": {
+      "url": "https://x.com/Kubai087/status/2123750291065712709",
+      "decision": "collected_or_merged",
+      "verification": "official_primary_shared_with_kubai_collection",
+      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+      "note": "與Kubai來源共用同一卡片；保留本日點讚／收藏來源，不重複建卡。",
+      "archive_files": [
+        "X-2026-11-22.md"
+      ],
+      "saved_via": [
+        "點讚"
+      ],
+      "cards": [
+        "kubai-icons-generation-workflow"
+      ],
+      "published_at": "2026-11-20T12:08:21+00:00",
+      "missing": [
+        "release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收"
+      ]
     }
   },
   "pending_source_ids": [
@@ -5064,7 +5238,8 @@
     "2115516478254624914",
     "2114624187449127136",
     "2115667965328977920",
-    "2117442507306901741"
+    "2117442507306901741",
+    "2123645210697884105"
   ],
   "open_card_gaps": {
     "21st-component-discovery-preview-prompt": [
@@ -5082,6 +5257,9 @@
     ],
     "app-icon-shelf-detail-color-index": [
       "來源識別：圖庫品牌未由原文確認；素材授權未核對"
+    ],
+    "app-shell-stable-sidebar-toggle": [
+      "互動驗證：僅核對作者公開示範，未操作元件、測試鍵盤／窄視窗或量測動畫參數；未確認正式發布"
     ],
     "apple-status-icon-optical-balance-analysis": [
       "官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品",
@@ -5163,6 +5341,9 @@
     "huashu-brand-reference-variants": [
       "images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察"
     ],
+    "ian-design-terminology-comparison": [
+      "coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係"
+    ],
     "ios-status-summary-card-hierarchy": [
       "runtime: 未執行 App 或核對系統數值"
     ],
@@ -5180,6 +5361,9 @@
     ],
     "kubai-icon-asset-release": [
       "assets: 未收錄工程檔、領取結果與使用授權"
+    ],
+    "kubai-icons-generation-workflow": [
+      "release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收"
     ],
     "kubai-layered-design-system": [
       "images: 原帖為文字方法，沒有附帶介面圖片或影片",
@@ -5237,6 +5421,9 @@
     "portfolio-preview-project-grid": [
       "comparison: 未與原網站逐項對照或實測導覽"
     ],
+    "prism-color-picker-variants": [
+      "互動驗證：僅核對三段公開示範，未操作元件、測試鍵盤或核對光學模型；未確認正式發布"
+    ],
     "raycast-command-primary-secondary": [
       "motion: 影片是帶講解的剪輯，三張關鍵影格不是同一次完整操作"
     ],
@@ -5292,26 +5479,23 @@
     ]
   },
   "next_run": [
-    "重掃新增或內容變更的 X-*.md，按 status ID 及同產品同流程查重。",
-    "來源知識庫唯讀；保留歷史 pending 與素材缺漏。",
-    "本次不提交、不推送；Kubai 交主線處理。"
+    "唯讀重掃新增或變更的 X-*.md。",
+    "保留 pending，不將刪帖、限制存取或截斷證據當成最終排除。",
+    "2026-11-22 三個 deferred_to_main ID 尚待主線補 saved attribution；不得因檔案 hash 已更新而遺漏。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-21T17:01:11.565726+00:00",
-    "requested": 15,
+    "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+    "requested": 13,
     "result_types": {
       "TweetTombstone": 12,
-      "Tweet": 3
+      "Tweet": 1
     },
-    "resolved": 2,
-    "resolved_not_selected": 2,
-    "remaining_pending": 13,
+    "resolved": 0,
+    "remaining_pending": 14,
     "max_attempts_per_id": 1,
     "methods": {
-      "official_syndication": 13,
-      "official_ssr": 2
-    },
-    "additional_evidence": "兩則 SSR 完整原文已檢視；Meta 官方文章全文及四張圖、lxfater 兩張圖均取得並檢視。"
+      "official_syndication": 13
+    }
   },
   "incremental_screening": [
     {
@@ -5370,6 +5554,40 @@
       "cards_created": 0,
       "cards_merged": 0,
       "basis": "112 份唯讀 SHA-256 與台帳完全一致；無增量帖子。15 則 pending 各一次官方重查，其中兩則補齊原文／關鍵素材後排除，13 則繼續待核對。"
+    },
+    {
+      "date": "2026-11-22",
+      "checked_at_utc": "2026-11-22T17:04:17.157595+00:00",
+      "archive_files_hashed": 113,
+      "new_files": [
+        "X-2026-11-22.md"
+      ],
+      "changed_files": [],
+      "deleted_files": [],
+      "new_status_ids": [
+        "2124035842704654727",
+        "2124186265461707055",
+        "2124068063826067500",
+        "2124133258027728994",
+        "2124008184063086861",
+        "2123750291065712709",
+        "2123582654503366977",
+        "2123645210697884105",
+        "2123642745420169556"
+      ],
+      "non_overlapping_posts_screened": 6,
+      "deferred_to_main": [
+        "2124008184063086861",
+        "2123582654503366977",
+        "2123750291065712709"
+      ],
+      "kubai_deferred_to_main": [
+        "2123750291065712709"
+      ],
+      "cards_created": 2,
+      "cards_merged": 0,
+      "pending_verification": 1,
+      "basis": "六則不重疊來源已核對官方原文：兩張概念卡、三則無具體介面案例不收錄、一則關鍵媒體不足保留 pending。三個指定共用來源交主線補 attribution，未編輯其卡片或 processed_posts。"
     }
   ]
 }

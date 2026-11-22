@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 112 份歷史彙總、890 個不同 status ID；本來源識別 254 則設計候選（本日一則與Kubai來源共用卡片）。
+已初篩 113 份歷史彙總、899 個不同 status ID；本來源台帳識別 260 則候選；11 月 22 日另有三個共用來源待主線補入。
 
-候選處理：154 則對應 133 張卡片，87 則不收錄，13 則待核對。卡片亦可能保留缺漏，見下表。
+候選處理：159 則對應 136 張卡片，90 則不收錄，14 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -158,6 +158,7 @@
 | [Agent 工作區：依主要操作者配置中央內容](../cases/agent-primary-vs-editor-primary-workspace/case.md) | usability: 未做兩種配置的任務比較 |
 | [AI 介面文案：把說明限制在完成任務所需的資訊](../cases/agent-ui-copy-essential-information/case.md) | images：原貼文無圖片或示範介面；成效：未提供文案前後對照或測試 |
 | [App 圖標圖庫：用展示層架、詳情頁與色彩索引串連探索](../cases/app-icon-shelf-detail-color-index/case.md) | 來源識別：圖庫品牌未由原文確認；素材授權未核對 |
+| [App shell：固定側欄開關，讓動態分頁自行調整](../cases/app-shell-stable-sidebar-toggle/case.md) | 互動驗證：僅核對作者公開示範，未操作元件、測試鍵盤／窄視窗或量測動畫參數；未確認正式發布 |
 | [狀態圖標分析：以負空間與縮小檢視校正視覺重量](../cases/apple-status-icon-optical-balance-analysis/case.md) | 官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品；文章素材：08、14、17 號來源下載回應 404；本卡所引六圖皆已取得並檢視 |
 | [AR Gallery 示範：模型清單、可旋轉預覽與資產資訊分欄](../cases/ar-gallery-model-roster/case.md) | runtime: 僅核對錄影，未實測模型載入與 iPhone AR |
 | [BaoCut 原型：把 Agent 主入口與專案工具串在同一側欄](../cases/baocut-agent-entry-and-project-context/case.md) | implementation: 原帖為原型，CLI 與 API 整合未驗證 |
@@ -184,12 +185,14 @@
 | [gzh-design：以整套閱讀元件區分主題，而非只換色](../cases/gzh-design-theme-components-mobile-reading/case.md) | 平台保真：未實際貼入公眾號編輯器驗證 |
 | [Hark：將對話與持續更新的資料卡並排](../cases/hark-chat-persistent-data-cards/case.md) | motion: 原帖僅取得靜態圖，無法核實所稱動效 |
 | [花叔設計工作流：先取品牌色，再用三個方向澄清需求](../cases/huashu-brand-reference-variants/case.md) | images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察 |
+| [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係 |
 | [iOS 狀態頁示例：以大數值、區間條與明細分級](../cases/ios-status-summary-card-hierarchy/case.md) | runtime: 未執行 App 或核對系統數值 |
 | [Kami：用字級、間距與淡分隔保留內容層級](../cases/kami-content-first-document-hierarchy/case.md) | comparison: 未取得完整前後版本與閱讀測試 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
+| [Kubai Icons 的圖標庫與風格一致生成工作流](../cases/kubai-icons-generation-workflow/case.md) | release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收 |
 | [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | images: 原帖為文字方法，沒有附帶介面圖片或影片；validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證 |
 | [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取 |
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
@@ -207,6 +210,7 @@
 | [pi Generative UI：逐步呈現資料卡，再補入圖表與表格](../cases/pi-generative-ui-progressive-widget-render/case.md) | runtime: 僅核對作者文章與動圖，未執行擴充 |
 | [作品集概念：以黑白留白與產品截圖建立作品敘事](../cases/portfolio-monochrome-product-proof-layout/case.md) | 交付驗證：僅為生成案例圖，未開啟或操作作品集 |
 | [作品集還原示範：大字介紹與專案縮圖分段呈現](../cases/portfolio-preview-project-grid/case.md) | comparison: 未與原網站逐項對照或實測導覽 |
+| [稜鏡式顏色選擇器：讓操作幾何、色碼與數值同步](../cases/prism-color-picker-variants/case.md) | 互動驗證：僅核對三段公開示範，未操作元件、測試鍵盤或核對光學模型；未確認正式發布 |
 | [Raycast：以 Enter 與 Command K 區分主動作與更多操作](../cases/raycast-command-primary-secondary/case.md) | motion: 影片是帶講解的剪輯，三張關鍵影格不是同一次完整操作 |
 | [參考圖還原：先拆結構與資產，再校準畫布和視窗](../cases/reference-ui-structure-asset-calibration/case.md) | execution: 未執行原帖的還原工作流或量測差異 |
 | [shadcn/ui 示範：用同一元件語言容納流程畫布與車隊地圖](../cases/shadcn-workflow-and-fleet-layouts/case.md) | implementation: 未核對元件來源、真實資料與互動行為 |
@@ -308,3 +312,22 @@ HackGHT 完整原帖只是日後開源預告，本次排除；Kubai `21232664176
 - lxfater `2123625468729413925`：本次取得完整原帖與昨日缺少的第一張圖片，兩張圖均已檢視；第一張是 GitHub 宣傳摘要，第二張是 Reddit 回饋，未呈現掃描報告或人工確認介面，轉為 not_selected。未驗證其合規主張或過審成效。
 
 本次解除 2 則，剩餘 13 則待核對。只更新 saved-source 台帳；未修改來源知識庫、Kubai 台帳或卡片，未操作 Git。未留存原始影片、完整提示詞或回饋截圖中的帳號資料。
+
+## 2026-11-22 增量檢查（saved-source 分工）
+
+唯讀 SHA-256 掃描 113 份彙總：新增 X-2026-11-22.md，其餘 112 份未變，無刪除；本地新增 9 個 canonical status ID，不代表全帳戶匯出。
+
+- 新增 [稜鏡式顏色選擇器](../cases/prism-color-picker-variants/case.md)：三段官方示範逐段檢視，保存六張影格，保留未實測缺漏。
+- 新增 [App shell 固定側欄開關](../cases/app-shell-stable-sidebar-toggle/case.md)：檢視 39.783 秒示範的 20 張取樣，保存四張設計區影格。
+- Obsidian／Grok Bot `2124068063826067500`、stitch-skills `2124133258027728994`、Modern Web Guidance `2123642745420169556`：官方原文與外連已讀，屬整合／技能／工程介紹，沒有具體介面案例，本次不收錄。
+- Lumimax `2123645210697884105`：完整原文及同串資料已讀；主圖和另外五張圖已檢視，回答缺漏與衝突提示的兩張官方圖片回應 403，引用示範影片未核對，保留 pending_verification，不作最終排除。
+- 13 則歷史 pending 各查官方 syndication 一次：12 則 TweetTombstone、1 則文章預覽，解除 0；加入 Lumimax 後本分工共 14 則 pending。沒有進入私密帳戶或繞過限制。
+
+### 交主線補 saved attribution
+
+Ian 視覺層級 `2124008184063086861`（Kubai RT `2124008455245820268`）、既有 Ian 詞彙工具 `2123582654503366977`、Kubai 圖標預告 `2123750291065712709` 全部交主線。本分工未修改 hierarchy／terminology／Kubai 卡片，未新增這三項 processed_posts；後續不能因本地檔案 hash 已更新而跳過 attribution。
+
+僅更新 saved-source 台帳及兩個新案例目錄；未提交、推送或修改來源知識庫。未保存原始影片、完整提示詞或私人帳戶資料。結果與 canonical 對照見 /tmp/nov22-saved-results.json。
+
+
+本日3則共用來源已與主線合併：視覺層級、既有詞彙工具及雙色圖標預告，對應2張既有卡片，沒有重複建卡。收藏來源本輪新增2張、補充2張，14則待核對；原知識庫保持唯讀。新來源台帳的重複Markdown網址已正規化為canonical URL。
