@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+  "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 111,
+    "case_count": 113,
     "series_cards": 22,
-    "other_cards": 89,
+    "other_cards": 91,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -75,38 +75,126 @@
     },
     "note": "999 is the series name, not a claim that 999 posts have been published.",
     "last_check": {
-      "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
-      "official_mapping_url": "https://vibedesign.tips/_app/main-CQTjdGAg.js",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "official_mapping_url": "https://vibedesign.tips/_app/main-CXMEUqWJ.js",
       "maximum_explicit_issue": "022",
-      "mapping": {
-        "001": "2114378773655326873",
-        "002": "2114729985143677258",
-        "003": "2115091203465290087",
-        "004": "2115469767650021796",
-        "005": "2115823717024735708",
-        "006": "2116198373040759107",
-        "007": "2116555064227811412",
-        "008": "2116911391437443471",
-        "009": "2117314098165862612",
-        "010": "2117782193108082923",
-        "011": "2118143759984803898",
-        "012": "2118508433704169726",
-        "013": "2119359092334743735",
-        "014": "2119831380276523207",
-        "015": "2120320609255043510",
-        "016": "2120682993563922586",
-        "017": "2121449185014845794",
-        "018": "2121892029403922717",
-        "019": "2122492414598459820",
-        "020": "2123217190052827633",
-        "021": "2123579578098536608",
-        "022": "2124170395825873348"
-      },
-      "limitation": "官網當前索引明列001–022；不是完整X帳戶匯出，未將未見023當作未發布的證據。"
+      "mapping": [
+        {
+          "issue": "022",
+          "url": "https://vibedesign.tips/022-empty-states/",
+          "x_id": "2124170395825873348"
+        },
+        {
+          "issue": "021",
+          "url": "https://vibedesign.tips/021-ring-cards/",
+          "x_id": "2123579578098536608"
+        },
+        {
+          "issue": "020",
+          "url": "https://vibedesign.tips/020-choice-controls/",
+          "x_id": "2123217190052827633"
+        },
+        {
+          "issue": "019",
+          "url": "https://vibedesign.tips/019-scroll-cards/",
+          "x_id": "2122492414598459820"
+        },
+        {
+          "issue": "018",
+          "url": "https://vibedesign.tips/018-holo-card/",
+          "x_id": "2121892029403922717"
+        },
+        {
+          "issue": "017",
+          "url": "https://vibedesign.tips/017-loading-states/",
+          "x_id": "2121449185014845794"
+        },
+        {
+          "issue": "016",
+          "url": "https://vibedesign.tips/016-toast-or-notification/",
+          "x_id": "2120682993563922586"
+        },
+        {
+          "issue": "015",
+          "url": "https://vibedesign.tips/015-ui-continuity/",
+          "x_id": "2120320609255043510"
+        },
+        {
+          "issue": "014",
+          "url": "https://vibedesign.tips/014-card-delete/",
+          "x_id": "2119831380276523207"
+        },
+        {
+          "issue": "013",
+          "url": "https://vibedesign.tips/013-shockwave-glow/",
+          "x_id": "2119359092334743735"
+        },
+        {
+          "issue": "012",
+          "url": "https://vibedesign.tips/012-message-bubbles/",
+          "x_id": "2118508433704169726"
+        },
+        {
+          "issue": "011",
+          "url": "https://vibedesign.tips/011-easing-curves/",
+          "x_id": "2118143759984803898"
+        },
+        {
+          "issue": "010",
+          "url": "https://vibedesign.tips/010-liquid-glass/",
+          "x_id": "2117782193108082923"
+        },
+        {
+          "issue": "009",
+          "url": "https://vibedesign.tips/009-overlays/",
+          "x_id": "2117314098165862612"
+        },
+        {
+          "issue": "008",
+          "url": "https://vibedesign.tips/008-wiki-layout/",
+          "x_id": "2116911391437443471"
+        },
+        {
+          "issue": "007",
+          "url": "https://vibedesign.tips/007-type-switches/",
+          "x_id": "2116555064227811412"
+        },
+        {
+          "issue": "006",
+          "url": "https://vibedesign.tips/006-book-cards/",
+          "x_id": "2116198373040759107"
+        },
+        {
+          "issue": "005",
+          "url": "https://vibedesign.tips/005-drag-ripple/",
+          "x_id": "2115823717024735708"
+        },
+        {
+          "issue": "004",
+          "url": "https://vibedesign.tips/004-continuous-corners/",
+          "x_id": "2115469767650021796"
+        },
+        {
+          "issue": "003",
+          "url": "https://vibedesign.tips/003-ascii-dither/",
+          "x_id": "2115091203465290087"
+        },
+        {
+          "issue": "002",
+          "url": "https://vibedesign.tips/002-cascade-menu/",
+          "x_id": "2114729985143677258"
+        },
+        {
+          "issue": "001",
+          "url": "https://vibedesign.tips/001-skeuomorphic-buttons/",
+          "x_id": "2114378773655326873"
+        }
+      ],
+      "limitation": "官網當前明列001–022；不據此宣稱完整X歷史或023未發布。"
     }
   },
   "media": {
-    "images": 566,
+    "images": 577,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -2383,16 +2471,139 @@
       "canonical_id": "2124058518898815373",
       "relation": "edit_alias",
       "card": "kubai-icons-generation-workflow"
+    },
+    "2124337913760756206": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "原作者13條規則及影片；摘要與四個可見狀態，不轉存完整規則。",
+      "card": "kev-type-spacing-design-baselines",
+      "published_at": "2026-11-22T03:03:21+00:00",
+      "quoted_original_id": "2124238399192060138"
+    },
+    "2124238399192060138": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "原作者13條規則及影片；摘要與四個可見狀態，不轉存完整規則。",
+      "card": "kev-type-spacing-design-baselines"
+    },
+    "2124901875090968996": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "published_at": "2026-11-23T16:24:20+00:00",
+      "reason": "PWA／手機閱讀更新；影片與公開頁狀態可讀，原生安裝、離線及Safari結果未驗證。",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2124870165238354274": {
+      "decision": "collected_or_merged",
+      "verification": "official_quoted_tweet_results_target; nested_visibility_wrapper_unwrapped_where_present",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "Observed desktop themed chat plus Settings/theme control; distinct from 012 six-material concept comparison. Actual screenshots do not establish a released Rune feature.",
+      "card": "rune-aqua-themed-chat",
+      "published_at": "2026-11-23T14:18:20+00:00",
+      "author": "Kubai087",
+      "edit_chain_ids": [
+        "2124870165238354274"
+      ],
+      "quoted_original_id": "2124867730985890055",
+      "relation": "quote"
+    },
+    "2124867730985890055": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "Observed desktop themed chat plus Settings/theme control; distinct from 012 six-material concept comparison. Actual screenshots do not establish a released Rune feature.",
+      "card": "rune-aqua-themed-chat",
+      "published_at": "2026-11-23T14:08:39+00:00",
+      "author": "ninthbit_ai",
+      "edit_chain_ids": [
+        "2124866537278546106",
+        "2124867730985890055"
+      ]
+    },
+    "2124888688568185022": {
+      "decision": "collected_or_merged",
+      "verification": "official_quoted_tweet_results_target; nested_visibility_wrapper_unwrapped_where_present",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "Framework port and icon browsing/configuration/code use of the same Kubai Icons product; no separate case",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-23T15:31:56+00:00",
+      "author": "Kubai087",
+      "edit_chain_ids": [
+        "2124888688568185022"
+      ],
+      "quoted_original_id": "2124888257859408186",
+      "relation": "quote"
+    },
+    "2124888257859408186": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "Framework port and icon browsing/configuration/code use of the same Kubai Icons product; no separate case",
+      "card": "kubai-icons-generation-workflow",
+      "published_at": "2026-11-23T15:30:13+00:00",
+      "author": "sylanko",
+      "edit_chain_ids": [
+        "2124888257859408186",
+        "2124888718259724361",
+        "2124888762031411571"
+      ]
+    },
+    "2124347399078654399": {
+      "decision": "supporting_existing",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "canonical_id": "2124170395825873348",
+      "reason": "官方RT文字與同頁完整原帖確認022自轉發，沒有新增篇章。",
+      "card": "kubai-999-022-empty-states",
+      "published_at": "2026-11-22T03:41:03+00:00"
+    },
+    "2124408462172110885": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "純God of War視覺插畫轉推，非軟體介面設計。",
+      "published_at": "2026-11-22T07:43:41+00:00"
+    },
+    "2124387670591967626": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "原作為God of War視覺插畫，無UI/UX流程。"
+    },
+    "2124347067044892908": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "Google AI訂閱用量請教，無具體產品設計方法。",
+      "published_at": "2026-11-22T03:39:43+00:00"
+    },
+    "2124874981905715681": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "帳號與時事互動，非產品設計。",
+      "published_at": "2026-11-23T14:37:28+00:00"
+    },
+    "2124865060397019480": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+      "reason": "被引用時事貼文，非UI/UX內容；不就其陳述真偽作判定。",
+      "published_at": "2026-11-23T13:58:03+00:00"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2124543045861548469",
-    "2124500898420592921",
-    "2124440619120759238",
-    "2124476440804831686",
-    "2124467225503645764",
-    "2124466296939245649"
+    "2124901875090968996",
+    "2124888688568185022",
+    "2124888257859408186",
+    "2124874981905715681",
+    "2124865060397019480",
+    "2124870165238354274",
+    "2124867730985890055"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -2608,6 +2819,14 @@
     "2124008455245820268": {
       "original_id": "2124008184063086861",
       "original_author": "ianneo_ai"
+    },
+    "2124347399078654399": {
+      "original_id": "2124170395825873348",
+      "original_author": "Kubai087"
+    },
+    "2124408462172110885": {
+      "original_id": "2124387670591967626",
+      "original_author": "VigoCreativeAI"
     }
   },
   "author_prompt_replies": {
@@ -2676,6 +2895,10 @@
     "jackywine-progressive-disclosure-briefing": [
       "images: 影片含個人筆記與對話，已檢視但不保存畫面",
       "verification: 短片不能驗證未回覆時停止推送的實際行為"
+    ],
+    "kev-type-spacing-design-baselines": [
+      "implementation: 未取得可執行頁面或樣式檔，無法驗證精確字級、間距及字重",
+      "validation: 作者示範沒有可用性、轉換率或可及性成效資料"
     ],
     "kubai-999-003-dither-ascii": [
       "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
@@ -2791,6 +3014,10 @@
     "ricoui-component-preview-install": [
       "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
     ],
+    "rune-aqua-themed-chat": [
+      "release: 僅核對作者實際介面截圖，未核實此衍生主題公開發布或隨 Rune 上線",
+      "interaction: 沒有影片；未觀察切換、串流、等待及訊息進出場動效"
+    ],
     "studio-vibe-design-comparison-workflow": [
       "coverage: 僅閱讀導言及 001A–001D、002A–002C、003A–003D 共 11 列，未逐項核對其餘 63 列或 23 個作品",
       "verification: 僅檢視作者公開文字與三張靜態比較圖，未實測產品、動態時序或上線狀態",
@@ -2814,7 +3041,7 @@
     "Do not advance a global boundary after source access failures."
   ],
   "pending_source_checks": {},
-  "latest_discovery_index_total": 224,
+  "latest_discovery_index_total": 232,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "ai-studio-refractive-app-icon",
@@ -2826,6 +3053,7 @@
     "ian-multi-option-interactive-prototypes",
     "iconswapper-live-dock-preview",
     "jackywine-progressive-disclosure-briefing",
+    "kev-type-spacing-design-baselines",
     "kubai-999-001-tactile-buttons",
     "kubai-999-002-menu-safe-triangle",
     "kubai-999-003-dither-ascii",
@@ -2924,14 +3152,15 @@
     "night-dial-day-night-toggle",
     "noax-peek-search-style-directions",
     "ricoui-component-preview-install",
+    "rune-aqua-themed-chat",
     "studio-vibe-design-comparison-workflow",
     "vibe-design-early-member-card-export",
     "voiceinput-fn-agent-dictation"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",
+    "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
     "status": "success_recent_sample_only",
-    "details": "官方首頁近期樣本可讀；第三方索引最新標示11月21日224條。分開處理主頁新帖及索引，不代表完整時間線。"
+    "details": "官方首頁近期樣本可讀；第三方索引停於11月22日232條。區分新帖、舊帖引用與自轉發，不代表完整時間線。"
   },
   "historical_text_retry": {
     "checked_at_utc": "2026-11-22T17:07:46.323964+00:00",

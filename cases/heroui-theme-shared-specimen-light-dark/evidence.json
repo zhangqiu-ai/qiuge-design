@@ -1,0 +1,88 @@
+{
+  "source": "https://x.com/meow2149/status/2124548375853084935",
+  "checked_at_utc": "2026-11-23T17:07:51.576874+00:00",
+  "media": "https://pbs.twimg.com/amplify_video_thumb/2124527483307376640/img/4HevYhZKcNfL4TFq.jpg",
+  "frames_seconds": [
+    4,
+    8,
+    12
+  ],
+  "retained": "cropped sampled frames only; no raw video",
+  "visual_review": "PASS: all three final redacted images individually inspected; member names, notification avatars and upper avatar groups covered with opaque masks; controls/layout retained",
+  "local_redaction": {
+    "updated_at_utc": "2026-11-23T17:14:46.481129+00:00",
+    "method": "Local deterministic opaque gray rectangles; no image generation or network",
+    "scope": "Member name, notification avatar and upper avatar group in all three retained images",
+    "images": [
+      {
+        "path": "01-state.jpg",
+        "sha256_before_redaction": "bef83921300133c00094ca31c6afe57215e532108200f23afab42ab85f28f8db",
+        "sha256": "f64adf88e9485e349ea4bac15e314eb095f5f707117ccb163f5ede9917b7f0fb",
+        "redaction_rectangles_xyxy": [
+          [
+            558,
+            231,
+            654,
+            262
+          ],
+          [
+            564,
+            337,
+            680,
+            365
+          ]
+        ],
+        "dimensions": [
+          770,
+          395
+        ]
+      },
+      {
+        "path": "02-state.jpg",
+        "sha256_before_redaction": "5a3496ff5ccf3b68563cf2bc2426aa16f39892e6344b6982380546d4b34fbfca",
+        "sha256": "b66e057060946f03343c7b384161e25fb1088034b6d32d42d4e3f9691bd27043",
+        "redaction_rectangles_xyxy": [
+          [
+            548,
+            248,
+            646,
+            274
+          ],
+          [
+            552,
+            346,
+            677,
+            379
+          ]
+        ],
+        "dimensions": [
+          770,
+          395
+        ]
+      },
+      {
+        "path": "03-state.jpg",
+        "sha256_before_redaction": "e1b379cc6d75bae44c88fe170a2f71b43d736ec3fbcb8c69ef3d332409a37204",
+        "sha256": "4dd10c7f41b2d76b047068f43d8d1d96ef31e085cc4bbabc6e2e540f721ef9a9",
+        "redaction_rectangles_xyxy": [
+          [
+            551,
+            244,
+            652,
+            274
+          ],
+          [
+            554,
+            345,
+            678,
+            383
+          ]
+        ],
+        "dimensions": [
+          770,
+          395
+        ]
+      }
+    ]
+  }
+}

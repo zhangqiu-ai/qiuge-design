@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **111 張卡片**：999 系列 22 張，其他設計參考 89 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **113 張卡片**：999 系列 22 張，其他設計參考 91 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-22（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-23（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -54,6 +54,8 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Rune 衍生 Aqua 主題：把聊天氣泡與設定控制項連成同一套材質](../cases/rune-aqua-themed-chat/case.md) | ai-chat, visual, forms |
+| [網頁基礎修整：先理字級與留白，再刪裝飾和換照片](../cases/kev-type-spacing-design-baselines/case.md) | visual, data-display |
 | [Studio 的設計比較工作流：逐項列出改動，也保留不適用的邊界](../cases/studio-vibe-design-comparison-workflow/case.md) | data-display, feedback, navigation, accessibility |
 | [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | content-editing, feedback, visual |
 | [Figma 的 OBJ 匯入示範：先調來源物件，再重複排列與轉動整組](../cases/figma-obj-import-repeat-transform/case.md) | content-editing, visual, feedback |
@@ -153,7 +155,7 @@
 
 ## 素材與待補
 
-目前保存 566 張圖片／關鍵幀、58 段歷史影片；本次只新增圖片，沒有新增原始影片。
+目前保存 577 張圖片／關鍵幀、58 段歷史影片；本次沒有新增原始影片。
 
 | 卡片 | 缺漏 |
 | --- | --- |
@@ -167,6 +169,7 @@
 | [多方案互動原型：先切整體方向，再替換局部卡片](../cases/ian-multi-option-interactive-prototypes/case.md) | 互動驗證：未取得可執行原型，僅核對原帖與示範影片 |
 | [IconSwapper：以大、小雙預覽編輯帶狀態的 Dock 圖示](../cases/iconswapper-live-dock-preview/case.md) | execution: 僅檢視官方示範影片，未安裝或驗證帳號資料同步；官網本次回應 403 |
 | [Jackywine：以使用者回覆控制早報的漸進式披露](../cases/jackywine-progressive-disclosure-briefing/case.md) | images: 影片含個人筆記與對話，已檢視但不保存畫面；verification: 短片不能驗證未回覆時停止推送的實際行為 |
+| [網頁基礎修整：先理字級與留白，再刪裝飾和換照片](../cases/kev-type-spacing-design-baselines/case.md) | implementation: 未取得可執行頁面或樣式檔，無法驗證精確字級、間距及字重；validation: 作者示範沒有可用性、轉換率或可及性成效資料 |
 | [ASCII 與 Dither：只調圖像質感，保留登入內容](../cases/kubai-999-003-dither-ascii/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
@@ -201,6 +204,7 @@
 | [Night Dial 以晨昏線連動的日夜旋鈕](../cases/night-dial-day-night-toggle/case.md) | product: 未核實此示範用於已上線產品；平台依網頁模板連結分類；authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬 |
 | [Peek Search：把模糊風格搜尋整理成三個可執行方向](../cases/noax-peek-search-style-directions/case.md) | verification: 僅觀察作者示範與公開首頁，未實際提交搜尋、生成或驗收 MCP；mapping: Kubai RT 缺少直接 retweet-target 欄位，原帖對應由作者、正文前綴與同頁原帖交叉支持 |
 | [RicoUI Blocks：分類預覽旁常駐當前元件的安裝入口](../cases/ricoui-component-preview-install/case.md) | 操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試 |
+| [Rune 衍生 Aqua 主題：把聊天氣泡與設定控制項連成同一套材質](../cases/rune-aqua-themed-chat/case.md) | release: 僅核對作者實際介面截圖，未核實此衍生主題公開發布或隨 Rune 上線；interaction: 沒有影片；未觀察切換、串流、等待及訊息進出場動效 |
 | [Studio 的設計比較工作流：逐項列出改動，也保留不適用的邊界](../cases/studio-vibe-design-comparison-workflow/case.md) | coverage: 僅閱讀導言及 001A–001D、002A–002C、003A–003D 共 11 列，未逐項核對其餘 63 列或 23 個作品；verification: 僅檢視作者公開文字與三張靜態比較圖，未實測產品、動態時序或上線狀態；images: 002C 原圖文字呈方塊，不能據此讀出選單項目 |
 | [Vibe Design Tips：早期會員紀念卡的翻面預覽與影片匯出](../cases/vibe-design-early-member-card-export/case.md) | image-export: 官影片可見 Save image 入口，未驗證產出檔案；video-export: 官影片可見進度與 Video saved，未獨立下載核對檔案；gyroscope: 作者聲明與公開程式含裝置方向權限分支，未做手機實機測試；public-flow: 已讀公開網站與資產；瀏覽器不可用，未實際操作入口或建立個人卡片 |
 | [叭哥說語音輸入：以 Fn 啟動聽寫，在原工作區顯示聆聽浮條](../cases/voiceinput-fn-agent-dictation/case.md) | images: 原影片含個人會話、筆記與長 Prompt，不保存原片或畫面；僅保留文字觀察。；verification: 僅檢視官方文字與影片下緣三個時間點的裁切抽樣；未驗證 Fn 實際觸發、停止方式、文字回填、辨識準確率或詞庫學習。 |
@@ -275,3 +279,10 @@ rg -n -F '2119359092334743735' cases sources
 本來源新增1張Studio比較工作流，補充3張既有卡片：教程站正式版的Skills／Saved、視覺層級同內容兩態比較，以及雙色圖標的專案選擇器使用展示。Studio僅核對導言與11列及3張靜態圖，不宣稱全部74項完成驗證。
 
 官網當前官方模組明列001–022，回鏈逐期可追蹤；未把未見023當作未發布。003／006仍無官方Tweet payload，021直接Prompt回覆仍未取得，保留缺漏。貓咪、泛論教學與創作者收益資格不另建卡。完整歷史覆蓋邊界保持未完成。
+
+
+## 2026-11-23 增量與歷史映射
+
+本來源新增2張：排版／留白基礎修整與Rune衍生Aqua主題；補充2張：教程站手機閱讀／PWA公告、圖標Avalonia移植預覽。固定數值、性能與發布狀態均與實際觀察分開，未驗證安裝、原生Safari或移植性能。
+
+022自轉發已核對原帖映射，不另建卡；官方當前索引仍明列001–022，不據未見023宣稱未發布。時事、訂閱用量及純插畫不收錄。既有003／006官方全文及021直接Prompt回覆缺漏仍保留，完整歷史覆蓋邊界未推進。

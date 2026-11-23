@@ -1,0 +1,12 @@
+{
+  "source": "https://x.com/akokoi1/status/2124314607837958408",
+  "checked_at_utc": "2026-11-23T17:07:51.581870+00:00",
+  "media": "https://pbs.twimg.com/amplify_video_thumb/2124312706337611776/img/M0e6UrS3p2cgyyae.jpg",
+  "frames_seconds": [
+    0,
+    4,
+    8
+  ],
+  "retained": "cropped sampled frames only; no raw video",
+  "visual_review": "final images inspected for captions and redaction"
+}

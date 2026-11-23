@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 113 份歷史彙總、899 個不同 status ID；本來源台帳識別 260 則候選；11 月 22 日另有三個共用來源待主線補入。
+已初篩 114 份歷史彙總、911 個不同 status ID；台帳識別 270 則設計候選，共用來源以 status ID 查重。
 
-候選處理：159 則對應 136 張卡片，90 則不收錄，14 則待核對。卡片亦可能保留缺漏，見下表。
+候選處理：163 則對應 139 張卡片，92 則不收錄，15 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -178,12 +178,14 @@
 | [Dashi Taskboard：以狀態欄呈現 Agent 任務](../cases/dashi-taskboard-agent-status-columns/case.md) | runtime: 未驗證狀態同步、拖曳或完成條件 |
 | [設計方案比較：以共用任務和並排縮圖呈現差異](../cases/design-skill-comparison-shared-scenarios/case.md) | 評測重現：未執行原作者測試或取得完整提示與環境 |
 | [雙 Agent 桌面概念：先選工具，再搜尋模型](../cases/dual-agent-searchable-model-picker/case.md) | runtime: 原帖為預告，未驗證搜尋、切換與相容性 |
+| [EasyColab：在工作區內搜尋並匯入模型](../cases/easycolab-model-import-search-dialog/case.md) | verification: 未執行登入、模型下載、Token 儲存或跨平台驗收 |
 | [可編輯 Artifact：把測試結果與修改意見留在同一文件](../cases/editable-artifact-review-contract/case.md) | images: 原帖未附介面圖片；只能核實文字中的欄位與評註構想 |
 | [Fable 介面示範：以中性卡片與單一亮色統一多種控制項](../cases/fable-lime-ui-state-mosaic/case.md) | prompt: 原帖未提供生成方法或設計規格；runtime: 影片不能證明所有元件已實作可用 |
 | [UI 轉 Figma 示例：行動助手與管理首頁分開編排](../cases/figma-ui-output-summary-and-details/case.md) | figma: 未核對原檔圖層、可編輯性或轉換速度 |
 | [手勢底部面板：讓拖曳、邊界與慣性使用同一套物理感](../cases/gesture-sheet-momentum-rubberband/case.md) | parameters: 原帖影片未提供速度門檻與彈簧參數 |
 | [gzh-design：以整套閱讀元件區分主題，而非只換色](../cases/gzh-design-theme-components-mobile-reading/case.md) | 平台保真：未實際貼入公眾號編輯器驗證 |
 | [Hark：將對話與持續更新的資料卡並排](../cases/hark-chat-persistent-data-cards/case.md) | motion: 原帖僅取得靜態圖，無法核實所稱動效 |
+| [HeroUI 主題示範：以固定元件樣本對照風格與明暗](../cases/heroui-theme-shared-specimen-light-dark/case.md) | verification: 未安裝 Skill、未驗證樣式生成與可及性；僅觀察示範 |
 | [花叔設計工作流：先取品牌色，再用三個方向澄清需求](../cases/huashu-brand-reference-variants/case.md) | images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察 |
 | [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係 |
 | [iOS 狀態頁示例：以大數值、區間條與明細分級](../cases/ios-status-summary-card-hierarchy/case.md) | runtime: 未執行 App 或核對系統數值 |
@@ -201,6 +203,7 @@
 | [llm_wiki：在聊天輸入處選擇檔案與技能並回看引用](../cases/llm-wiki-file-skill-chat-context/case.md) | 行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範 |
 | [Lumina 概念：用模式切換與剖面滑桿探索生物構造](../cases/lumina-creature-anatomy-cross-section/case.md) | accuracy: 生成的幻想生物未經解剖或教材精度核驗 |
 | [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | media: 原始高畫質影片下載不完整，改用官方 606×360 版本；裁圖小字辨識有限；verification: 未安裝麥田或發布助手，未驗證平台資料、轉化計算與實際發布行為 |
+| [行動測試示範：以裝置與語言標籤並列差異](../cases/mobile-agent-testers-device-language-comparison/case.md) | verification: 未執行測試工具，未逐項重現作者所報問題 |
 | [Mono Charts：在每張圖卡中保留指標、圖例與複製入口](../cases/mono-charts-contextual-chart-gallery/case.md) | runtime: 未測元件互動、CLI 安裝與真實資料映射 |
 | [Morphicons：在同一預覽位置比較圖標變形與彈性](../cases/morphicons-icon-transition-playground/case.md) | package: 未核對套件體積、演算法與無依賴聲明 |
 | [Motion 術語短片：情境、名稱與示例同屏對照](../cases/motion-taxonomy-labeled-examples/case.md) | parameters: 原帖未提供逐項曲線、時長與互動程式 |
@@ -331,3 +334,22 @@ Ian 視覺層級 `2124008184063086861`（Kubai RT `2124008455245820268`）、既
 
 
 本日3則共用來源已與主線合併：視覺層級、既有詞彙工具及雙色圖標預告，對應2張既有卡片，沒有重複建卡。收藏來源本輪新增2張、補充2張，14則待核對；原知識庫保持唯讀。新來源台帳的重複Markdown網址已正規化為canonical URL。
+
+## 2026-11-23 增量檢查
+
+12 則增量摘要初篩；6 則非 Kubai 設計候選核對官方原文，3 張新卡、2 則無新增介面方法不收錄、1 則缺關鍵圖片保留 pending。5 則非設計摘要不加入公開候選台帳；Kubai 交主線。
+
+唯讀重算 114 份來源 SHA-256，僅新增 X-2026-11-23.md；原有檔案無變更或刪除。14 則既有 pending 各一次官方重試（7 Tweet、7 TweetTombstone）；文章全文、引用鏈與關鍵影片仍缺，因此全部保留 pending。5 則先前受限來源現在有公開短文或截斷正文，已更正其目前缺漏；未繞過私人帳號。
+
+- [HeroUI 主題示範：以固定元件樣本對照風格與明暗](../cases/heroui-theme-shared-specimen-light-dark/case.md)：原帖 `2124548375853084935`，發佈 2026-11-22T16:59:39.660000+00:00；verification: 未安裝 Skill、未驗證樣式生成與可及性；僅觀察示範。
+- [EasyColab：在工作區內搜尋並匯入模型](../cases/easycolab-model-import-search-dialog/case.md)：原帖 `2124314607837958408`，發佈 2026-11-22T01:30:45.022000+00:00；verification: 未執行登入、模型下載、Token 儲存或跨平台驗收。
+- [行動測試示範：以裝置與語言標籤並列差異](../cases/mobile-agent-testers-device-language-comparison/case.md)：原帖 `2124442800930591106`，發佈 2026-11-22T10:00:08.637000+00:00；verification: 未執行測試工具，未逐項重現作者所報問題。
+
+- COSS `2124354985848897813`、`2124373735683789034`：完整原文只有使用心得／推薦，無新增流程，不重複建卡。
+- `2124437302068011026`：完整原文介紹 fast-anything，原圖 HTTP 403；保留 pending。
+- Kubai `2124440619120759238` 已併入既有教程站卡片，與 Kubai 來源共用。
+
+本來源新增三張非重疊卡片，保留9張抽樣圖片；未保存原始影片或完整提示詞，來源知識庫維持唯讀。提交與推送結果以 Git 紀錄為準。
+
+
+本日Kubai正式版來源已併入既有教程站卡片，保留點讚／收藏出處。本來源新增3張、補充1張共用卡片；14則歷史候選重查後保留未完成部分，再加1則缺圖候選，共15則待查。部分原文已恢復，缺漏已按本次實際結果更新，不沿用已失效的不可見理由。
