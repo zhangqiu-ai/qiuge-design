@@ -1,0 +1,39 @@
+{
+  "official_article": "https://vibedesign.tips/024-image-loading/",
+  "canonical_status_id": "2125220063301271808",
+  "published_at": "2026-11-24T13:28:42+00:00",
+  "media_source": "https://vibedesign.tips/_app/024-NCNQG7Rb.mp4",
+  "raw_video_retained": false,
+  "frames": [
+    {
+      "path": "01-state.jpg",
+      "seconds": 0,
+      "sha256": "c30c7573c4fe4e6c202bbede82d9979adbe6d76f0764d088fdb88cf8d1cc50ab"
+    },
+    {
+      "path": "02-state.jpg",
+      "seconds": 14,
+      "sha256": "5b0dde3991631795635dd07831a7a2122c9cfedd3a2318aa901fb6bb57ce9943"
+    },
+    {
+      "path": "03-state.jpg",
+      "seconds": 16.8,
+      "sha256": "b79ddff51491af499a383b455435c218c4aef8b192dd36b94e7860ba6eb1abaf"
+    },
+    {
+      "path": "04-state.jpg",
+      "seconds": 18,
+      "sha256": "26e0c143eb7024fc49507260bcd71d8eeea12251c6a093ee8980593c11f8cd89"
+    },
+    {
+      "path": "05-state.jpg",
+      "seconds": 22,
+      "sha256": "b90fc89f929ef8d4cd05d66f43546a5fb29e4c1e7612bc7f08d4b7e838bf6746"
+    },
+    {
+      "path": "06-state.jpg",
+      "seconds": 48,
+      "sha256": "2d718fce2b806101da63fe817ab3c61439fdbe4ec4dd1c318a2b2c884c2677ed"
+    }
+  ]
+}

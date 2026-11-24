@@ -6,17 +6,17 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-23T17:12:07.382395+00:00",
+  "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
   "coverage": {
-    "archive_files": 114,
-    "distinct_archive_status_ids": 911,
-    "design_candidates": 270,
+    "archive_files": 115,
+    "distinct_archive_status_ids": 920,
+    "design_candidates": 274,
     "decision_counts": {
-      "collected_or_merged": 163,
+      "collected_or_merged": 166,
       "not_selected": 92,
-      "pending_verification": 15
+      "pending_verification": 16
     },
-    "cards_referenced": 139,
+    "cards_referenced": 141,
     "full_archive_screening_complete": true,
     "primary_verification_complete": false,
     "limitation": "彙總摘要僅作發現線索；初篩無具體產品介面設計內容的帖子不逐條公開其收藏紀錄。原文或素材未取得者保留缺漏，不代表沒有價值。歷史彙總不等同完整 X 點讚或收藏匯出。"
@@ -477,6 +477,10 @@
     {
       "filename": "X-2026-11-23.md",
       "sha256": "6ef23b10b017870d381be49a314d0740abecddae8193895c302785ac83ca1e66"
+    },
+    {
+      "filename": "X-2026-11-24.md",
+      "sha256": "e2dc93b3ca6ecf9156f5190ab9fd174436c2bc96f5017f27430480012867c4de"
     }
   ],
   "processed_posts": {
@@ -3923,22 +3927,24 @@
       "cards": [],
       "verification": "archive_discovery_only",
       "missing": [
-        "primary_media: 已恢復公開短文；Alma 遠端控制示範影片未核對"
+        "primary_media: 完整公開原文確認為 Alma 手機遠端控制桌面端示範；官方 720x1562 影片 HTTP 403，互動未核對"
       ],
       "note": [
         "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
         "images: 官方公開來源無法取得原帖素材"
       ],
       "latest_retry": {
+        "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
         "attempts": 1,
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2106255245861167371&lang=en&token=0",
-        "checked_at_utc": "2026-11-23T17:06:21.652426+00:00",
-        "text_complete": true,
+        "method": "official_ssr_via_fetch_py",
+        "source_url": "https://x.com/yetone/status/2106255245861167371",
         "result_type": "Tweet",
-        "notice": "公開 syndication 已可讀；缺漏重新記錄，未沿用限制可見的舊結論。"
+        "text_complete": true,
+        "media_inspected": false,
+        "media_result": "HTTP 403",
+        "notice": "完整公開原文可讀，但關鍵素材仍不可取得；維持 pending。"
       },
-      "checked_at_utc": "2026-11-23T17:09:07.389439+00:00"
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00"
     },
     "2116198373040759107": {
       "url": "https://x.com/Kubai087/status/2116198373040759107",
@@ -4170,7 +4176,10 @@
       ],
       "published_at": "2026-10-28T15:44:30+00:00",
       "verification": "official_public_post",
-      "note": "原盤點已有精確來源 ID；未修改卡片。"
+      "note": "原盤點已有精確來源 ID；未修改卡片。",
+      "missing": [
+        "compatibility: 11 月 23 日瀏覽器支援公告僅為作者當時說法；未查核官方支援文件或實機測試"
+      ]
     },
     "2114378773655326873": {
       "url": "https://x.com/Kubai087/status/2114378773655326873",
@@ -4602,7 +4611,8 @@
       "note": "原文是萬人關注里程碑，引用的雜誌式教程網頁已收錄；沒有新增設計內容。",
       "missing": [
         "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ]
     },
     "2120113564761673729": {
@@ -4683,7 +4693,8 @@
       "note": "原盤點已有精確來源 ID；未修改卡片。",
       "missing": [
         "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ]
     },
     "2120320609255043510": {
@@ -4973,7 +4984,8 @@
       "note": "與Kubai來源共用已核對教程站卡片；僅補充發布來源，不重複建卡。",
       "missing": [
         "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ],
       "published_at": "2026-11-18T14:12:52+00:00"
     },
@@ -4995,7 +5007,8 @@
       "note": "與Kubai來源共用已核對教程站卡片；僅補充發布來源，不重複建卡。",
       "missing": [
         "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ],
       "published_at": "2026-11-18T05:00:18+00:00"
     },
@@ -5332,14 +5345,25 @@
         "收藏"
       ],
       "published_at": "2026-11-22T09:38:17.606000+00:00",
-      "checked_at_utc": "2026-11-23T17:09:07.389439+00:00",
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
       "cards": [],
       "missing": [
-        "media: 官方原圖 HXuEZAua0AAj3D7.jpg HTTP 403；引用圖未核對"
+        "media: 官方原圖 HXuEZAua0AAj3D7.jpg 本次仍 HTTP 403；引用圖未核對"
       ],
       "decision": "pending_verification",
       "verification": "official_ssr_full_note",
-      "note": "完整原帖為 fast-anything 性能工具，與彙總所述 RAEA 有差異；原圖 HTTP 403，未以缺圖或摘要作排除。"
+      "note": "完整原帖為 fast-anything 性能工具，與彙總所述 RAEA 有差異；原圖 HTTP 403，未以缺圖或摘要作排除。",
+      "latest_retry": {
+        "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+        "attempts": 1,
+        "method": "official_ssr_via_fetch_py",
+        "source_url": "https://x.com/mingzi206/status/2124437302068011026",
+        "result_type": "Tweet",
+        "text_complete": true,
+        "media_inspected": false,
+        "media_result": "HTTP 403",
+        "notice": "完整公開原文可讀，但關鍵素材仍不可取得；維持 pending。"
+      }
     },
     "2124442800930591106": {
       "url": "https://x.com/GitHub_Daily/status/2124442800930591106",
@@ -5380,7 +5404,120 @@
       ],
       "missing": [
         "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
+      ]
+    },
+    "2124798197008867685": {
+      "url": "https://x.com/abu_uiuxdesign/status/2124798197008867685",
+      "archive_files": [
+        "X-2026-11-24.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-24.md",
+          "value": "点赞"
+        }
+      ],
+      "published_at": "2026-11-23T09:32:21+00:00",
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+      "cards": [
+        "live-activity-stable-micro-status"
+      ],
+      "decision": "collected_or_merged",
+      "verification": "official_ssr_full_text_and_inspected_video",
+      "missing": [
+        "互動／上線：僅核對作者公開動態展示，未確認實際 App、系統 Live Activity 實作、點擊或背景更新行為"
+      ],
+      "note": "官方影片以 2 fps 抽樣逐張檢視，裁切保存三張；已去除人像、姓名、車牌、歷史與執行資訊，無原始影片留存。",
+      "media_review": {
+        "sampling_fps": 2,
+        "frames_inspected": 24,
+        "retained_frames": 3,
+        "privacy": "cropped_anonymous_design_regions",
+        "runtime_tested": false
+      }
+    },
+    "2124884172183683419": {
+      "url": "https://x.com/Lakr233/status/2124884172183683419",
+      "archive_files": [
+        "X-2026-11-24.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-24.md",
+          "value": "点赞"
+        }
+      ],
+      "published_at": "2026-11-23T15:13:59+00:00",
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+      "cards": [
+        "fuwang-chat-growing-response-scroll"
+      ],
+      "decision": "collected_or_merged",
+      "verification": "official_ssr_full_text_and_inspected_video",
+      "missing": [
+        "發布／互動：畫面側欄標示浮望，但原帖未交代正式產品或發布狀態；未操作 App，未核對手動捲動中斷跟隨、鍵盤與減少動態效果"
+      ],
+      "note": "官方影片以 2 fps 抽樣逐張檢視，裁切保存三張；已去除人像、姓名、車牌、歷史與執行資訊，無原始影片留存。",
+      "media_review": {
+        "sampling_fps": 2,
+        "frames_inspected": 47,
+        "retained_frames": 3,
+        "privacy": "cropped_anonymous_design_regions",
+        "runtime_tested": false
+      }
+    },
+    "2124846250826842387": {
+      "url": "https://x.com/Mileson07/status/2124846250826842387",
+      "archive_files": [
+        "X-2026-11-24.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-24.md",
+          "value": "点赞"
+        }
+      ],
+      "published_at": "2026-11-23T12:43:18+00:00",
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+      "cards": [],
+      "decision": "pending_verification",
+      "verification": "official_ssr_full_text",
+      "missing": [
+        "media: 官方原圖 HXz4J0zakAARcqe.jpg 與 name=orig 形式均 HTTP 403，未核對擴展介面"
+      ],
+      "note": "完整原文介紹一鍵發／One-Click Post 多平台發布，沒有足以取代附圖的布局或狀態細節；保留 pending，不把宣傳成效當作已驗證。"
+    },
+    "2124901875090968996": {
+      "url": "https://x.com/Kubai087/status/2124901875090968996",
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary_and_existing_case_media",
+      "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
+      "published_at": "2026-11-23T16:24:20+00:00",
+      "note": "本日收藏彙總的PWA來源與既有Kubai卡片共用；原帖重核，媒體細節見卡片11月23日四幀，不重複素材。",
+      "archive_files": [
+        "X-2026-11-24.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "cards": [
+        "kubai-magazine-design-notes"
+      ],
+      "missing": [
+        "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
+        "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+        "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ]
     }
   },
@@ -5399,7 +5536,8 @@
     "2115667965328977920",
     "2117442507306901741",
     "2123645210697884105",
-    "2124437302068011026"
+    "2124437302068011026",
+    "2124846250826842387"
   ],
   "open_card_gaps": {
     "21st-component-discovery-preview-prompt": [
@@ -5492,6 +5630,9 @@
     "figma-ui-output-summary-and-details": [
       "figma: 未核對原檔圖層、可編輯性或轉換速度"
     ],
+    "fuwang-chat-growing-response-scroll": [
+      "發布／互動：畫面側欄標示浮望，但原帖未交代正式產品或發布狀態；未操作 App，未核對手動捲動中斷跟隨、鍵盤與減少動態效果"
+    ],
     "gesture-sheet-momentum-rubberband": [
       "parameters: 原帖影片未提供速度門檻與彈簧參數"
     ],
@@ -5516,6 +5657,9 @@
     "kami-content-first-document-hierarchy": [
       "comparison: 未取得完整前後版本與閱讀測試"
     ],
+    "kubai-999-004-nested-continuous-corners": [
+      "compatibility: 11 月 23 日瀏覽器支援公告僅為作者當時說法；未查核官方支援文件或實機測試"
+    ],
     "kubai-999-006-book-card": [
       "primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充"
     ],
@@ -5537,7 +5681,8 @@
     ],
     "kubai-magazine-design-notes": [
       "copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功",
-      "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取"
+      "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
+      "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
     ],
     "kubai-slowed-ui-microfeedback": [
       "attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作",
@@ -5548,6 +5693,9 @@
     ],
     "liquid-gooey-detached-control-motion": [
       "產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品"
+    ],
+    "live-activity-stable-micro-status": [
+      "互動／上線：僅核對作者公開動態展示，未確認實際 App、系統 Live Activity 實作、點擊或背景更新行為"
     ],
     "llm-wiki-file-skill-chat-context": [
       "行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範"
@@ -5650,20 +5798,22 @@
   "next_run": [
     "唯讀重掃新增或變更的 X-*.md。",
     "保留 pending，不將刪帖、限制存取或截斷證據當成最終排除。",
-    "2026-11-22 三個 deferred_to_main ID 尚待主線補 saved attribution；不得因檔案 hash 已更新而遺漏。"
+    "2026-11-24 Kubai PWA 2124901875090968996 交主線補 saved attribution；原始來源欄為「点赞」，不可因 archive hash 已更新而跳過。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-23T17:09:07.389439+00:00",
-    "requested": 14,
+    "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+    "requested": 2,
+    "source_ids": [
+      "2106255245861167371",
+      "2124437302068011026"
+    ],
     "max_attempts_per_id": 1,
     "result_types": {
-      "TweetTombstone": 7,
-      "Tweet": 7
+      "Tweet": 2
     },
     "resolved": 0,
-    "remaining_pending": 15,
-    "restored_public_short_or_truncated_sources": 5,
-    "note": "一次官方 syndication 有界重試；文章、引用鏈或關鍵媒體缺漏仍保留 pending。"
+    "remaining_pending": 16,
+    "note": "有界選查兩則已有公開內容來源；官方 SSR 全文可讀，但一則影片、一則圖片仍 403，其餘 13 則歷史 pending 本次未重查。"
   },
   "incremental_screening": [
     {
@@ -5787,6 +5937,38 @@
       "cards_merged": 0,
       "pending_verification": 1,
       "basis": "12 則增量摘要初篩；6 則非 Kubai 設計候選核對官方原文，3 張新卡、2 則無新增介面方法不收錄、1 則缺關鍵圖片保留 pending。5 則非設計摘要不加入公開候選台帳；Kubai 交主線。"
+    },
+    {
+      "date": "2026-11-24",
+      "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+      "archive_files_hashed": 115,
+      "new_files": [
+        "X-2026-11-24.md"
+      ],
+      "changed_files": [],
+      "deleted_files": [],
+      "new_status_ids": [
+        "2124766150412407241",
+        "2124846250826842387",
+        "2124798197008867685",
+        "2124884172183683419",
+        "2124901875090968996",
+        "2124630542738202805",
+        "2124710259734536691",
+        "2124810088506597448",
+        "2124835639707463937"
+      ],
+      "posts_screened": 9,
+      "non_kubai_posts_screened": 8,
+      "design_candidates": 3,
+      "cards_created": 2,
+      "cards_merged": 1,
+      "pending_verification": 1,
+      "kubai_deferred_to_main": [],
+      "basis": "8 則非 Kubai 摘要初篩，3 則設計候選核對完整官方原文；兩段影片逐張檢視建立新卡，一則附圖 403 保留 pending。其餘 5 則為語言練習、CLI、支付與網路用途，未見具體介面設計線索。Kubai PWA來源已核對並併入既有共用卡片。",
+      "kubai_merged_by_main": [
+        "2124901875090968996"
+      ]
     }
   ]
 }

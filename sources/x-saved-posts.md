@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 114 份歷史彙總、911 個不同 status ID；台帳識別 270 則設計候選，共用來源以 status ID 查重。
+已初篩 115 份歷史彙總、920 個不同 status ID；台帳識別 274 則設計候選，共用來源以 status ID 查重。
 
-候選處理：163 則對應 139 張卡片，92 則不收錄，15 則待核對。卡片亦可能保留缺漏，見下表。
+候選處理：166 則對應 141 張卡片，92 則不收錄，16 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -182,6 +182,7 @@
 | [可編輯 Artifact：把測試結果與修改意見留在同一文件](../cases/editable-artifact-review-contract/case.md) | images: 原帖未附介面圖片；只能核實文字中的欄位與評註構想 |
 | [Fable 介面示範：以中性卡片與單一亮色統一多種控制項](../cases/fable-lime-ui-state-mosaic/case.md) | prompt: 原帖未提供生成方法或設計規格；runtime: 影片不能證明所有元件已實作可用 |
 | [UI 轉 Figma 示例：行動助手與管理首頁分開編排](../cases/figma-ui-output-summary-and-details/case.md) | figma: 未核對原檔圖層、可編輯性或轉換速度 |
+| [浮望示範：讓長篇回答成長時保留對話閱讀區](../cases/fuwang-chat-growing-response-scroll/case.md) | 發布／互動：畫面側欄標示浮望，但原帖未交代正式產品或發布狀態；未操作 App，未核對手動捲動中斷跟隨、鍵盤與減少動態效果 |
 | [手勢底部面板：讓拖曳、邊界與慣性使用同一套物理感](../cases/gesture-sheet-momentum-rubberband/case.md) | parameters: 原帖影片未提供速度門檻與彈簧參數 |
 | [gzh-design：以整套閱讀元件區分主題，而非只換色](../cases/gzh-design-theme-components-mobile-reading/case.md) | 平台保真：未實際貼入公眾號編輯器驗證 |
 | [Hark：將對話與持續更新的資料卡並排](../cases/hark-chat-persistent-data-cards/case.md) | motion: 原帖僅取得靜態圖，無法核實所稱動效 |
@@ -190,16 +191,18 @@
 | [Ian 設計詞彙工具：選詞後切換兩種可見狀態](../cases/ian-design-terminology-comparison/case.md) | coverage: 未逐一驗證作者所稱首批 50 個示例；未操作複製功能、鍵盤操作與降低動效模式；未驗證與 denotes.dev 的部署關係 |
 | [iOS 狀態頁示例：以大數值、區間條與明細分級](../cases/ios-status-summary-card-hierarchy/case.md) | runtime: 未執行 App 或核對系統數值 |
 | [Kami：用字級、間距與淡分隔保留內容層級](../cases/kami-content-first-document-hierarchy/case.md) | comparison: 未取得完整前後版本與閱讀測試 |
+| [遞進圓角與連續曲率：先理順嵌套，再修飾輪廓](../cases/kubai-999-004-nested-continuous-corners/case.md) | compatibility: 11 月 23 日瀏覽器支援公告僅為作者當時說法；未查核官方支援文件或實機測試 |
 | [書頁式卡片：沿左側逐層翻開，保留原本占位](../cases/kubai-999-006-book-card/case.md) | primary-full-text: 官方完整長文暫不可讀，細節以 FxTwitter 展開內容補充 |
 | [999 小技巧 010：分層建立液態玻璃材質](../cases/kubai-999-010-liquid-glass/case.md) | prompt: 原帖稱隨附 Prompt，本次可讀正文未包含完整獨立 Prompt |
 | [枯白 012：讓訊息材質與對話動效使用同一套語言](../cases/kubai-999-012-message-bubble/case.md) | prompt: 原帖稱隨附 Prompt，公開主帖及回覆資料暫未取得獨立 Prompt |
 | [Kubai 圖標作品展示與工程檔贈送](../cases/kubai-icon-asset-release/case.md) | assets: 未收錄工程檔、領取結果與使用授權 |
 | [Kubai Icons 的圖標庫與風格一致生成工作流](../cases/kubai-icons-generation-workflow/case.md) | release: 雙色正式發布版本與 Skill 安裝／生成未驗證；本次引用帖及靜態截圖不能代替發布與執行驗收 |
 | [設計系統分層：從色彩變數一路維護到語義決策](../cases/kubai-layered-design-system/case.md) | images: 原帖為文字方法，沒有附帶介面圖片或影片；validation: 未附實際系統或前後效果，沒有可用性或維護成本的驗證 |
-| [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取 |
+| [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取；mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證 |
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [先改布局再補提示：把介面減法變成審稿規則](../cases/layout-before-helper-copy/case.md) | images: 原帖為文字指令，未附實際頁面的前後對照 |
 | [Liquid Gooey：以黏合與分離交代控制項的展開](../cases/liquid-gooey-detached-control-motion/case.md) | 產品上線狀態：僅核對公開元件示範，未執行元件或驗證正式產品 |
+| [Live Activity 概念：在固定小區域內持續更新狀態](../cases/live-activity-stable-micro-status/case.md) | 互動／上線：僅核對作者公開動態展示，未確認實際 App、系統 Live Activity 實作、點擊或背景更新行為 |
 | [llm_wiki：在聊天輸入處選擇檔案與技能並回看引用](../cases/llm-wiki-file-skill-chat-context/case.md) | 行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範 |
 | [Lumina 概念：用模式切換與剖面滑桿探索生物構造](../cases/lumina-creature-anatomy-cross-section/case.md) | accuracy: 生成的幻想生物未經解剖或教材精度核驗 |
 | [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | media: 原始高畫質影片下載不完整，改用官方 606×360 版本；裁圖小字辨識有限；verification: 未安裝麥田或發布助手，未驗證平台資料、轉化計算與實際發布行為 |
@@ -353,3 +356,21 @@ Ian 視覺層級 `2124008184063086861`（Kubai RT `2124008455245820268`）、既
 
 
 本日Kubai正式版來源已併入既有教程站卡片，保留點讚／收藏出處。本來源新增3張、補充1張共用卡片；14則歷史候選重查後保留未完成部分，再加1則缺圖候選，共15則待查。部分原文已恢復，缺漏已按本次實際結果更新，不沿用已失效的不可見理由。
+
+## 2026-11-24 增量檢查（saved-source 分工）
+
+唯讀比對 115 份 X-*.md SHA-256：只新增 X-2026-11-24.md，114 份舊檔未變，無刪除；新增 9 個 canonical status ID。8 則非 Kubai 摘要中有 3 則具體介面候選，其餘 5 則為語言練習、CLI 能力、購買／支付經驗及網路用途，未加入設計候選台帳。摘要僅作發現線索。
+
+- 新增 [Live Activity 固定狀態元件](../cases/live-activity-stable-micro-status/case.md)：官方影片 24 張取樣逐張檢視，保存 3 張匿名設計區影格；展示持續更新與固定槽位，未驗證實際 iOS 能力或正式上線。最高解析度影片 403，改用同一官方貼文列出的 960×720 版本成功核對。
+- 新增 [浮望長篇回答與捲動](../cases/fuwang-chat-growing-response-scroll/case.md)：官方影片 47 張取樣逐張檢視，保存 3 張回答區影格；未將平滑感當成幀率測量，也未推定自動捲動機制或發布狀態。
+- [一鍵發 2124846250826842387](https://x.com/Mileson07/status/2124846250826842387)：完整原文可讀；原圖與 name=orig 形式均 403，未取得關鍵介面圖片，新增 pending。
+- 有界重試 Alma `2106255245861167371` 與 fast-anything `2124437302068011026` 各一次官方 SSR：全文可讀，但影片／圖片仍 403，兩則維持 pending。其餘 13 則歷史 pending 未重試；目前共 16 則 pending。
+
+### 共用來源核對
+
+[Kubai PWA 更新 2124901875090968996](https://x.com/Kubai087/status/2124901875090968996)：摘要提及語言切換提示、行動底部導覽與閱讀改進。來源為 X-2026-11-24.md，原始來源欄精確為「点赞」。已核對官方同ID原文並併入既有教程站卡片，processed_posts 保留本日點讚來源，不重複建卡或下載相同素材。
+
+新增三則台帳的 saved_via 保留原始「点赞」，另存逐檔 saved_via_raw，不轉寫成「點讚」。六張保留圖片均只含設計區，去除聯絡人姓名、人像、車牌、歷史與底部執行資訊；沒有保存完整提示詞、原始影片或私人帳戶資料。未修改來源知識庫，提交推送結果以 Git 紀錄為準。此為內容／素材更新，未改應用功能，使用帳本一致性、連結與圖片驗證。結果見 /tmp/nov24-saved-results.json。
+
+
+2026-11-24主線核對完成：本來源新增2張，補充1張共用教程站卡片的點讚出處；新增一鍵發布缺圖候選，總計16則待查。兩則歷史候選原文可讀、媒體仍403；其餘未重試者保留原狀。來源知識庫115份SHA未變；未推進完整X帳戶覆蓋邊界。

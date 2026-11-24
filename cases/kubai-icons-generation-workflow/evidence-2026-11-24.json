@@ -1,0 +1,121 @@
+{
+  "collected_at": "2026-11-24",
+  "verification": "User-designated freshly fetched official X embedded Tweet payload at /tmp/qiuge-nov21/Kubai087.json; all four original photos visually inspected; video sampled every 2 seconds across entire duration and six retained frames inspected individually.",
+  "runtime_tested": false,
+  "posts": [
+    {
+      "id": "2125258824445743576",
+      "published_at": "2026-11-24T16:02:43+00:00"
+    }
+  ],
+  "media": [
+    {
+      "file": "14-site-color.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "4f22019440bd3ba83ea3665a6a97d08858b79984f0eb21b11bbdf5deee4a1c53",
+      "dimensions": [
+        1238,
+        1080
+      ],
+      "timestamp_seconds": 14,
+      "crop": [
+        250,
+        0,
+        1488,
+        1080
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    },
+    {
+      "file": "14-site-badges.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "53f256e0a849e0d010f83f0d429ac12892bb8d4aafbea8cd4903396e1145d3c7",
+      "dimensions": [
+        1488,
+        1080
+      ],
+      "timestamp_seconds": 20,
+      "crop": [
+        0,
+        0,
+        1488,
+        1080
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    },
+    {
+      "file": "14-site-copy-feedback.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "95a5e81f0eb9e5009c8b9cf86821a21bdb61f362adc6d63005998965b43d7997",
+      "dimensions": [
+        1488,
+        1080
+      ],
+      "timestamp_seconds": 34,
+      "crop": [
+        0,
+        0,
+        1488,
+        1080
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    },
+    {
+      "file": "14-site-size.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "c1eea576eb161bd1f2677fc08712182b92507ccd091957b0d072d5f2a5dd8f2b",
+      "dimensions": [
+        1410,
+        915
+      ],
+      "timestamp_seconds": 40,
+      "crop": [
+        0,
+        165,
+        1410,
+        1080
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    },
+    {
+      "file": "14-site-code.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "924867ab2850d6fe25659b374d2ffa29f29cd23f76a9e6f4498fc9548be47b17",
+      "dimensions": [
+        1488,
+        1055
+      ],
+      "timestamp_seconds": 46,
+      "crop": [
+        0,
+        25,
+        1488,
+        1080
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    },
+    {
+      "file": "14-site-categories.jpg",
+      "source_post": "2125258824445743576",
+      "sha256": "54c1f29b91369833ca8478dbefd09140fc800aa4dc96ec2e97e4045694efeb4a",
+      "dimensions": [
+        1168,
+        815
+      ],
+      "timestamp_seconds": 61,
+      "crop": [
+        180,
+        140,
+        1348,
+        955
+      ],
+      "source_url": "https://video.twimg.com/amplify_video/2125258400271630336/vid/avc1/1488x1080/dyD29Cf6conNOUYg.mp4?tag=29"
+    }
+  ],
+  "video_duration_seconds": 63.829333,
+  "video_dimensions": [
+    1488,
+    1080
+  ],
+  "raw_video_retained": false
+}

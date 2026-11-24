@@ -1,0 +1,96 @@
+{
+  "collected_at": "2026-11-24",
+  "verification": "Official X embedded Tweet payload; all four original photos individually inspected. No MONO video downloaded or reviewed.",
+  "runtime_tested": false,
+  "posts": [
+    {
+      "id": "2125262235161526327",
+      "published_at": "2026-11-24T16:16:16+00:00"
+    },
+    {
+      "id": "2125249215597347162",
+      "published_at": "2026-11-24T15:24:32+00:00"
+    }
+  ],
+  "quote_relationship": {
+    "2125262235161526327": "2125249215597347162"
+  },
+  "media": [
+    {
+      "file": "01-wallet-character.jpg",
+      "source_post": "2125262235161526327",
+      "sha256": "fe0d88e6b9f5321b82ddebf9a742525dbc4849891d426f8f3e9999d486c57e31",
+      "dimensions": [
+        2632,
+        2632
+      ],
+      "source_url": "https://pbs.twimg.com/media/HX5ypWta8AAI2oJ.jpg?format=jpg&name=orig",
+      "redactions": []
+    },
+    {
+      "file": "02-product-cover.jpg",
+      "source_post": "2125249215597347162",
+      "sha256": "76afed7fd17fdc1e18ebeb559d1d8da98b274e8b98243d84487595ef52d3a132",
+      "dimensions": [
+        2160,
+        2880
+      ],
+      "source_url": "https://pbs.twimg.com/media/HX5mwTdXgAAMWeS.jpg?format=jpg&name=orig",
+      "redactions": []
+    },
+    {
+      "file": "03-sentence-to-records.jpg",
+      "source_post": "2125249215597347162",
+      "sha256": "5828783f575fa51b0b08eb1552af091b75f90502b119727018e5403d82209043",
+      "dimensions": [
+        2160,
+        2880
+      ],
+      "source_url": "https://pbs.twimg.com/media/HX5mwTXXIAAbDtW.jpg?format=jpg&name=orig",
+      "redactions": [
+        [
+          1250,
+          1510,
+          1375,
+          1630
+        ],
+        [
+          1250,
+          2015,
+          1375,
+          2150
+        ],
+        [
+          1240,
+          2690,
+          1380,
+          2760
+        ]
+      ]
+    },
+    {
+      "file": "04-receipt-to-record.jpg",
+      "source_post": "2125249215597347162",
+      "sha256": "d4dcafe30ab850562ac8bd4e8b916dedd661210d0a2c7697246ff97c0e0b50ad",
+      "dimensions": [
+        2160,
+        2880
+      ],
+      "source_url": "https://pbs.twimg.com/media/HX5mwTYWYAA0OfH.jpg?format=jpg&name=orig",
+      "redactions": [
+        [
+          1245,
+          2370,
+          1380,
+          2510
+        ],
+        [
+          925,
+          1650,
+          1320,
+          1710
+        ]
+      ]
+    }
+  ]
+}
