@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
+  "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 119,
+    "case_count": 124,
     "series_cards": 24,
-    "other_cards": 95,
+    "other_cards": 100,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -202,11 +202,14 @@
           "x_id": "2114378773655326873"
         }
       ],
-      "limitation": "官網當前明列001–024，023／024已逐帖與素材核對；非完整X帳戶歷史。"
+      "limitation": "11月25日官方首頁仍明列024及001–024列表；既有逐帖映射保留其原核對時間，不宣稱完整X歷史或025未發布。",
+      "landing_rechecked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "landing_url": "https://vibedesign.tips/",
+      "landing_maximum_explicit_issue": "024"
     }
   },
   "media": {
-    "images": 607,
+    "images": 638,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -2776,16 +2779,145 @@
       "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
       "reason": "原作者MarkFonts曲率圖與引用對應，未作數學證明。",
       "card": "kubai-999-004-nested-continuous-corners"
+    },
+    "2125256598100840537": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T15:53:53+00:00",
+      "card": "ojo-agent-team-to-canvas-prototype"
+    },
+    "2125243729644748812": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T15:02:44+00:00",
+      "card": "ojo-agent-team-to-canvas-prototype"
+    },
+    "2125100456888381870": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T05:33:26+00:00",
+      "card": "peek-ui-component-gallery"
+    },
+    "2125093638044799197": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T05:06:20+00:00",
+      "card": "peek-ui-component-gallery"
+    },
+    "2124924634999222670": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-23T17:54:46+00:00",
+      "card": "monofactory-product-definition-design-build"
+    },
+    "2124918404234826226": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-23T17:30:01+00:00",
+      "card": "monofactory-product-definition-design-build"
+    },
+    "2125181381286510817": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T10:54:59+00:00",
+      "card": "katya-icon-portfolio-appearance-detail",
+      "quoted_original_id": "2125180314775674957"
+    },
+    "2125180314775674957": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T10:50:45+00:00",
+      "card": "katya-icon-portfolio-appearance-detail"
+    },
+    "2125185489644953813": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "官方原帖及作者素材逐張核對；採樣示範並標明未執行範圍。",
+      "published_at": "2026-11-24T11:11:19+00:00",
+      "card": "katya-icon-portfolio-appearance-detail"
+    },
+    "2125461223072485874": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "同一模糊輪廓與圓角容器的光學置中流程，新增量測與修正示範。",
+      "published_at": "2026-11-25T05:26:59+00:00",
+      "card": "kubai-optical-alignment-blur",
+      "quoted_original_id": "2125459492406186305"
+    },
+    "2125459492406186305": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "同一模糊輪廓與圓角容器的光學置中流程，新增量測與修正示範。",
+      "published_at": "2026-11-25T05:20:06+00:00",
+      "card": "kubai-optical-alignment-blur"
+    },
+    "2125451283175981343": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "確認卡的波浪掃過示範；觸發與跨頁結果未確認。",
+      "published_at": "2026-11-25T04:47:29+00:00",
+      "card": "peekdesign-wave-confirmation-transition",
+      "quoted_original_id": "2125362009948741757"
+    },
+    "2125362009948741757": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "確認卡的波浪掃過示範；觸發與跨頁結果未確認。",
+      "published_at": "2026-11-24T22:52:45+00:00",
+      "card": "peekdesign-wave-confirmation-transition"
+    },
+    "2125120825313677397": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "UI翻譯感想，未提供具體介面方案或設計流程。",
+      "published_at": "2026-11-24T06:54:22+00:00"
+    },
+    "2125568125697691887": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "使用者五星評論分享，未見具體UI/UX方法，不把口碑當效果證據。",
+      "published_at": "2026-11-25T12:31:46+00:00"
+    },
+    "2125490076264358374": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+      "reason": "系列曝光與推流感想，非新增設計方案。",
+      "published_at": "2026-11-25T07:21:38+00:00"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2125262235161526327",
-    "2125249215597347162",
-    "2125258824445743576",
-    "2125227849019994290",
-    "2125224225166524475",
-    "2125103398492221835"
+    "2125568125697691887",
+    "2125490076264358374",
+    "2125220063301271808",
+    "2125461223072485874",
+    "2125459492406186305",
+    "2125451283175981343",
+    "2125362009948741757"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -3017,6 +3149,18 @@
     "2124767634596212821": {
       "original_id": "2124763122548593109",
       "original_author": "VigoCreativeAI"
+    },
+    "2125256598100840537": {
+      "original_id": "2125243729644748812",
+      "original_author": "OJOaidesign"
+    },
+    "2125100456888381870": {
+      "original_id": "2125093638044799197",
+      "original_author": "PeekDesignn"
+    },
+    "2124924634999222670": {
+      "original_id": "2124918404234826226",
+      "original_author": "Yilin0x"
     }
   },
   "author_prompt_replies": {
@@ -3091,6 +3235,10 @@
     "jackywine-progressive-disclosure-briefing": [
       "images: 影片含個人筆記與對話，已檢視但不保存畫面",
       "verification: 短片不能驗證未回覆時停止推送的實際行為"
+    ],
+    "katya-icon-portfolio-appearance-detail": [
+      "live-site: 來源未附網站網址，未驗證正式上線、鍵盤及行動版操作",
+      "implementation: 未取得 Icon Composer 原檔或網站程式，tinted 製法僅由作者回覆確認"
     ],
     "kev-type-spacing-design-baselines": [
       "implementation: 未取得可執行頁面或樣式檔，無法驗證精確字級、間距及字重",
@@ -3217,6 +3365,11 @@
       "runtime: 未安裝產品；文字／語音／截圖解析、帳目儲存及修正流程未實測",
       "interaction: 靜態宣傳圖沒有展示輸入到結果的等待、錯誤與確認狀態"
     ],
+    "monofactory-product-definition-design-build": [
+      "creator: 原帖發布者可確認，實際介面設計與影片創作者未確認",
+      "usage: 僅觀察發布影片，未操作產品或驗證生成、構建、安裝、發布與分享",
+      "website: monofactory.ai 本次無法讀取"
+    ],
     "night-dial-day-night-toggle": [
       "product: 未核實此示範用於已上線產品；平台依網頁模板連結分類",
       "authorship: 已核實原始發文者，未獨立確認所有視覺素材的設計歸屬"
@@ -3224,6 +3377,17 @@
     "noax-peek-search-style-directions": [
       "verification: 僅觀察作者示範與公開首頁，未實際提交搜尋、生成或驗收 MCP",
       "mapping: Kubai RT 缺少直接 retweet-target 欄位，原帖對應由作者、正文前綴與同頁原帖交叉支持"
+    ],
+    "ojo-agent-team-to-canvas-prototype": [
+      "runtime: 僅官方展示，未驗證團隊執行與畫布編輯",
+      "plugin: 未安裝新插件，未驗證外部Agent連結專案、資料讀寫與原型生成"
+    ],
+    "peek-ui-component-gallery": [
+      "runtime: 未安裝元件、未驗證批准計時與真正工具執行；數量及Agent相容性為作者宣傳說明"
+    ],
+    "peekdesign-wave-confirmation-transition": [
+      "attribution: 原帖發布者為 PeekDesign，未確認實際動效設計者",
+      "verification: 僅檢視示範影片，未確認上線產品、完整跨頁流程、效能或減少動態效果設定"
     ],
     "ricoui-component-preview-install": [
       "操作驗證：未執行安裝、複製、鍵盤或減少動態效果測試"
@@ -3255,7 +3419,7 @@
     "Do not advance a global boundary after source access failures."
   ],
   "pending_source_checks": {},
-  "latest_discovery_index_total": 245,
+  "latest_discovery_index_total": 254,
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "ai-studio-refractive-app-icon",
@@ -3269,6 +3433,7 @@
     "ian-multi-option-interactive-prototypes",
     "iconswapper-live-dock-preview",
     "jackywine-progressive-disclosure-briefing",
+    "katya-icon-portfolio-appearance-detail",
     "kev-type-spacing-design-baselines",
     "kubai-999-001-tactile-buttons",
     "kubai-999-002-menu-safe-triangle",
@@ -3369,8 +3534,12 @@
     "kubai-zahra-ui-components",
     "medalsmith-onboarding",
     "mono-bookkeeping-conversation-cards",
+    "monofactory-product-definition-design-build",
     "night-dial-day-night-toggle",
     "noax-peek-search-style-directions",
+    "ojo-agent-team-to-canvas-prototype",
+    "peek-ui-component-gallery",
+    "peekdesign-wave-confirmation-transition",
     "ricoui-component-preview-install",
     "rune-aqua-themed-chat",
     "studio-vibe-design-comparison-workflow",
@@ -3378,15 +3547,15 @@
     "voiceinput-fn-agent-dictation"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
+    "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
     "status": "success_recent_sample_only",
-    "details": "官方近期樣本可讀；第三方索引最新245條停於11月23日。官網明列024，非完整X歷史。"
+    "details": "官方公開首頁為近期樣本；第三方索引254條（標示11月25日00:34更新），非完整帳戶。"
   },
   "historical_text_retry": {
-    "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
-    "003": "官方SSR完成但未返回Tweet payload；保留X全文缺漏。",
-    "006": "官方SSR完成但未返回Tweet payload；保留X全文缺漏。",
-    "021": "官方主帖可讀，未取得直接Prompt回覆；既有官網補充與缺漏保留。"
+    "checked_at_utc": "2026-11-25T17:10:19.021690+00:00",
+    "003": "官方SSR完成但未返回Tweet payload；保留原有X全文缺漏。",
+    "006": "官方SSR完成但未返回Tweet payload；保留原有X全文缺漏。",
+    "021": "官方主帖可讀但無直接Prompt回覆；保留缺漏，已有官網補充不冒充X回覆。"
   },
   "official_article_prompt_sources": {
     "022": {

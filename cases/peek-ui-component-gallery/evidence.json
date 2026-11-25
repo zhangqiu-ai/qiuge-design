@@ -1,0 +1,76 @@
+{
+  "original_status_id": "2125093638044799197",
+  "kubai_repost_id": "2125100456888381870",
+  "media_source": "https://video.twimg.com/amplify_video/2125093582948458496/vid/avc1/1280x720/mH6Dyp1MZdHRjZ0G.mp4?tag=14",
+  "retained": [
+    {
+      "path": "01-tool-approval.png",
+      "source_seconds": 6,
+      "crop_xyxy": [
+        883,
+        258,
+        1074,
+        428
+      ],
+      "redaction_rectangles_xyxy": [],
+      "sha256": "fd0774e345b94e2106b9f331f2969b3499c6691f56c0c864fd8f6ee93f924b09"
+    },
+    {
+      "path": "02-thinking-context.png",
+      "source_seconds": 10,
+      "crop_xyxy": [
+        220,
+        48,
+        1084,
+        640
+      ],
+      "redaction_rectangles_xyxy": [
+        [
+          427,
+          182,
+          580,
+          210
+        ],
+        [
+          656,
+          268,
+          835,
+          290
+        ],
+        [
+          888,
+          178,
+          1082,
+          225
+        ],
+        [
+          885,
+          523,
+          1082,
+          578
+        ]
+      ],
+      "sha256": "2ca0c17a13267b228462f72acd43089dae891cdaa609c9d4c779eea67a10e5b5"
+    },
+    {
+      "path": "03-sources-tools.png",
+      "source_seconds": 12,
+      "crop_xyxy": [
+        220,
+        48,
+        1084,
+        640
+      ],
+      "redaction_rectangles_xyxy": [
+        [
+          879,
+          196,
+          1028,
+          214
+        ]
+      ],
+      "sha256": "ad7c0ed4ad0d2e8366b6bfea91ee33a6f307c2f95373e7e3758c46d21cc9c4aa"
+    }
+  ],
+  "raw_video_retained": false
+}

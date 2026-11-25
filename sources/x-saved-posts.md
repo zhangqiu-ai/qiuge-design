@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 115 份歷史彙總、920 個不同 status ID；台帳識別 274 則設計候選，共用來源以 status ID 查重。
+已初篩 116 份歷史彙總、926 個不同 status ID；台帳識別 277 則設計候選，共用來源以 status ID 查重。
 
-候選處理：166 則對應 141 張卡片，92 則不收錄，16 則待核對。卡片亦可能保留缺漏，見下表。
+候選處理：169 則對應 144 張卡片，93 則不收錄，15 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -14,6 +14,9 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Alma 手機 Agent：在原生對話與遠端終端之間切換](../cases/alma-mobile-agent-native-remote-views/case.md) | navigation, ai-chat, content-editing |
+| [元件工作台：把風格、畫幅與動效播放放在同一預覽](../cases/guizang-component-motion-workbench/case.md) | content-editing, visual, feedback |
+| [Claude artifact：從內容選單安裝成獨立桌面視窗](../cases/claude-artifact-install-as-desktop-app/case.md) | permissions, content-editing, feedback |
 | [21st 元件探索：由分類網格進入聚焦預覽與提示詞複用](../cases/21st-component-discovery-preview-prompt/case.md) | search, content-editing |
 | [Agent 通知需求：依嚴重程度升級觸達方式](../cases/agent-notification-severity-routing/case.md) | feedback |
 | [Agent 工作區：依主要操作者配置中央內容](../cases/agent-primary-vs-editor-primary-workspace/case.md) | ai-chat, content-editing |
@@ -157,6 +160,7 @@
 | [Agent 通知需求：依嚴重程度升級觸達方式](../cases/agent-notification-severity-routing/case.md) | images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察 |
 | [Agent 工作區：依主要操作者配置中央內容](../cases/agent-primary-vs-editor-primary-workspace/case.md) | usability: 未做兩種配置的任務比較 |
 | [AI 介面文案：把說明限制在完成任務所需的資訊](../cases/agent-ui-copy-essential-information/case.md) | images：原貼文無圖片或示範介面；成效：未提供文案前後對照或測試 |
+| [Alma 手機 Agent：在原生對話與遠端終端之間切換](../cases/alma-mobile-agent-native-remote-views/case.md) | 互動驗證：僅觀察作者影片；未操作 App、測試連線切換、端到端加密、圖片傳輸或實際發送指令 |
 | [App 圖標圖庫：用展示層架、詳情頁與色彩索引串連探索](../cases/app-icon-shelf-detail-color-index/case.md) | 來源識別：圖庫品牌未由原文確認；素材授權未核對 |
 | [App shell：固定側欄開關，讓動態分頁自行調整](../cases/app-shell-stable-sidebar-toggle/case.md) | 互動驗證：僅核對作者公開示範，未操作元件、測試鍵盤／窄視窗或量測動畫參數；未確認正式發布 |
 | [狀態圖標分析：以負空間與縮小檢視校正視覺重量](../cases/apple-status-icon-optical-balance-analysis/case.md) | 官方設計證據：文章為作者重繪與分析，未確認 Apple 原稿或上線產品；文章素材：08、14、17 號來源下載回應 404；本卡所引六圖皆已取得並檢視 |
@@ -171,6 +175,7 @@
 | [通話預約概念：日期、時段與聯絡資料逐步展開](../cases/call-booking-progressive-slot-picker/case.md) | runtime: 概念動畫未驗證時區、占位衝突與寄信 |
 | [細胞結構原型：模型、細胞器說明與比較入口分區](../cases/cell-architecture-model-exploration/case.md) | accuracy: 教學精度未核驗，作者亦明說僅前兩個模型完成 |
 | [ChunUI：用元件示例與能力表交代主題和狀態](../cases/chunui-component-demo-catalog/case.md) | device: 未安裝 Demo 或驗證真機及訂閱流程 |
+| [Claude artifact：從內容選單安裝成獨立桌面視窗](../cases/claude-artifact-install-as-desktop-app/case.md) | 互動驗證：僅核對官方 beta 示範；未實際安裝、測試 Windows、連接器、通知、選單列或權限拒絕流程 |
 | [修改方案審查：把改什麼、結果與位置放在同一列](../cases/codex-change-proposal-comparison-table/case.md) | images: 原帖未附表格範例，僅可核對文字建議 |
 | [Codex 內嵌預覽：讓執行結果留在對話脈絡內](../cases/codex-inline-browser-task-preview/case.md) | 互動驗證：單張公開截圖，未測試內嵌瀏覽器 |
 | [Codex 規劃提問：在選項旁直接說明範圍與代價](../cases/codex-planning-choice-question-card/case.md) | 互動驗證：單張圖未核實複選、鍵盤或跳過後行為 |
@@ -184,6 +189,7 @@
 | [UI 轉 Figma 示例：行動助手與管理首頁分開編排](../cases/figma-ui-output-summary-and-details/case.md) | figma: 未核對原檔圖層、可編輯性或轉換速度 |
 | [浮望示範：讓長篇回答成長時保留對話閱讀區](../cases/fuwang-chat-growing-response-scroll/case.md) | 發布／互動：畫面側欄標示浮望，但原帖未交代正式產品或發布狀態；未操作 App，未核對手動捲動中斷跟隨、鍵盤與減少動態效果 |
 | [手勢底部面板：讓拖曳、邊界與慣性使用同一套物理感](../cases/gesture-sheet-momentum-rubberband/case.md) | parameters: 原帖影片未提供速度門檻與彈簧參數 |
+| [元件工作台：把風格、畫幅與動效播放放在同一預覽](../cases/guizang-component-motion-workbench/case.md) | 互動驗證：只有作者公開截圖，未操作工作台、驗證參數、匯出或正式發布；不能從截圖推定點陣動畫過程 |
 | [gzh-design：以整套閱讀元件區分主題，而非只換色](../cases/gzh-design-theme-components-mobile-reading/case.md) | 平台保真：未實際貼入公眾號編輯器驗證 |
 | [Hark：將對話與持續更新的資料卡並排](../cases/hark-chat-persistent-data-cards/case.md) | motion: 原帖僅取得靜態圖，無法核實所稱動效 |
 | [HeroUI 主題示範：以固定元件樣本對照風格與明暗](../cases/heroui-theme-shared-specimen-light-dark/case.md) | verification: 未安裝 Skill、未驗證樣式生成與可及性；僅觀察示範 |
@@ -211,7 +217,7 @@
 | [Morphicons：在同一預覽位置比較圖標變形與彈性](../cases/morphicons-icon-transition-playground/case.md) | package: 未核對套件體積、演算法與無依賴聲明 |
 | [Motion 術語短片：情境、名稱與示例同屏對照](../cases/motion-taxonomy-labeled-examples/case.md) | parameters: 原帖未提供逐項曲線、時長與互動程式 |
 | [Muse Charm 概念硬體：以輕觸啟動對話](../cases/muse-charm-touch-conversation-entry/case.md) | images: 已下載並檢視原帖影片四張影格，但均為舞台演說或大會標誌，未顯示本文硬體操作，故不作介面證據；verification: 硬體發布資訊未以 Meta 官方消息獨立核實 |
-| [OJO 展示：把團隊能力、需求稿與裝置預覽接成流程](../cases/ojo-agent-team-to-canvas-prototype/case.md) | runtime: 僅官方展示，未驗證團隊執行與畫布編輯 |
+| [OJO 展示：把團隊能力、需求稿與裝置預覽接成流程](../cases/ojo-agent-team-to-canvas-prototype/case.md) | runtime: 僅官方展示，未驗證團隊執行與畫布編輯；plugin: 未安裝新插件，未驗證外部Agent連結專案、資料讀寫與原型生成 |
 | [OpenMotion：從模板預覽銜接到可編輯時間軸](../cases/openmotion-template-preview-studio/case.md) | 互動驗證：僅觀察作者發布影片，未執行模板重建、時間軸編輯或匯出；不採信宣傳中的還原率 |
 | [pi Generative UI：逐步呈現資料卡，再補入圖表與表格](../cases/pi-generative-ui-progressive-widget-render/case.md) | runtime: 僅核對作者文章與動圖，未執行擴充 |
 | [作品集概念：以黑白留白與產品截圖建立作品敘事](../cases/portfolio-monochrome-product-proof-layout/case.md) | 交付驗證：僅為生成案例圖，未開啟或操作作品集 |
@@ -242,16 +248,18 @@
 | [X 2067039941960327204](https://x.com/dotey/status/2067039941960327204) | X-2026-07-30.md, X-2026-08-04.md | primary_text；primary_media |
 | [X 2088093704376762378](https://x.com/IndieDevHailey/status/2088093704376762378) | X-2026-08-17.md | 官方 syndication TweetTombstone：This Post is from a suspended account. |
 | [X 2103327328420217240](https://x.com/Lakr233/status/2103327328420217240) | X-2026-09-30.md | primary_text；primary_media |
-| [X 2055980925452968351](https://x.com/MinLiBuilds/status/2055980925452968351) | X-2026-07-05.md | primary_article_text |
+| [X 2055980925452968351](https://x.com/MinLiBuilds/status/2055980925452968351) | X-2026-07-05.md | primary_article_text: 官方回傳仍只有文章預覽，未取得全文 |
 | [X 2088566304777048130](https://x.com/SevenXL77/status/2088566304777048130) | X-2026-08-17.md | primary_text；primary_media |
 | [X 2088566363107242092](https://x.com/SevenXL77/status/2088566363107242092) | X-2026-08-17.md | verification: X 原頁 404；官方 syndication 回傳 TweetTombstone，明示原作者刪帖，無法確認原文方法 |
-| [X 2089329138406760639](https://x.com/yetone/status/2089329138406760639) | X-2026-08-18.md | 官方 syndication TweetTombstone：account owner limits who can view their Posts. |
-| [X 2106394380299022620](https://x.com/yetone/status/2106394380299022620) | X-2026-10-04.md | original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。；images: 官方公開來源無法取得原帖素材 |
-| [X 2106255245861167371](https://x.com/yetone/status/2106255245861167371) | X-2026-10-04.md | original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。；images: 官方公開來源無法取得原帖素材 |
-| [X 2115516478254624914](https://x.com/yetone/status/2115516478254624914) | X-2026-11-01.md | original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。；images: 官方公開來源無法取得原帖素材 |
-| [X 2114624187449127136](https://x.com/yetone/status/2114624187449127136) | X-2026-11-01.md | original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。；images: 官方公開來源無法取得原帖素材 |
+| [X 2089329138406760639](https://x.com/yetone/status/2089329138406760639) | X-2026-08-18.md | primary_source: 已恢復公開短文，但 Cumora 連結內的介面與素材尚未核對 |
+| [X 2106394380299022620](https://x.com/yetone/status/2106394380299022620) | X-2026-10-04.md | primary_source: 已恢復公開短文；dynamic widgets 引用來源及互動素材未核對 |
+| [X 2106255245861167371](https://x.com/yetone/status/2106255245861167371) | X-2026-10-04.md | primary_media: 完整公開原文確認為 Alma 手機遠端控制桌面端示範；官方 720x1562 影片 HTTP 403，互動未核對 |
 | [X 2115667965328977920](https://x.com/dotey/status/2115667965328977920) | X-2026-11-01.md | original: 官方 syndication 明確回覆原作者已刪除。；images: 官方公開來源無法取得原帖素材 |
 | [X 2117442507306901741](https://x.com/dotey/status/2117442507306901741) | X-2026-11-03.md | original: 官方 syndication 明確回覆原作者已刪除。；images: 官方公開來源無法取得原帖素材 |
+| [X 2123645210697884105](https://x.com/xiaohu/status/2123645210697884105) | X-2026-11-22.md | media: 官方圖片 HXiyk-8bEAADkP-.jpg、HXiyo6xbQAAAfTs.jpg 回應 403；media: 跨文件引用示範影片未核對 |
+| [X 2124437302068011026](https://x.com/mingzi206/status/2124437302068011026) | X-2026-11-23.md | media: 官方原圖 HXuEZAua0AAj3D7.jpg 本次仍 HTTP 403；引用圖未核對 |
+| [X 2124846250826842387](https://x.com/Mileson07/status/2124846250826842387) | X-2026-11-24.md | media: 官方原圖 HXz4J0zakAARcqe.jpg 與 name=orig 形式均 HTTP 403，未核對擴展介面 |
+| [X 2124087160907403401](https://x.com/dashiAIxz/status/2124087160907403401) | X-2026-11-25.md | primary_article_text: 官方原帖可讀，ArticleEntity 僅含標題與預覽；直接文章頁未提供可讀全文；primary_media: 未取得文章內完整素材，無法判斷是否有具體產品介面流程 |
 
 未選入的設計相關候選與理由保留在 JSON；一般程式開發、模型／架構新聞、促銷及純影像創作未做成設計卡片。
 
@@ -374,3 +382,15 @@ Ian 視覺層級 `2124008184063086861`（Kubai RT `2124008455245820268`）、既
 
 
 2026-11-24主線核對完成：本來源新增2張，補充1張共用教程站卡片的點讚出處；新增一鍵發布缺圖候選，總計16則待查。兩則歷史候選原文可讀、媒體仍403；其餘未重試者保留原狀。來源知識庫115份SHA未變；未推進完整X帳戶覆蓋邊界。
+
+## 2026-11-25 增量檢查（saved-source 分工）
+
+唯讀比對 116 份封存 SHA-256：只有 X-2026-11-25.md 新增，原有 115 份未變或刪除。六則摘要有三則具體或待核實設計線索；其餘為設備工具、雲端網路及模組整理，不加入公開設計候選。沒有新增 Kubai 來源 ID；未修改 Kubai 卡片或台帳。
+
+- [Claude 桌面安裝](../cases/claude-artifact-install-as-desktop-app/case.md)：官方影片觀察選單、確認框與獨立視窗，保存三張裁切影格；去除完整提示文字，未操作安裝或授權。
+- [元件動效工作台](../cases/guizang-component-motion-workbench/case.md)：核對官方單圖，保存一張設計區；明暗、畫幅、播放速度與參數為可見控制，不推定已可用。
+- `2124087160907403401`：官方原帖及文章預覽可讀，文章頁沒有可讀全文；新增 pending，不從預覽或回覆推定教學內容。
+- 歷史 `2115516478254624914`：完整原文及官方影片恢復可讀，六張取樣逐張檢視，新增 [Alma 手機 Agent](../cases/alma-mobile-agent-native-remote-views/case.md)，保存三張去除任務、路徑與內容的設計區。沒有驗證網路、加密或實際操作。
+- 歷史 `2114624187449127136`：完整原文及附圖可讀，確認是 CLI 權限及內部提示比較，無具體介面做法，不收錄、不保存提示圖片。
+
+兩則歷史 pending 各一次官方重試，均解除待查；其餘 14 則歷史 pending 未重試，加上本日文章共 15 則。共新增三張卡片、保留七張圖片，無既有卡片改寫。僅刪除本次下載的兩個暫存原始影片，歷史素材保留。未修改 KB／記憶／排程，提交與推送結果以 Git 紀錄為準。本次為案例內容與素材更新，無應用功能變動，以台帳、圖片、來源雜湊與範圍檢查驗證。結果見 `/tmp/nov25-saved-results.json`。

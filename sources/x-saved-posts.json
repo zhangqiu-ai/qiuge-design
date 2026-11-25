@@ -6,17 +6,17 @@
     "host_id": "local",
     "thread_id": "01a04fc1-5213-78a1-9826-02b51ba41f9d"
   },
-  "checked_at_utc": "2026-11-24T17:07:04.067674+00:00",
+  "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
   "coverage": {
-    "archive_files": 115,
-    "distinct_archive_status_ids": 920,
-    "design_candidates": 274,
+    "archive_files": 116,
+    "distinct_archive_status_ids": 926,
+    "design_candidates": 277,
     "decision_counts": {
-      "collected_or_merged": 166,
-      "not_selected": 92,
-      "pending_verification": 16
+      "collected_or_merged": 169,
+      "not_selected": 93,
+      "pending_verification": 15
     },
-    "cards_referenced": 141,
+    "cards_referenced": 144,
     "full_archive_screening_complete": true,
     "primary_verification_complete": false,
     "limitation": "彙總摘要僅作發現線索；初篩無具體產品介面設計內容的帖子不逐條公開其收藏紀錄。原文或素材未取得者保留缺漏，不代表沒有價值。歷史彙總不等同完整 X 點讚或收藏匯出。"
@@ -481,6 +481,10 @@
     {
       "filename": "X-2026-11-24.md",
       "sha256": "e2dc93b3ca6ecf9156f5190ab9fd174436c2bc96f5017f27430480012867c4de"
+    },
+    {
+      "filename": "X-2026-11-25.md",
+      "sha256": "a1a920eb7eb4287f246fa36b3e9977282ddc1069c3323e1cd0c308ffbcbad630"
     }
   ],
   "processed_posts": {
@@ -2726,7 +2730,8 @@
       "published_at": "2026-08-18T15:11:09+00:00",
       "verification": "official_public_post",
       "missing": [
-        "runtime: 僅官方展示，未驗證團隊執行與畫布編輯"
+        "runtime: 僅官方展示，未驗證團隊執行與畫布編輯",
+        "plugin: 未安裝新插件，未驗證外部Agent連結專案、資料讀寫與原型生成"
       ]
     },
     "2088112695841333315": {
@@ -3975,27 +3980,42 @@
         "收藏",
         "點讚"
       ],
-      "decision": "pending_verification",
-      "cards": [],
-      "verification": "archive_discovery_only",
+      "decision": "collected_or_merged",
+      "cards": [
+        "alma-mobile-agent-native-remote-views"
+      ],
+      "verification": "official_ssr_full_note",
       "missing": [
-        "primary_text: 官方 syndication 正文截斷",
-        "primary_media: 關鍵圖片／影片未完整核對"
+        "互動驗證：僅觀察作者影片；未操作 App、測試連線切換、端到端加密、圖片傳輸或實際發送指令"
       ],
-      "note": [
-        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
-        "images: 官方公開來源無法取得原帖素材"
-      ],
+      "note": "六張影片取樣已逐張檢視，保留三張匿名設計區；未驗證 App 執行、網路或安全聲明。",
       "latest_retry": {
+        "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
         "attempts": 1,
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2115516478254624914&lang=en&token=0",
-        "checked_at_utc": "2026-11-23T17:06:22.199966+00:00",
-        "text_complete": false,
+        "method": "official_ssr_via_fetch_py",
+        "source_url": "https://x.com/yetone/status/2115516478254624914",
         "result_type": "Tweet",
-        "notice": "公開 syndication 已可讀；缺漏重新記錄，未沿用限制可見的舊結論。"
+        "text_complete": true,
+        "media_inspected": true,
+        "media_result": "HTTP 200",
+        "notice": "完整 NoteTweet 與官方素材均已核對；更正舊限制可見／截斷紀錄。"
       },
-      "checked_at_utc": "2026-11-23T17:09:07.389439+00:00"
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
+      "media_verification": {
+        "type": "video",
+        "personally_inspected": true,
+        "sample_seconds": [
+          1,
+          10,
+          20,
+          30,
+          40,
+          52
+        ],
+        "retained_frames": 3,
+        "source": "official_post_media_entities2"
+      },
+      "published_at": "2026-10-28T18:50:07+00:00"
     },
     "2115106690836435400": {
       "url": "https://x.com/sundyme/status/2115106690836435400",
@@ -4023,27 +4043,23 @@
         "收藏",
         "點讚"
       ],
-      "decision": "pending_verification",
+      "decision": "not_selected",
       "cards": [],
-      "verification": "archive_discovery_only",
-      "missing": [
-        "primary_text: 官方 syndication 正文截斷",
-        "primary_media: 關鍵圖片／影片未完整核對"
-      ],
-      "note": [
-        "original: 官方 syndication 明確回覆作者限制可見對象；停止存取，不繞過。",
-        "images: 官方公開來源無法取得原帖素材"
-      ],
+      "verification": "official_ssr_full_note",
+      "missing": [],
+      "note": "完整原文與附圖為 CLI 權限參數和內部提示文字比較，沒有產品介面布局、狀態或互動流程；不複製提示文字、不建卡。",
       "latest_retry": {
+        "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
         "attempts": 1,
-        "method": "official_syndication",
-        "source_url": "https://cdn.syndication.twimg.com/tweet-result?id=2114624187449127136&lang=en&token=0",
-        "checked_at_utc": "2026-11-23T17:06:23.815804+00:00",
-        "text_complete": false,
+        "method": "official_ssr_via_fetch_py",
+        "source_url": "https://x.com/yetone/status/2114624187449127136",
         "result_type": "Tweet",
-        "notice": "公開 syndication 已可讀；缺漏重新記錄，未沿用限制可見的舊結論。"
+        "text_complete": true,
+        "media_inspected": true,
+        "media_result": "HTTP 200",
+        "notice": "完整 NoteTweet 與官方素材均已核對；更正舊限制可見／截斷紀錄。"
       },
-      "checked_at_utc": "2026-11-23T17:09:07.389439+00:00"
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00"
     },
     "2113244957305933920": {
       "url": "https://x.com/1ittlecup/status/2113244957305933920",
@@ -5519,6 +5535,110 @@
         "export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取",
         "mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證"
       ]
+    },
+    "2125315491522650299": {
+      "url": "https://x.com/ClaudeDevs/status/2125315491522650299",
+      "archive_files": [
+        "X-2026-11-25.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-25.md",
+          "value": "点赞"
+        }
+      ],
+      "published_at": "2026-11-24T19:47:54+00:00",
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
+      "verification": "official_ssr_full_text",
+      "cards": [
+        "claude-artifact-install-as-desktop-app"
+      ],
+      "decision": "collected_or_merged",
+      "missing": [
+        "互動驗證：僅核對官方 beta 示範；未實際安裝、測試 Windows、連接器、通知、選單列或權限拒絕流程"
+      ],
+      "media_verification": {
+        "type": "video",
+        "personally_inspected": true,
+        "retained_frames": 3,
+        "sample_seconds": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          16,
+          21,
+          26
+        ],
+        "source": "official_post_media_entities2"
+      }
+    },
+    "2125240569391886799": {
+      "url": "https://x.com/op7418/status/2125240569391886799",
+      "archive_files": [
+        "X-2026-11-25.md"
+      ],
+      "saved_via": [
+        "点赞"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-25.md",
+          "value": "点赞"
+        }
+      ],
+      "published_at": "2026-11-24T14:50:11+00:00",
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
+      "verification": "official_ssr_full_text",
+      "cards": [
+        "guizang-component-motion-workbench"
+      ],
+      "decision": "collected_or_merged",
+      "missing": [
+        "互動驗證：只有作者公開截圖，未操作工作台、驗證參數、匯出或正式發布；不能從截圖推定點陣動畫過程"
+      ],
+      "media_verification": {
+        "type": "photo",
+        "personally_inspected": true,
+        "retained_frames": 1,
+        "sample_seconds": [],
+        "source": "official_post_media_entities2"
+      }
+    },
+    "2124087160907403401": {
+      "url": "https://x.com/dashiAIxz/status/2124087160907403401",
+      "archive_files": [
+        "X-2026-11-25.md"
+      ],
+      "saved_via": [
+        "点赞",
+        "收藏"
+      ],
+      "saved_via_raw": [
+        {
+          "archive_file": "X-2026-11-25.md",
+          "value": "点赞、收藏"
+        }
+      ],
+      "published_at": "2026-11-21T10:26:57+00:00",
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
+      "verification": "official_ssr_full_text",
+      "cards": [],
+      "decision": "pending_verification",
+      "missing": [
+        "primary_article_text: 官方原帖可讀，ArticleEntity 僅含標題與預覽；直接文章頁未提供可讀全文",
+        "primary_media: 未取得文章內完整素材，無法判斷是否有具體產品介面流程"
+      ],
+      "note": "影片剪輯教程文章線索，未把社群回覆或文章預覽當全文，也未因缺漏作最終排除。"
     }
   },
   "pending_source_ids": [
@@ -5531,13 +5651,12 @@
     "2089329138406760639",
     "2106394380299022620",
     "2106255245861167371",
-    "2115516478254624914",
-    "2114624187449127136",
     "2115667965328977920",
     "2117442507306901741",
     "2123645210697884105",
     "2124437302068011026",
-    "2124846250826842387"
+    "2124846250826842387",
+    "2124087160907403401"
   ],
   "open_card_gaps": {
     "21st-component-discovery-preview-prompt": [
@@ -5552,6 +5671,9 @@
     "agent-ui-copy-essential-information": [
       "images：原貼文無圖片或示範介面",
       "成效：未提供文案前後對照或測試"
+    ],
+    "alma-mobile-agent-native-remote-views": [
+      "互動驗證：僅觀察作者影片；未操作 App、測試連線切換、端到端加密、圖片傳輸或實際發送指令"
     ],
     "app-icon-shelf-detail-color-index": [
       "來源識別：圖庫品牌未由原文確認；素材授權未核對"
@@ -5596,6 +5718,9 @@
     "chunui-component-demo-catalog": [
       "device: 未安裝 Demo 或驗證真機及訂閱流程"
     ],
+    "claude-artifact-install-as-desktop-app": [
+      "互動驗證：僅核對官方 beta 示範；未實際安裝、測試 Windows、連接器、通知、選單列或權限拒絕流程"
+    ],
     "codex-change-proposal-comparison-table": [
       "images: 原帖未附表格範例，僅可核對文字建議"
     ],
@@ -5635,6 +5760,9 @@
     ],
     "gesture-sheet-momentum-rubberband": [
       "parameters: 原帖影片未提供速度門檻與彈簧參數"
+    ],
+    "guizang-component-motion-workbench": [
+      "互動驗證：只有作者公開截圖，未操作工作台、驗證參數、匯出或正式發布；不能從截圖推定點陣動畫過程"
     ],
     "gzh-design-theme-components-mobile-reading": [
       "平台保真：未實際貼入公眾號編輯器驗證"
@@ -5724,7 +5852,8 @@
       "verification: 硬體發布資訊未以 Meta 官方消息獨立核實"
     ],
     "ojo-agent-team-to-canvas-prototype": [
-      "runtime: 僅官方展示，未驗證團隊執行與畫布編輯"
+      "runtime: 僅官方展示，未驗證團隊執行與畫布編輯",
+      "plugin: 未安裝新插件，未驗證外部Agent連結專案、資料讀寫與原型生成"
     ],
     "openmotion-template-preview-studio": [
       "互動驗證：僅觀察作者發布影片，未執行模板重建、時間軸編輯或匯出；不採信宣傳中的還原率"
@@ -5798,22 +5927,22 @@
   "next_run": [
     "唯讀重掃新增或變更的 X-*.md。",
     "保留 pending，不將刪帖、限制存取或截斷證據當成最終排除。",
-    "2026-11-24 Kubai PWA 2124901875090968996 交主線補 saved attribution；原始來源欄為「点赞」，不可因 archive hash 已更新而跳過。"
+    "2026-11-25 文章 2124087160907403401 尚缺全文／內文素材，後續僅作有界重試；Kubai 來源交主線。"
   ],
   "pending_retry_summary": {
-    "checked_at_utc": "2026-11-24T17:01:18.671930+00:00",
+    "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
     "requested": 2,
     "source_ids": [
-      "2106255245861167371",
-      "2124437302068011026"
+      "2115516478254624914",
+      "2114624187449127136"
     ],
     "max_attempts_per_id": 1,
     "result_types": {
       "Tweet": 2
     },
-    "resolved": 0,
-    "remaining_pending": 16,
-    "note": "有界選查兩則已有公開內容來源；官方 SSR 全文可讀，但一則影片、一則圖片仍 403，其餘 13 則歷史 pending 本次未重查。"
+    "resolved": 2,
+    "remaining_pending": 15,
+    "note": "兩則歷史 pending 完整原文及素材恢復；Alma 建卡，CLI 提示比較不收錄；其餘14則歷史 pending 未重試，新增一則文章全文待查。"
   },
   "incremental_screening": [
     {
@@ -5969,6 +6098,34 @@
       "kubai_merged_by_main": [
         "2124901875090968996"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "checked_at_utc": "2026-11-25T17:08:17.130285+00:00",
+      "archive_files_hashed": 116,
+      "new_files": [
+        "X-2026-11-25.md"
+      ],
+      "changed_files": [],
+      "deleted_files": [],
+      "new_status_ids": [
+        "2125114108194533417",
+        "2125078670498771094",
+        "2124087160907403401",
+        "2125315491522650299",
+        "2125240569391886799",
+        "2125070189721248162"
+      ],
+      "posts_screened": 6,
+      "non_kubai_posts_screened": 6,
+      "design_candidates": 3,
+      "cards_created": 3,
+      "cards_created_from_new_posts": 2,
+      "cards_created_from_historical_pending": 1,
+      "cards_merged": 0,
+      "pending_verification": 1,
+      "kubai_deferred_to_main": [],
+      "basis": "六則增量摘要：三則非介面題材不加入公開候選，三則核對官方原文與可取得素材；兩張新卡，一則文章全文待查。另有界重試兩則歷史 pending，Alma 建卡、CLI 提示比較不收錄。"
     }
   ]
 }

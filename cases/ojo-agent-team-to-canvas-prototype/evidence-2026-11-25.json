@@ -1,0 +1,52 @@
+{
+  "original_status_id": "2125243729644748812",
+  "kubai_repost_id": "2125256598100840537",
+  "media_source": "https://video.twimg.com/amplify_video/2125224619661791233/vid/avc1/1280x720/g5tF999LmABZXPue.mp4?tag=29",
+  "retained": [
+    {
+      "path": "04-plugin-preview.png",
+      "source_seconds": 16,
+      "crop_xyxy": [
+        164,
+        90,
+        1173,
+        680
+      ],
+      "sha256": "2d6172a43438f24a7d70ede33cf4b62870980cf4c62807bc7bcfb9e7bfa385bb"
+    },
+    {
+      "path": "05-plugin-loading.png",
+      "source_seconds": 28,
+      "crop_xyxy": [
+        351,
+        97,
+        1118,
+        688
+      ],
+      "sha256": "b62784600a39d7b1b66da2951870e57c64b1e5271f8f5713732423073d68c89b"
+    },
+    {
+      "path": "06-redesign-comparison.png",
+      "source_seconds": 32,
+      "crop_xyxy": [
+        60,
+        84,
+        1221,
+        636
+      ],
+      "sha256": "422506972a3d5c6cf05da977daeb5f1911204fb06a171736bed1858f8057dfc2"
+    },
+    {
+      "path": "07-product-grid-comparison.png",
+      "source_seconds": 34,
+      "crop_xyxy": [
+        60,
+        84,
+        1221,
+        636
+      ],
+      "sha256": "826e99fae475ab993425b34bc96f1e38bf61627391441bc3246bca046ba5bfe9"
+    }
+  ],
+  "raw_video_retained": false
+}
