@@ -1,0 +1,206 @@
+{
+  "original_status_id": "2125741330328391991",
+  "source_video": "https://video.twimg.com/amplify_video/2125626625404583939/vid/avc1/720x960/vr8GMODe07HvhuHW.mp4?tag=29",
+  "frames": [
+    {
+      "path": "01-state.png",
+      "seconds": 1,
+      "redaction_rectangles": [
+        [
+          243,
+          243,
+          272,
+          278
+        ],
+        [
+          541,
+          595,
+          576,
+          630
+        ],
+        [
+          563,
+          571,
+          625,
+          602
+        ],
+        [
+          218,
+          234,
+          366,
+          282
+        ]
+      ],
+      "sha256": "51aa056e1d31edf18833dfbdc51b8978df55d2aff08eec092078e3c9a1650043"
+    },
+    {
+      "path": "02-state.png",
+      "seconds": 6,
+      "redaction_rectangles": [
+        [
+          244,
+          243,
+          272,
+          278
+        ],
+        [
+          603,
+          34,
+          666,
+          66
+        ],
+        [
+          583,
+          58,
+          618,
+          94
+        ],
+        [
+          218,
+          234,
+          366,
+          282
+        ]
+      ],
+      "sha256": "1f87f5249d8f1ae222210af2482a85276f79f39f8531314ec65a7434ee64ed1d"
+    },
+    {
+      "path": "03-state.png",
+      "seconds": 9,
+      "redaction_rectangles": [
+        [
+          266,
+          13,
+          328,
+          46
+        ],
+        [
+          243,
+          243,
+          272,
+          278
+        ],
+        [
+          245,
+          38,
+          280,
+          74
+        ],
+        [
+          218,
+          234,
+          366,
+          282
+        ]
+      ],
+      "sha256": "4179b6df2c95e72a5afad04dbe97231f8d875b4e3c9b9f28c5a8984e5128915d"
+    },
+    {
+      "path": "04-state.png",
+      "seconds": 27,
+      "redaction_rectangles": [
+        [
+          355,
+          385,
+          418,
+          418
+        ],
+        [
+          257,
+          286,
+          307,
+          335
+        ],
+        [
+          334,
+          410,
+          368,
+          444
+        ],
+        [
+          265,
+          235,
+          292,
+          269
+        ],
+        [
+          218,
+          234,
+          366,
+          282
+        ],
+        [
+          267,
+          274,
+          563,
+          373
+        ]
+      ],
+      "sha256": "2bc06e09991b699e37bea0c40da3707aadff0821bb4b6d5b14dfc8b84aab136d"
+    },
+    {
+      "path": "05-state.png",
+      "seconds": 30,
+      "redaction_rectangles": [
+        [
+          315,
+          223,
+          382,
+          256
+        ],
+        [
+          265,
+          237,
+          294,
+          269
+        ],
+        [
+          299,
+          248,
+          334,
+          284
+        ],
+        [
+          218,
+          234,
+          366,
+          282
+        ],
+        [
+          267,
+          274,
+          563,
+          373
+        ]
+      ],
+      "sha256": "b45a20f704d389e2536ca0bd60513e715d812decc5c9443db3e93adf400de652"
+    },
+    {
+      "path": "06-state.png",
+      "seconds": 40,
+      "redaction_rectangles": [
+        [
+          396,
+          231,
+          458,
+          264
+        ],
+        [
+          375,
+          257,
+          410,
+          292
+        ],
+        [
+          250,
+          150,
+          430,
+          185
+        ]
+      ],
+      "sha256": "1cdf2a22103907e4757c089b5dc0fbc56fe34b22aeb3ce6d535e31811de34419"
+    }
+  ],
+  "retained_raw_video": false,
+  "redaction": "gray masks remove avatar row, personal card identity and blue cursor labels; creator footer cropped"
+}

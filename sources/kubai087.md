@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **124 張卡片**：999 系列 24 張，其他設計參考 100 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **127 張卡片**：999 系列 25 張，其他設計參考 102 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-25（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-26（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -23,7 +23,7 @@
 
 ## 999 小技巧系列
 
-已確認篇號為 001–024。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
+已確認篇號為 001–025。013 已由作者官網期號與 X 原帖回鏈確認；999 是系列名稱，不代表已發布 999 篇。
 
 | 篇號 | 卡片 | 原帖 |
 | --- | --- | --- |
@@ -51,12 +51,15 @@
 | 022 | [Kubai 022：依語意與空間選擇空狀態](../cases/kubai-999-022-empty-states/case.md) | [X](https://x.com/Kubai087/status/2124170395825873348) |
 | 023 | [枯白 023：點按、底欄、Safari 取色與 PWA 的行動網頁細節](../cases/kubai-999-023-mobile-web/case.md) | [X](https://x.com/Kubai087/status/2125029129619644704) |
 | 024 | [999 小技巧 024：讓點陣等待連到圖片揭示](../cases/kubai-999-024-dot-matrix-image-reveal/case.md) | [X](https://x.com/Kubai087/status/2125220063301271808) |
+| 025 | [999 小技巧 025：依意圖調整懸停與切換延時](../cases/kubai-999-025-hover-timing/case.md) | [X](https://x.com/Kubai087/status/2125741330328391991) |
 
 
 ## 其他設計卡片
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [Musify 淺聽圖示：以傾斜音符與像素階梯建立識別](../cases/kubai-musify-icon/case.md) | visual |
+| [游標行為驅動的自適應回饋：先凸顯解除阻擋的條件](../cases/cursor-behavior-adaptive-ui-feedback/case.md) | feedback, forms, ai-chat |
 | [確認卡片的波浪轉場：讓光帶沿內容表面掃過](../cases/peekdesign-wave-confirmation-transition/case.md) | feedback, visual |
 | [Peek UI：將來源、工具與批准拆成可掃讀元件](../cases/peek-ui-component-gallery/case.md) | ai-chat, permissions, data-display |
 | [OJO 展示：把團隊能力、需求稿與裝置預覽接成流程](../cases/ojo-agent-team-to-canvas-prototype/case.md) | ai-chat, content-editing |
@@ -167,13 +170,14 @@
 
 ## 素材與待補
 
-目前保存 638 張圖片／關鍵幀、58 段歷史影片；本次沒有新增原始影片。
+目前保存 657 張圖片／關鍵幀、58 段歷史影片；本次沒有新增原始影片。
 
 | 卡片 | 缺漏 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
 | [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線；implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數 |
 | [Beautiful UI：將 Agent 提問與任務狀態拆成小型元件](../cases/beautifului-agent-approval-task-components/case.md) | verification: 僅核對公開示範，未驗證後端執行、套件授權與整體可及性 |
+| [游標行為驅動的自適應回饋：先凸顯解除阻擋的條件](../cases/cursor-behavior-adaptive-ui-feedback/case.md) | verification: 僅核對公開示範與作者文件；未驗證模型準確率、資料流、裝置差異或真實使用者感受 |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
 | [Figma 的 OBJ 匯入示範：先調來源物件，再重複排列與轉動整組](../cases/figma-obj-import-repeat-transform/case.md) | implementation: 未取得作者自製外掛原始碼或公開下載入口，未實測OBJ／MTL匯入與簡化結果；verification: 僅觀察公開影片，未驗證圖層結構、重複物件更新與效能 |
 | [Fog Mail：以首頁摘要連到對應郵件分組](../cases/fog-mail-summary-to-mail-groups/case.md) | verification: 未安裝產品，摘要點擊捲動與v0.9.1修復僅據作者更新說明 |
@@ -196,6 +200,7 @@
 | [Kubai 022：依語意與空間選擇空狀態](../cases/kubai-999-022-empty-states/case.md) | production: 僅核對作者教學示範，未驗證真實上線產品或成效；interaction: 未操作可執行示範，無法驗證鍵盤、讀屏、窄版與 reduced-motion 行為 |
 | [枯白 023：點按、底欄、Safari 取色與 PWA 的行動網頁細節](../cases/kubai-999-023-mobile-web/case.md) | verification: 未測 iPhone Safari 的點按／取色、鍵盤焦點、PWA 安裝與離線；影片為作者前後比較示例 |
 | [999 小技巧 024：讓點陣等待連到圖片揭示](../cases/kubai-999-024-dot-matrix-image-reveal/case.md) | verification: 未執行生成服務，未驗證解碼時序、低階裝置性能、失敗與減少動態降級；reply: 官網提供Prompt文章，X直接Prompt回覆未取得 |
+| [999 小技巧 025：依意圖調整懸停與切換延時](../cases/kubai-999-025-hover-timing/case.md) | verification: 僅觀察作者比較影片，未操作互動示例、量測實際延時或驗證鍵盤／觸控／減少動態行為 |
 | [AI 圖標減法：收斂光影，再保留可調圖層](../cases/kubai-ai-icon-refinement/case.md) | attribution: 原始圖標案例僅致謝 @H_Stepania_，未附原帖連結 |
 | [Lody AI 登入示範的 ASCII 圖像與表單分區](../cases/kubai-ascii-login-reference/case.md) | source: 產品正式網址、上線狀態與設計署名待確認 |
 | [對話分支與可編輯筆觸：操作後保留原有結構](../cases/kubai-canvas-vector-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 Infinity／Rindraw 開發者與產品原始連結 |
@@ -213,6 +218,7 @@
 | [Lumno：新標籤頁的材質與時間字體選擇](../cases/kubai-lumno-new-tab-materials/case.md) | images: 1.10 更新帖未附材質近照，現有影片來自較早發布帖 |
 | [Orbit Clocks 的時鐘屏保與風格選擇](../cases/kubai-macos-lockscreen/case.md) | images: dingyi 發布原帖的附圖未包含於本批 metadata |
 | [雜誌式教程索引：先看設計，再取用指令](../cases/kubai-magazine-design-notes/case.md) | copy: 已見複製入口；本次點擊後剪貼簿未取得內容，未驗證成功；export: Get all tips 要求登入，未驗證下載內容或 Agent 自動讀取；mobile-fix: 11 月 23 日點按閃跳修正與 Safari 取色改善為作者公告；未重現前後或實機驗證 |
+| [Musify 淺聽圖示：以傾斜音符與像素階梯建立識別](../cases/kubai-musify-icon/case.md) | validation: 未獨立核對 App Store 現行版本是否採用此圖示；未驗證小尺寸辨識與各系統外觀 |
 | [光學對齊：先模糊元素，再比較視覺重量](../cases/kubai-optical-alignment-blur/case.md) | attribution: 未確認原影片作者與首次發布日期 |
 | [DSH-to-Figma 的參考圖到可編輯介面流程](../cases/kubai-reference-to-figma/case.md) | assets: 未收錄生成的 Figma 檔案，圖層可編輯性未獨立驗證 |
 | [列表邊緣漸變：用淡出方向提示還能捲動](../cases/kubai-scroll-gradient-affordance/case.md) | implementation: 原帖未提供完整程式或可操作示例；未測試瀏覽器相容性與鍵盤操作 |
@@ -324,3 +330,10 @@ rg -n -F '2119359092334743735' cases sources
 本來源新增4張：Katya圖示作品網站、Peek UI元件、波浪確認過渡、Monofactory階段工作區。補充2張：光學置中量測、既有OJO需求到原型流程的插件入口與改版對照。保留原作者與發布時間；示範中的授權、生成、構建和分享均不作已驗證結果。
 
 官方首頁仍明列001–024；未由近期樣本推斷025未發布。003／006官方SSR仍無Tweet資料、021仍缺直接Prompt回覆。第三方254條索引只作發現線索；全歷史覆蓋邊界未推進。使用者評論、推流與UI譯名感想不另建卡。
+
+
+## 2026-11-26 增量與補查
+
+本來源新增3張：025意圖式懸停延時、游標行為驅動回饋、Musify圖標；補充1張：Ian詞彙的禁用、圖標容器、角標、載入按鈕與麵包屑示範。模型標籤不當作真實情緒，預設時間不作量測結果，未執行產品／插件／付款。025原帖、兩則直接回覆、官方期號與影片已核對。
+
+公開首頁與263條第三方索引為樣本；未推進完整歷史覆蓋邊界。003／006官方SSR仍無Tweet資料、021仍缺直接Prompt回覆。CrommaCode宣傳、字形動態觀點、插畫與廣告拼接不另建卡，保留逐帖理由。

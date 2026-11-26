@@ -1,0 +1,22 @@
+{
+  "original_status_id": "2125273238414721460",
+  "source_video": "https://video.twimg.com/amplify_video/2125248008950321152/vid/avc1/1066x720/ZuKnRg5H7l4Ga8g8.mp4?tag=29",
+  "frames": [
+    {
+      "path": "01-state.png",
+      "seconds": 4,
+      "sha256": "da773b4fc6e68b5eeade2b6789f23a79b122a3b65c8565d0fccae0e3da4ea8cc"
+    },
+    {
+      "path": "02-state.png",
+      "seconds": 7,
+      "sha256": "6ebf628f4e3d3492c3de9a1c62557880641e1660ea2b8fec990490b531f54ec6"
+    },
+    {
+      "path": "03-state.png",
+      "seconds": 14,
+      "sha256": "81a69a8e46b0d951d1eb314aadb28596c37f5b8c22f97fb00979d26cce234b4a"
+    }
+  ],
+  "retained_raw_video": false
+}
