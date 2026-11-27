@@ -49,3 +49,18 @@ missing: []
 ## 來源與核對範圍
 
 [lencx 整理](https://x.com/lencx_/status/2121174537127735305)官方快取內含[Vercel 發布原帖](https://x.com/vercel/status/2120950020249895314)與影片；附片已下載檢視。貼文短網址解析至[官方倉庫](https://github.com/vercel-labs/ui)與[官方文件](https://ui-sdk.dev/docs)，已閱讀 README 與入口說明。另有 [WebMCP 倉庫](https://github.com/webmachinelearning/webmcp)連結，本卡未據此判定各瀏覽器支援狀態；未執行套件。
+
+## 2026-11-27 補充：行為原語的跨框架示意
+
+![](06-behavior-diagram.png)
+*10 秒：空白應用框與 shadcn/ui 標記，先建立元件所屬層次。*
+
+![](07-behavior-diagram.png)
+*110 秒：core 框中列出焦點、彈層與選取等行為，再指向組合元件。*
+
+![](08-behavior-diagram.png)
+*220 秒：影片以可選 base 的示意說明後續整合方向；這是作者預告。*
+
+[宝玉配音整理](https://x.com/dotey/status/2126070816534151538)（發布 `2026-11-26T21:49:17+00:00`）引用 [shadcn 原作者說明](https://x.com/shadcn/status/2126032449582813307)（發布 `2026-11-26T19:16:50+00:00`）。已核對兩帖原文與原作者影片的三張影格：由應用外觀 → 可組合行為 → base 選項示意，補充同一流程，不另建卡。影片內「已測試」及未來可用性是作者陳述，本次未執行套件或無障礙測試。
+
+- 本次新增的[shadcn 原帖](https://x.com/shadcn/status/2126032449582813307)發布於2026-11-26T19:16:50+00:00；宝玉的配音介紹發布於同日21:49:17+00:00，兩者是不同影片來源，不混作同一版本。

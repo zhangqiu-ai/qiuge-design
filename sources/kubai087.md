@@ -2,9 +2,9 @@
 
 來源：[枯白啃設計 @Kubai087](https://x.com/Kubai087)。收錄 UI／UX、前端互動、介面視覺、App 圖標與可操作的設計思路；轉發保留原作者。
 
-目前已收錄 **127 張卡片**：999 系列 25 張，其他設計參考 102 張。同一作品與流程的轉發或補充合併保存。
+目前已收錄 **129 張卡片**：999 系列25張，其他設計參考 104 張。同一作品與流程的轉發或補充合併保存。
 
-每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-26（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
+每日檢查已啟用：**每天 09:00（UTC+8／Asia/Shanghai）**。最近一次來源檢查：2026-11-27（UTC）；此處記錄實際執行日期，不表示觸發時間等同設定時間。
 
 ## 已覆蓋的範圍
 
@@ -58,6 +58,8 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [郵件原文與翻譯切換：保留閱讀區與頂部操作脈絡](../cases/mail-original-translation-switch/case.md) | content-editing, feedback, visual |
+| [側邊導覽收合：讓內容頁滑過靜止的選單](../cases/batuhan-sidenav-page-overlay/case.md) | navigation, visual |
 | [Musify 淺聽圖示：以傾斜音符與像素階梯建立識別](../cases/kubai-musify-icon/case.md) | visual |
 | [游標行為驅動的自適應回饋：先凸顯解除阻擋的條件](../cases/cursor-behavior-adaptive-ui-feedback/case.md) | feedback, forms, ai-chat |
 | [確認卡片的波浪轉場：讓光帶沿內容表面掃過](../cases/peekdesign-wave-confirmation-transition/case.md) | feedback, visual |
@@ -170,12 +172,13 @@
 
 ## 素材與待補
 
-目前保存 657 張圖片／關鍵幀、58 段歷史影片；本次沒有新增原始影片。
+目前保存 666 張圖片／關鍵幀、58 段歷史影片；本次沒有新增原始影片。
 
 | 卡片 | 缺漏 |
 | --- | --- |
 | [Adi 的復古 404：在電腦螢幕中呈現等待、失敗與返回](../cases/adi-retro-404-recovery/case.md) | 互動驗證：未確認縮放的確切觸發方式、按鈕目的地與鍵盤操作；上線證據：僅確認作者示範，未取得正式產品頁 |
 | [AI Studio 新版圖示：以圓形折射層扭曲白色輪廓](../cases/ai-studio-refractive-app-icon/case.md) | shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線；implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數 |
+| [側邊導覽收合：讓內容頁滑過靜止的選單](../cases/batuhan-sidenav-page-overlay/case.md) | 互動驗證：僅檢視公開示範影格與畫面程式片段；未操作元件、核對完整實作、鍵盤焦點、隱藏內容可及性、窄視窗或減少動態效果；未確認正式產品發布 |
 | [Beautiful UI：將 Agent 提問與任務狀態拆成小型元件](../cases/beautifului-agent-approval-task-components/case.md) | verification: 僅核對公開示範，未驗證後端執行、套件授權與整體可及性 |
 | [游標行為驅動的自適應回饋：先凸顯解除阻擋的條件](../cases/cursor-behavior-adaptive-ui-feedback/case.md) | verification: 僅核對公開示範與作者文件；未驗證模型準確率、資料流、裝置差異或真實使用者感受 |
 | [Emil Kowalski 的下拉選單從觸發處縮放](../cases/emil-dropdown-trigger-transform-origin/case.md) | code: 原帖未提供可執行原始碼、縮放比例、時長與 easing；未驗證實作；product: 教學對照示範，沒有指定產品與正式上線版本證據；interaction: 影片未顯示實際點擊事件、鍵盤操作、焦點管理或減少動態效果模式 |
@@ -225,6 +228,7 @@
 | [慢放 UI 微回饋：讓形變對應操作與結果](../cases/kubai-slowed-ui-microfeedback/case.md) | attribution: 片尾署名 Kabarza，未核對原始發布頁與元件實作；behavior: 未操作元件，長按取消、失敗及鍵盤狀態未驗證 |
 | [進度色條、逐幀挑選與行旁答案：把變化留在內容附近](../cases/kubai-timeline-content-interactions/case.md) | images: 日刊整頁截圖含範圍外內容，待接入純 UI 裁圖；references: 來源封包未附 OnCue／Beavery／Ratio 開發者與產品原始連結 |
 | [Arion 語音輸入介面：把插入結果與帳戶等待分開呈現](../cases/kubai-voice-input-ui/case.md) | attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得 |
+| [郵件原文與翻譯切換：保留閱讀區與頂部操作脈絡](../cases/mail-original-translation-switch/case.md) | release: 作者當時表示此小動效尚未發布；產品名稱未確認，未測實際翻譯、錯誤或設定保存；mapping: 問答頁提供原作者影片與直接答覆，但未回傳Kubai問題至影片的直接reply_to欄位 |
 | [Medalsmith 首次使用引導：徽章展示、日曆與跨裝置](../cases/medalsmith-onboarding/case.md) | observation: 未觀察「開始使用」後的主介面；未核實徽章運動與手勢、裝置姿態之間的因果關係；availability: 上架及平台來自作者聲明，未獨立核實商店頁面；iCloud 與 MCP 僅觀察到介紹文案，未實測 |
 | [MONO 記帳：錢包角色圖示與對話中的結構化帳目](../cases/mono-bookkeeping-conversation-cards/case.md) | runtime: 未安裝產品；文字／語音／截圖解析、帳目儲存及修正流程未實測；interaction: 靜態宣傳圖沒有展示輸入到結果的等待、錯誤與確認狀態 |
 | [Monofactory：從產品定義、選擇題與 PRD 接到設計、構建及成長迭代](../cases/monofactory-product-definition-design-build/case.md) | creator: 原帖發布者可確認，實際介面設計與影片創作者未確認；usage: 僅觀察發布影片，未操作產品或驗證生成、構建、安裝、發布與分享；website: monofactory.ai 本次無法讀取 |
@@ -337,3 +341,10 @@ rg -n -F '2119359092334743735' cases sources
 本來源新增3張：025意圖式懸停延時、游標行為驅動回饋、Musify圖標；補充1張：Ian詞彙的禁用、圖標容器、角標、載入按鈕與麵包屑示範。模型標籤不當作真實情緒，預設時間不作量測結果，未執行產品／插件／付款。025原帖、兩則直接回覆、官方期號與影片已核對。
 
 公開首頁與263條第三方索引為樣本；未推進完整歷史覆蓋邊界。003／006官方SSR仍無Tweet資料、021仍缺直接Prompt回覆。CrommaCode宣傳、字形動態觀點、插畫與廣告拼接不另建卡，保留逐帖理由。
+
+
+## 2026-11-27 增量與歷史補查
+
+本來源新增2張：頁面覆蓋側欄的轉場比較，以及收藏問題上下文延伸的郵件原文／翻譯切換；補充1張：教程站的原子設計指引分發觀點。兩種轉場均以作者影片為觀察，未操作產品；郵件樣機鏡頭與產品內動效分開，保留問題至影片映射欄位未取得的缺漏。Logo推薦與既有收藏原作查重，仍不收錄：四張幾何作品圖不足以支持工具操作流程。插畫讚賞不建卡。
+
+官方首頁仍明列001–025，第三方263條索引停於11月25日，全歷史邊界未推進。003／006官方嵌入資料恢復可讀但仍截斷，不能解除全文缺漏；021仍缺直接Prompt回覆。

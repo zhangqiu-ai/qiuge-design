@@ -1,0 +1,64 @@
+{
+  "original_status_id": "2125595627811975676",
+  "discovery_reply_id": "2125599807125561658",
+  "source_video": "https://video.twimg.com/amplify_video/2125595449918951424/vid/avc1/720x960/H1MWQgw8BRUPxPnl.mp4?tag=29",
+  "frames": [
+    {
+      "path": "01-header.png",
+      "seconds": 0,
+      "crop_xyxy": [
+        187,
+        124,
+        530,
+        225
+      ],
+      "sha256": "7eb224fc5a81b9db39c0e062cbbb68d393bfccd8faf157e3e0baeb36c3643e21"
+    },
+    {
+      "path": "02-header.png",
+      "seconds": 0.7,
+      "crop_xyxy": [
+        155,
+        145,
+        562,
+        265
+      ],
+      "sha256": "f6e80f3c1dc7b60ec609b1a2cb84ca6ce72b7b28cf365ec29942bc55df177c92"
+    },
+    {
+      "path": "03-header.png",
+      "seconds": 1.3,
+      "crop_xyxy": [
+        80,
+        233,
+        636,
+        397
+      ],
+      "sha256": "d3481848fa5c74ecc0e7b467884bd166932571035cace0eed00e1a17367dda91"
+    },
+    {
+      "path": "04-header.png",
+      "seconds": 2.7,
+      "crop_xyxy": [
+        80,
+        233,
+        635,
+        397
+      ],
+      "sha256": "dfc51fbd38c9e61c6ee2935cf10ffb4f65fa39a885bb995f390ff26abf17710a"
+    },
+    {
+      "path": "05-header.png",
+      "seconds": 4.0,
+      "crop_xyxy": [
+        80,
+        233,
+        636,
+        397
+      ],
+      "sha256": "4a496f0ad03a3478a5a08c3f02de5cc37391ea6a34a382fd4e0deeb5b8d18a57"
+    }
+  ],
+  "raw_video_retained": false,
+  "privacy": "Only toolbar and subject; sender identity/body and status bar excluded"
+}

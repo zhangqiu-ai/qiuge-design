@@ -2,7 +2,7 @@
   "schema_version": 1,
   "account": "Kubai087",
   "profile_url": "https://x.com/Kubai087",
-  "checked_at_utc": "2026-11-26T17:03:03.979782+00:00",
+  "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
   "automation": {
     "id": "ui-ux",
     "status": "ACTIVE",
@@ -11,9 +11,9 @@
     "frequency": "daily"
   },
   "coverage": {
-    "case_count": 127,
+    "case_count": 129,
     "series_cards": 25,
-    "other_cards": 102,
+    "other_cards": 104,
     "discovery_index": "https://tech.sinsc.com/media/rss-twitter-kubai087",
     "discovery_pages": [
       1,
@@ -208,11 +208,14 @@
           "x_id": "2114378773655326873"
         }
       ],
-      "limitation": "官方當前明列001–025；025逐帖與素材核對，非完整X歷史。"
+      "limitation": "11月27日首頁仍明列001–025；既有bundle映射保持其原核對時間，未推定026未發布或全歷史完成。",
+      "landing_rechecked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "landing_url": "https://vibedesign.tips/",
+      "landing_maximum_explicit_issue": "025"
     }
   },
   "media": {
-    "images": 657,
+    "images": 666,
     "videos": 58,
     "retained": "Historical source videos plus sampled frames; episodes 017/018 and carousel variants retain selected frames only."
   },
@@ -3065,17 +3068,104 @@
       "checked_at_utc": "2026-11-26T17:03:03.979782+00:00",
       "reason": "原作為廣告視覺創作與提示詞，無具體App介面或互動元件。",
       "published_at": "2026-11-24T15:57:32+00:00"
+    },
+    "2126237506362622019": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "側欄與頁面的滑動比較；原作者影片四幀，未量測參數或操作元件。",
+      "original_author": "Batuhan (@batukrskl)",
+      "published_at": "2026-11-27T08:51:39+00:00",
+      "card": "batuhan-sidenav-page-overlay",
+      "quoted_original_id": "2126094700218294448"
+    },
+    "2126094700218294448": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "側欄與頁面的滑動比較；原作者影片四幀，未量測參數或操作元件。",
+      "original_author": "Batuhan (@batukrskl)",
+      "published_at": "2026-11-26T23:24:12+00:00",
+      "card": "batuhan-sidenav-page-overlay"
+    },
+    "2126204254100848980": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "維持 sources/x-saved-posts.json 對同一原帖的 not_selected 決策：屬標誌作品展示，非具體 App／軟體介面流程。原作者宣稱功能已發布，但圖片不足以支持工具設計卡。Kubai 的標準製圖推測不作為演算法或品質證據。",
+      "original_author": "Kaisei Suzuki (@kaiseisuzuk)",
+      "published_at": "2026-11-27T06:39:31+00:00",
+      "quoted_original_id": "2086794677693690213"
+    },
+    "2086794677693690213": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "維持 sources/x-saved-posts.json 對同一原帖的 not_selected 決策：屬標誌作品展示，非具體 App／軟體介面流程。原作者宣稱功能已發布，但圖片不足以支持工具設計卡。Kubai 的標準製圖推測不作為演算法或品質證據。",
+      "original_author": "Kaisei Suzuki (@kaiseisuzuk)",
+      "published_at": "2026-08-10T12:39:56+00:00"
+    },
+    "2125599807125561658": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "收藏問題頁提供原作者未發布的郵件語言切換影片及Minshot答覆；主體只保留閱讀區，映射缺漏明記。",
+      "published_at": "2026-11-25T14:37:40+00:00",
+      "card": "mail-original-translation-switch",
+      "mapping_limitation": "同頁上下文提供原作者影片；問題未回傳至影片的直接reply_to欄位。"
+    },
+    "2125595627811975676": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "收藏問題頁提供原作者未發布的郵件語言切換影片及Minshot答覆；主體只保留閱讀區，映射缺漏明記。",
+      "published_at": "2026-11-25T14:21:03+00:00",
+      "card": "mail-original-translation-switch"
+    },
+    "2125602052151881730": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "收藏問題頁提供原作者未發布的郵件語言切換影片及Minshot答覆；主體只保留閱讀區，映射缺漏明記。",
+      "published_at": "2026-11-25T14:46:35+00:00",
+      "card": "mail-original-translation-switch",
+      "reply_to_id": "2125599807125561658"
+    },
+    "2126196644064768417": {
+      "decision": "collected_or_merged",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "quoted_original_id": "2124440619120759238",
+      "reason": "教程站分發觀點：原子互動思想、既有約束與開發者判斷，合併同產品卡片；無新增UI素材。",
+      "published_at": "2026-11-27T06:09:17+00:00",
+      "card": "kubai-magazine-design-notes"
+    },
+    "2126219768088957204": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "插畫作者品質讚賞，未提供具體產品介面做法。",
+      "published_at": "2026-11-27T07:41:10+00:00",
+      "quoted_original_id": "2126211206092648670"
+    },
+    "2126211206092648670": {
+      "decision": "not_selected",
+      "verification": "official_public_primary",
+      "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+      "reason": "Niji圖像作品，非軟體介面或互動流程。",
+      "published_at": "2026-11-27T07:07:09+00:00"
     }
   },
   "public_profile_snapshot_ids": [
     "2117840330712334480",
-    "2125969688387862702",
-    "2125551786866184438",
-    "2125943888938668325",
-    "2125943102339006665",
-    "2125942897124282857",
-    "2125931439304929339",
-    "2125741330328391991"
+    "2126237506362622019",
+    "2126094700218294448",
+    "2126219768088957204",
+    "2126211206092648670",
+    "2126204254100848980",
+    "2086794677693690213",
+    "2126196644064768417",
+    "2124440619120759238"
   ],
   "repost_aliases": {
     "2120215002594587073": {
@@ -3375,6 +3465,9 @@
       "shipping: 已確認 AI Studio 商店頁存在，未確認本帖新版圖示已隨正式版本上線",
       "implementation: 未取得 Figma 圖層、混合模式或可編輯檔，無法還原精確製作參數"
     ],
+    "batuhan-sidenav-page-overlay": [
+      "互動驗證：僅檢視公開示範影格與畫面程式片段；未操作元件、核對完整實作、鍵盤焦點、隱藏內容可及性、窄視窗或減少動態效果；未確認正式產品發布"
+    ],
     "beautifului-agent-approval-task-components": [
       "verification: 僅核對公開示範，未驗證後端執行、套件授權與整體可及性"
     ],
@@ -3539,6 +3632,10 @@
     "kubai-voice-input-ui": [
       "attribution: Stv_Lynn 為被引帳號，原圖設計署名尚未取得"
     ],
+    "mail-original-translation-switch": [
+      "release: 作者當時表示此小動效尚未發布；產品名稱未確認，未測實際翻譯、錯誤或設定保存",
+      "mapping: 問答頁提供原作者影片與直接答覆，但未回傳Kubai問題至影片的直接reply_to欄位"
+    ],
     "medalsmith-onboarding": [
       "observation: 未觀察「開始使用」後的主介面；未核實徽章運動與手勢、裝置姿態之間的因果關係",
       "availability: 上架及平台來自作者聲明，未獨立核實商店頁面；iCloud 與 MCP 僅觀察到介紹文案，未實測"
@@ -3605,6 +3702,7 @@
   "collection_card_slugs": [
     "adi-retro-404-recovery",
     "ai-studio-refractive-app-icon",
+    "batuhan-sidenav-page-overlay",
     "beautifului-agent-approval-task-components",
     "cursor-behavior-adaptive-ui-feedback",
     "emil-dropdown-trigger-transform-origin",
@@ -3717,6 +3815,7 @@
     "kubai-voice-input-ui",
     "kubai-webgl-letter-wallpaper",
     "kubai-zahra-ui-components",
+    "mail-original-translation-switch",
     "medalsmith-onboarding",
     "mono-bookkeeping-conversation-cards",
     "monofactory-product-definition-design-build",
@@ -3732,15 +3831,19 @@
     "voiceinput-fn-agent-dictation"
   ],
   "last_profile_check": {
-    "checked_at_utc": "2026-11-26T17:03:03.979782+00:00",
+    "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
     "status": "success_recent_sample_only",
-    "details": "公開首頁近期樣本、第三方263條索引（11月25日16:11更新）；非完整X時間線。"
+    "details": "官方首頁近期樣本可讀；第三方索引仍為263條，停於11月25日16:11，不能視為今日完整列表。"
   },
   "historical_text_retry": {
-    "checked_at_utc": "2026-11-26T17:03:03.979782+00:00",
-    "003": "官方SSR完成但未返回Tweet payload；保留X全文缺漏。",
-    "006": "官方SSR完成但未返回Tweet payload；保留X全文缺漏。",
-    "021": "官方主帖可讀但未取得直接Prompt回覆；保留缺漏。"
+    "checked_at_utc": "2026-11-27T17:05:45.998711+00:00",
+    "003": "官方SSR無Tweet；官方oEmbed可讀摘要但以省略號截斷，全文缺漏保留。",
+    "006": "官方SSR無Tweet；官方oEmbed可讀摘要但以省略號截斷，全文缺漏保留。",
+    "021": "官方主帖可讀，但未取得直接Prompt回覆，缺漏保留。",
+    "partial_embed_sources": {
+      "003": "https://publish.twitter.com/oembed?url=https%3A%2F%2Fx.com%2FKubai087%2Fstatus%2F2115091203465290087&omit_script=1",
+      "006": "https://publish.twitter.com/oembed?url=https%3A%2F%2Fx.com%2FKubai087%2Fstatus%2F2116198373040759107&omit_script=1"
+    }
   },
   "official_article_prompt_sources": {
     "022": {

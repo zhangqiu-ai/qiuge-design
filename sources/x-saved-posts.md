@@ -1,8 +1,8 @@
 # X 點讚與收藏：產品設計收錄
 
-已初篩 117 份歷史彙總、926 個不同 status ID；台帳識別 277 則設計候選，共用來源以 status ID 查重。
+已初篩 118 份歷史彙總、941 個不同 status ID；台帳識別 285 則設計候選，共用來源以 status ID 查重。
 
-候選處理：170 則對應 145 張卡片，94 則不收錄，13 則待核對。卡片亦可能保留缺漏，見下表。
+候選處理：178 則對應 152 張卡片，95 則不收錄，12 則待核對。卡片亦可能保留缺漏，見下表。
 
 來源為 `MyKnowledgeBase/X/X-*.md`；僅讀取，不修改。摘要用來找帖子，卡片以原帖／官方資料和實際可讀素材為準。初篩不是完整 X 帳戶匯出，也不代表所有候選已取得完整證據。
 
@@ -14,6 +14,7 @@
 
 | 卡片 | 設計問題 |
 | --- | --- |
+| [郵件原文與翻譯切換：保留閱讀區與頂部操作脈絡](../cases/mail-original-translation-switch/case.md) | content-editing, feedback, visual |
 | [Alma 手機 Agent：在原生對話與遠端終端之間切換](../cases/alma-mobile-agent-native-remote-views/case.md) | navigation, ai-chat, content-editing |
 | [元件工作台：把風格、畫幅與動效播放放在同一預覽](../cases/guizang-component-motion-workbench/case.md) | content-editing, visual, feedback |
 | [Claude artifact：從內容選單安裝成獨立桌面視窗](../cases/claude-artifact-install-as-desktop-app/case.md) | permissions, content-editing, feedback |
@@ -160,6 +161,7 @@
 | [Agent 通知需求：依嚴重程度升級觸達方式](../cases/agent-notification-severity-routing/case.md) | images: 原帖沒有附帶介面圖片或影片，本文保留文字方法或需求觀察 |
 | [Agent 工作區：依主要操作者配置中央內容](../cases/agent-primary-vs-editor-primary-workspace/case.md) | usability: 未做兩種配置的任務比較 |
 | [AI 介面文案：把說明限制在完成任務所需的資訊](../cases/agent-ui-copy-essential-information/case.md) | images：原貼文無圖片或示範介面；成效：未提供文案前後對照或測試 |
+| [Alma widget：把生成結果變成對話內可操作的樹狀圖](../cases/alma-inline-interactive-tree-widget/case.md) | 互動驗證：僅核對作者公開影片，未執行產品或驗證功能正確性 |
 | [Alma 手機 Agent：在原生對話與遠端終端之間切換](../cases/alma-mobile-agent-native-remote-views/case.md) | 互動驗證：僅觀察作者影片；未操作 App、測試連線切換、端到端加密、圖片傳輸或實際發送指令 |
 | [App 圖標圖庫：用展示層架、詳情頁與色彩索引串連探索](../cases/app-icon-shelf-detail-color-index/case.md) | 來源識別：圖庫品牌未由原文確認；素材授權未核對 |
 | [App shell：固定側欄開關，讓動態分頁自行調整](../cases/app-shell-stable-sidebar-toggle/case.md) | 互動驗證：僅核對作者公開示範，未操作元件、測試鍵盤／窄視窗或量測動畫參數；未確認正式發布 |
@@ -175,6 +177,7 @@
 | [通話預約概念：日期、時段與聯絡資料逐步展開](../cases/call-booking-progressive-slot-picker/case.md) | runtime: 概念動畫未驗證時區、占位衝突與寄信 |
 | [細胞結構原型：模型、細胞器說明與比較入口分區](../cases/cell-architecture-model-exploration/case.md) | accuracy: 教學精度未核驗，作者亦明說僅前兩個模型完成 |
 | [ChunUI：用元件示例與能力表交代主題和狀態](../cases/chunui-component-demo-catalog/case.md) | device: 未安裝 Demo 或驗證真機及訂閱流程 |
+| [Cindy artifact 預告：在同一工作區切換文件、設計與動效成果](../cases/cindy-artifact-editor-surface-preview/case.md) | 互動驗證：僅核對官方公開原文及影片取樣，未操作產品或執行程式 |
 | [Claude artifact：從內容選單安裝成獨立桌面視窗](../cases/claude-artifact-install-as-desktop-app/case.md) | 互動驗證：僅核對官方 beta 示範；未實際安裝、測試 Windows、連接器、通知、選單列或權限拒絕流程 |
 | [修改方案審查：把改什麼、結果與位置放在同一列](../cases/codex-change-proposal-comparison-table/case.md) | images: 原帖未附表格範例，僅可核對文字建議 |
 | [Codex 內嵌預覽：讓執行結果留在對話脈絡內](../cases/codex-inline-browser-task-preview/case.md) | 互動驗證：單張公開截圖，未測試內嵌瀏覽器 |
@@ -185,9 +188,11 @@
 | [雙 Agent 桌面概念：先選工具，再搜尋模型](../cases/dual-agent-searchable-model-picker/case.md) | runtime: 原帖為預告，未驗證搜尋、切換與相容性 |
 | [EasyColab：在工作區內搜尋並匯入模型](../cases/easycolab-model-import-search-dialog/case.md) | verification: 未執行登入、模型下載、Token 儲存或跨平台驗收 |
 | [可編輯 Artifact：把測試結果與修改意見留在同一文件](../cases/editable-artifact-review-contract/case.md) | images: 原帖未附介面圖片；只能核實文字中的欄位與評註構想 |
+| [Electronics 101：把可操作電路、原理圖與課程放在同一頁](../cases/electronics-101-circuit-linked-explanations/case.md) | 互動驗證：僅核對官方公開原文及影片取樣，未操作產品或執行程式 |
 | [Fable 介面示範：以中性卡片與單一亮色統一多種控制項](../cases/fable-lime-ui-state-mosaic/case.md) | prompt: 原帖未提供生成方法或設計規格；runtime: 影片不能證明所有元件已實作可用 |
 | [UI 轉 Figma 示例：行動助手與管理首頁分開編排](../cases/figma-ui-output-summary-and-details/case.md) | figma: 未核對原檔圖層、可編輯性或轉換速度 |
 | [浮望示範：讓長篇回答成長時保留對話閱讀區](../cases/fuwang-chat-growing-response-scroll/case.md) | 發布／互動：畫面側欄標示浮望，但原帖未交代正式產品或發布狀態；未操作 App，未核對手動捲動中斷跟隨、鍵盤與減少動態效果 |
+| [高山花卉網頁示範：全幅插畫、海拔章節與比較表](../cases/gemini-alpine-essay-editorial-hierarchy/case.md) | 互動驗證：僅核對官方公開原文及影片取樣，未操作產品或執行程式 |
 | [手勢底部面板：讓拖曳、邊界與慣性使用同一套物理感](../cases/gesture-sheet-momentum-rubberband/case.md) | parameters: 原帖影片未提供速度門檻與彈簧參數 |
 | [元件工作台：把風格、畫幅與動效播放放在同一預覽](../cases/guizang-component-motion-workbench/case.md) | 互動驗證：只有作者公開截圖，未操作工作台、驗證參數、匯出或正式發布；不能從截圖推定點陣動畫過程 |
 | [gzh-design：以整套閱讀元件區分主題，而非只換色](../cases/gzh-design-theme-components-mobile-reading/case.md) | 平台保真：未實際貼入公眾號編輯器驗證 |
@@ -211,6 +216,8 @@
 | [Live Activity 概念：在固定小區域內持續更新狀態](../cases/live-activity-stable-micro-status/case.md) | 互動／上線：僅核對作者公開動態展示，未確認實際 App、系統 Live Activity 實作、點擊或背景更新行為 |
 | [llm_wiki：在聊天輸入處選擇檔案與技能並回看引用](../cases/llm-wiki-file-skill-chat-context/case.md) | 行為驗證：未執行 @檔案、/skill 或寫檔；僅檢視發布示範 |
 | [Lumina 概念：用模式切換與剖面滑桿探索生物構造](../cases/lumina-creature-anatomy-cross-section/case.md) | accuracy: 生成的幻想生物未經解剖或教材精度核驗 |
+| [Magazine Layout：以寬度滑桿對照區域重排與 CSS](../cases/magazine-responsive-layout-breakpoint-preview/case.md) | 互動驗證：僅核對官方公開原文及影片取樣，未操作產品或執行程式 |
+| [郵件原文與翻譯切換：保留閱讀區與頂部操作脈絡](../cases/mail-original-translation-switch/case.md) | release: 作者當時表示此小動效尚未發布；產品名稱未確認，未測實際翻譯、錯誤或設定保存；mapping: 問答頁提供原作者影片與直接答覆，但未回傳Kubai問題至影片的直接reply_to欄位 |
 | [麥田：把單期表現、平台趨勢與發布日曆分層呈現](../cases/maitian-cross-platform-dashboard-calendar/case.md) | media: 原始高畫質影片下載不完整，改用官方 606×360 版本；裁圖小字辨識有限；verification: 未安裝麥田或發布助手，未驗證平台資料、轉化計算與實際發布行為 |
 | [行動測試示範：以裝置與語言標籤並列差異](../cases/mobile-agent-testers-device-language-comparison/case.md) | verification: 未執行測試工具，未逐項重現作者所報問題 |
 | [Mono Charts：在每張圖卡中保留指標、圖例與複製入口](../cases/mono-charts-contextual-chart-gallery/case.md) | runtime: 未測元件互動、CLI 安裝與真實資料映射 |
@@ -218,6 +225,7 @@
 | [Motion 術語短片：情境、名稱與示例同屏對照](../cases/motion-taxonomy-labeled-examples/case.md) | parameters: 原帖未提供逐項曲線、時長與互動程式 |
 | [Muse Charm 概念硬體：以輕觸啟動對話](../cases/muse-charm-touch-conversation-entry/case.md) | images: 已下載並檢視原帖影片四張影格，但均為舞台演說或大會標誌，未顯示本文硬體操作，故不作介面證據；verification: 硬體發布資訊未以 Meta 官方消息獨立核實 |
 | [OJO 展示：把團隊能力、需求稿與裝置預覽接成流程](../cases/ojo-agent-team-to-canvas-prototype/case.md) | runtime: 僅官方展示，未驗證團隊執行與畫布編輯；plugin: 未安裝新插件，未驗證外部Agent連結專案、資料讀寫與原型生成 |
+| [OMNICAD：幾何重播同時呈現實體數與進度](../cases/omnicad-geometry-replay-progress/case.md) | 互動驗證：僅核對作者公開影片，未執行產品或驗證功能正確性 |
 | [一鍵發：以來源、目的地與執行區組織跨平台搬運](../cases/one-click-post-source-destination-transfer/case.md) | 互動驗證：僅核對公開原帖與單張圖片；未安裝插件、測試登入授權、內容轉換、發布或失敗恢復 |
 | [OpenMotion：從模板預覽銜接到可編輯時間軸](../cases/openmotion-template-preview-studio/case.md) | 互動驗證：僅觀察作者發布影片，未執行模板重建、時間軸編輯或匯出；不採信宣傳中的還原率 |
 | [pi Generative UI：逐步呈現資料卡，再補入圖表與表格](../cases/pi-generative-ui-progressive-widget-render/case.md) | runtime: 僅核對作者文章與動圖，未執行擴充 |
@@ -408,3 +416,30 @@ Ian 視覺層級 `2124008184063086861`（Kubai RT `2124008455245820268`）、既
 - `2124087160907403401`：原帖仍只有文章預覽，直接文章頁 HTTP 200 但無可讀全文；維持 pending，保留原缺漏。其餘十二則 pending 未重試。
 
 總候選仍為 277，170 則收錄／合併、94 則排除、13 則待查，共引用 145 張卡片。新增一張、更新零張既有卡片；無新影片或完整提示詞。歷史來源紀錄與完整 published_at 均保留；重試前欄位快照另存 verification_history。來源知識庫、記憶與排程維持唯讀；提交與推送結果以 Git 紀錄為準。以來源 SHA、台帳計數、卡片連結、圖片實際檢視及寫入範圍驗證；無應用功能變更。結果見 `/tmp/nov26-saved-results.json`。
+
+
+## 2026-11-27 增量檢查（saved-source 分工）
+
+唯讀重算全部 118 份來源 SHA-256：新增 `X-2026-11-27.md`，原 117 份未修改，無刪除。新檔 15 則唯一 ID，14 則非 Kubai；其中 7 則具體設計候選已核對官方完整原文與可取得媒體。其餘 7 則為生活、教育工具清單、安裝、基礎設施或能力串接線索，未見足夠具體介面設計，不將私人摘要複製到公開候選台帳。
+
+**上游已恢復**：依主線讀取的 Nov27 上游 final，Chrome／X 正常、無 cap，已補掃至上次成功邊界，追加 15 則與目前來源檔相符。Nov26 的未知狀態保留在歷史紀錄；當前不再標記插件仍不可用，也不宣稱完整 X 帳戶歷史已覆蓋。
+
+新增卡片：
+
+- [Electronics 101：把可操作電路、原理圖與課程放在同一頁](../cases/electronics-101-circuit-linked-explanations/case.md)。
+- [Magazine Layout：以寬度滑桿對照區域重排與 CSS](../cases/magazine-responsive-layout-breakpoint-preview/case.md)。
+- [高山花卉網頁示範：全幅插畫、海拔章節與比較表](../cases/gemini-alpine-essay-editorial-hierarchy/case.md)。
+- [Cindy artifact 預告：在同一工作區切換文件、設計與動效成果](../cases/cindy-artifact-editor-surface-preview/case.md)。
+- [OMNICAD：幾何重播同時呈現實體數與進度](../cases/omnicad-geometry-replay-progress/case.md)。
+- [Alma widget：把生成結果變成對話內可操作的樹狀圖](../cases/alma-inline-interactive-tree-widget/case.md)。
+
+既有 [UI SDK 卡片](../cases/vercel-ui-sdk-composable-interaction-behaviors/case.md)補充宝玉整理與 shadcn 原作者行為組合示意，避免同產品同流程重複建卡；`2126071164044792271` 只補充配音工具鏈，原文核對後不收錄。每段保存的影片均為 3 張影格，無新原始影片或完整提示詞；Cindy 裁去聊天、帳戶頭像與 URL，並明記動效場景尚未生成。
+
+歷史 pending 各一次有界重試：`2106394380299022620` 追到 Alma 作者 `2033111675256324301` 並建卡；`2089329138406760639` 取得當前官方 README 與桌面圖，但歷史版本未核對且含人名訊息，維持 pending、不存入卡片；`2055980925452968351` 原文可讀，文章仍僅預覽／通用頁殼，維持 pending。作者與精確 UTC 發布時間記於各來源及卡片，先前欄位保存在 verification_history。
+
+Kubai `2125599807125561658` 在本檔來源為「点赞、收藏」，已核對官方問題、同頁原作者影片與直接答覆，保存於 `mail-original-translation-switch` 卡片與來源台帳。側欄／Logo 對應 `2126237506362622019 → 2126094700218294448`、`2126204254100848980 → 2086794677693690213` 未出現在目前 X-*.md，沒有新增 saved provenance。
+
+本來源新增7張（含1張歷史回補及1張Kubai共用）、補充1張既有卡；來源、卡片相對連結、作者時間、計數、素材格式及全部來源SHA已驗證，逐帖決策見 `x-saved-posts.json`。無應用功能變更，未修改 KB、記憶或排程。
+
+
+主線補齊Kubai問題出處：`2125599807125561658` 與原作者影片／直接答覆核對，新增[郵件原文與翻譯切換](../cases/mail-original-translation-switch/case.md)，保留問題至影片未返回直接reply-to的缺漏。本來源合計新增7張（含1張歷史回補及1張Kubai共用）、補充1張；12則仍待查。上游已恢復並補掃至前次成功邊界，不能據此宣稱全帳戶歷史完整。
